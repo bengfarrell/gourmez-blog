@@ -3,7 +3,6 @@ title: "Chateau Julian Bordeaux Sec 2008--Wine Review"
 date: "2010-01-29"
 categories:
   - "wine"
-  - "wine"
 tags:
   - "2008-vintage"
   - "appellations"

@@ -3,9 +3,6 @@ title: "Experience the Phantom Wine Story in Your Glass and On Your Phone"
 date: "2019-12-18"
 categories:
   - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
 tags:
   - "app"
   - "augmented-reality"

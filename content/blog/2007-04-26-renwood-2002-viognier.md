@@ -1,10 +1,9 @@
 ---
 title: "Renwood 2002 Viognier"
 date: "2007-04-26"
-categories: 
+categories:
   - "wine"
-  - "wine"
-tags: 
+tags:
   - "2002"
   - "renwood"
 ---

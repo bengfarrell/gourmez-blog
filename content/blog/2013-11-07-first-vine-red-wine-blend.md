@@ -1,10 +1,9 @@
 ---
 title: "First Vine Red Wine Blend"
 date: "2013-11-07"
-categories: 
+categories:
   - "wine"
-  - "wine"
-tags: 
+tags:
   - "cheap-wine"
   - "chemical"
   - "cherry"

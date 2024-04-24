@@ -1,11 +1,9 @@
 ---
 title: "Homewood Winery Merlot Port 2010"
 date: "2014-01-28"
-categories: 
+categories:
   - "wine"
-  - "wine"
-  - "wine"
-tags: 
+tags:
   - "2010"
   - "brown-sugar"
   - "buttery"

@@ -6,10 +6,6 @@ categories:
   - "events"
   - "mead"
   - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
 tags:
   - "enat-winery"
   - "jack-london-square"

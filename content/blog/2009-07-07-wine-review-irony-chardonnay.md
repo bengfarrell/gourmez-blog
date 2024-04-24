@@ -3,8 +3,6 @@ title: "Wine Review--Irony Chardonnay"
 date: "2009-07-07"
 categories:
   - "wine"
-  - "wine"
-  - "wine"
 tags:
   - "chardonnay-review"
   - "creamy-finish"

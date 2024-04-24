@@ -3,7 +3,6 @@ title: "Wine Review--Pancake Cellars 2007 Big Day White"
 date: "2009-05-23"
 categories:
   - "wine"
-  - "wine"
 tags:
   - "big-day-white"
   - "giant-flapjack"

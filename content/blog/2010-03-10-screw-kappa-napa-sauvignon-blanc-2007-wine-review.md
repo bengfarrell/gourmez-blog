@@ -3,7 +3,6 @@ title: "Screw Kappa Napa Sauvignon Blanc 2007---Wine Review"
 date: "2010-03-10"
 categories:
   - "wine"
-  - "wine"
 tags:
   - "2007-vintage"
   - "cream"

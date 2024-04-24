@@ -8,7 +8,6 @@ categories:
   - "wine"
   - "vermentino"
   - "wine"
-  - "wine"
 tags:
   - "apvsa"
   - "armagnac"

@@ -1,10 +1,9 @@
 ---
 title: "Santa Alicia Reserve Carmenere 2005"
 date: "2007-04-26"
-categories: 
+categories:
   - "wine"
-  - "wine"
-tags: 
+tags:
   - "2005"
   - "santa-alicia-reserve"
 ---

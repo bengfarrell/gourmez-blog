@@ -3,7 +3,6 @@ title: "Placido Chianti 2008"
 date: "2010-10-27"
 categories:
   - "wine"
-  - "wine"
 tags:
   - "2008"
   - "apple"

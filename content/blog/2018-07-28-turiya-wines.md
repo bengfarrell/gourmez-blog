@@ -4,9 +4,6 @@ date: "2018-07-28"
 categories:
   - "tasting-rooms"
   - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
   - "tasting-rooms"
   - "wine"
 tags:

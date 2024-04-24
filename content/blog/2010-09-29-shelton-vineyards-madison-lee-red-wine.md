@@ -1,10 +1,9 @@
 ---
 title: "Shelton Vineyards Madison Lee Red Wine"
 date: "2010-09-29"
-categories: 
+categories:
   - "wine"
-  - "wine"
-tags: 
+tags:
   - "dark-chocolate"
   - "east-coast-wines"
   - "madison-lee"

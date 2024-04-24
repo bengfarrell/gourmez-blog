@@ -1,10 +1,9 @@
 ---
 title: "Quarles Harris Ruby Porto"
 date: "2011-01-03"
-categories: 
+categories:
   - "wine"
-  - "wine"
-tags: 
+tags:
   - "boston-dc-san-fran-wine-blog"
   - "brown-sugar"
   - "fig"

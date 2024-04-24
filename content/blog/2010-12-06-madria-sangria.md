@@ -3,7 +3,6 @@ title: "Madria Sangria"
 date: "2010-12-06"
 categories:
   - "wine"
-  - "wine"
 tags:
   - "bottled-sangria"
   - "citrus"

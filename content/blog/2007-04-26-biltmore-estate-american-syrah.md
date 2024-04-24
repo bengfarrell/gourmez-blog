@@ -1,11 +1,10 @@
 ---
 title: "Biltmore Estate American Syrah"
 date: "2007-04-26"
-categories: 
+categories:
+
   - "wine"
-  - "wine"
-  - "wine"
-tags: 
+tags:
   - "biltmore-estate-american-syrah"
 ---
 

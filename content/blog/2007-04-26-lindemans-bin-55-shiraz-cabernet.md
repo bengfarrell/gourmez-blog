@@ -1,12 +1,9 @@
 ---
 title: "Lindemans Bin 55 Shiraz Cabernet"
 date: "2007-04-26"
-categories: 
+categories:
   - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
-tags: 
+tags:
   - "2004"
   - "lindemans-bin-55-shiraz-cabernet"
 ---

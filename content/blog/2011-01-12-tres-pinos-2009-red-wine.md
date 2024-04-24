@@ -1,10 +1,9 @@
 ---
 title: "Tres Pinos 2009 Red Wine"
 date: "2011-01-12"
-categories: 
+categories:
   - "wine"
-  - "wine"
-tags: 
+tags:
   - "2009"
   - "cranberry"
   - "dirt"

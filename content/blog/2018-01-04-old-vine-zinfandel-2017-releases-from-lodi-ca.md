@@ -3,8 +3,6 @@ title: "Old Vine Zinfandel 2017 Releases from Lodi, CA"
 date: "2018-01-04"
 categories:
   - "wine"
-  - "wine"
-  - "wine"
 tags:
   - "lodi-wine"
   - "old-vine-zinfandel"

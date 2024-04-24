@@ -1,10 +1,9 @@
 ---
 title: "Nachtgold Eiswein 2004"
 date: "2007-04-27"
-categories: 
+categories:
   - "wine"
-  - "wine"
-tags: 
+tags:
   - "2004"
   - "eiswein"
   - "nachtgold"

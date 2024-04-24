@@ -3,8 +3,6 @@ title: "Best Wines of Samples Night: Preventing Liquor Cabinet Overflow Since 20
 date: "2017-07-07"
 categories:
   - "wine"
-  - "wine"
-  - "wine"
 tags:
   - "cabernet-franc"
   - "family-cellars"

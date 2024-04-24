@@ -4,12 +4,7 @@ date: "2018-11-02"
 categories:
   - "tasting-rooms"
   - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
   - "tasting-rooms"
-  - "wine"
   - "wine"
 tags:
   - "bodegas-aguirre"

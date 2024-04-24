@@ -1,11 +1,9 @@
 ---
 title: "La Ronescina Pinot Grigio"
 date: "2012-08-29"
-categories: 
+categories:
   - "wine"
-  - "wine"
-  - "wine"
-tags: 
+tags:
   - "cantaloupe"
   - "caramel"
   - "colin-blogs"

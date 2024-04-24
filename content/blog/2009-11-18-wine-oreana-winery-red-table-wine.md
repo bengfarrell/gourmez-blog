@@ -3,7 +3,6 @@ title: "? Wine (Oreana Winery Red Table Wine)"
 date: "2009-11-18"
 categories:
   - "wine"
-  - "wine"
 tags:
   - "grass-notes"
   - "leather-notes"

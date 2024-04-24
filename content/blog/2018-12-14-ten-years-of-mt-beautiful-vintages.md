@@ -5,12 +5,7 @@ categories:
   - "wine"
   - "restaurants"
   - "wine"
-  - "wine"
-  - "wine"
   - "restaurants"
-  - "wine"
-  - "wine"
-  - "wine"
   - "wine"
 tags:
   - "mt-beautiful"

@@ -1,10 +1,9 @@
 ---
 title: "Mauricio Lorca’s Angel’s Reserve Torrontes 2015"
 date: "2016-02-05"
-categories: 
+categories:
   - "wine"
-  - "wine"
-tags: 
+tags:
   - "2015"
   - "lorca"
   - "nakedwines-com"

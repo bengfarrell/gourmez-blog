@@ -1,11 +1,9 @@
 ---
 title: "Red Diamond Shiraz 2009"
 date: "2013-02-19"
-categories: 
+categories:
   - "wine"
-  - "wine"
-  - "wine"
-tags: 
+tags:
   - "anise"
   - "berry"
   - "boysenberry"

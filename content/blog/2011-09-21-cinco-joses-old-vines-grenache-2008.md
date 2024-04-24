@@ -1,10 +1,9 @@
 ---
 title: "Cinco Joses Old Vines Grenache 2008"
 date: "2011-09-21"
-categories: 
+categories:
   - "wine"
-  - "wine"
-tags: 
+tags:
   - "2008"
   - "cinco-joses-old-vines-grenache"
   - "columbia-wine-blog"

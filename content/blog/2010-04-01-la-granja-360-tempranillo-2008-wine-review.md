@@ -3,7 +3,6 @@ title: "La Granja 360 Tempranillo 2008---Wine Review"
 date: "2010-04-01"
 categories:
   - "wine"
-  - "wine"
 tags:
   - "2008"
   - "clove"

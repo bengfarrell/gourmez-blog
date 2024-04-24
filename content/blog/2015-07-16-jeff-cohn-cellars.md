@@ -1,16 +1,11 @@
 ---
 title: "Jeff Cohn Cellars - *MOVED to Napa*"
 date: "2015-07-16"
-categories: 
+categories:
   - "tasting-rooms"
   - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
   - "tasting-rooms"
-tags: 
+tags:
   - "cellars"
   - "iris"
   - "jack-london-square"

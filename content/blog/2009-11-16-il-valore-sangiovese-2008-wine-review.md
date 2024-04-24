@@ -3,7 +3,6 @@ title: "Il Valore Sangiovese 2008 -- Wine Review"
 date: "2009-11-16"
 categories:
   - "wine"
-  - "wine"
 tags:
   - "black-raspberry-note"
   - "clove-note"

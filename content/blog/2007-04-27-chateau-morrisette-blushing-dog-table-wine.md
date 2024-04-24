@@ -3,7 +3,6 @@ title: "Chateau Morrisette Blushing Dog Table Wine"
 date: "2007-04-27"
 categories:
   - "wine"
-  - "wine"
 tags:
   - "blushing-dog-table-wine"
   - "chateau-morrisette"

@@ -4,15 +4,9 @@ date: "2019-08-06"
 categories:
   - "tasting-rooms"
   - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
   - "tasting-rooms"
   - "travel-guides"
-  
-  - "wine"
+
   - "wine"
 tags:
   - "frick-winery"

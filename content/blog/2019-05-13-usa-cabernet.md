@@ -3,8 +3,6 @@ title: "USA Cabernet: \"Rumored to Be Made by American Exceptionalism\""
 date: "2019-05-13"
 categories:
   - "wine"
-  - "wine"
-  - "wine"
 tags:
   - "cabernet"
   - "cabernet-sauvignon"

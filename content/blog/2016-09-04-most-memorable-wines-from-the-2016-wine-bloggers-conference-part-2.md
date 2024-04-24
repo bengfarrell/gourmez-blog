@@ -6,10 +6,7 @@ categories:
   - "spirits"
   - "spirits"
   - "wine"
-  - "wine"
-  - "wine"
   - "spirits"
-  - "wine"
   - "wine"
   - "events"
 tags:

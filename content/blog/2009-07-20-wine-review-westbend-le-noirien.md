@@ -1,10 +1,9 @@
 ---
 title: "Wine Review--Westbend Le Noirien"
 date: "2009-07-20"
-categories: 
+categories:
   - "wine"
-  - "wine"
-tags: 
+tags:
   - "north-carolina-wines"
   - "westbend-vineyards-le-noirien"
   - "yadkin-valley-wines"

@@ -3,7 +3,6 @@ title: "Sterling Vintner's Collection Zinfandel 2006"
 date: "2009-12-30"
 categories:
   - "wine"
-  - "wine"
 tags:
   - "chocolate-notes"
   - "orange-notes"

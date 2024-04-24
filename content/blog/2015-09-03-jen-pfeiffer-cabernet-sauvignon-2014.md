@@ -1,10 +1,9 @@
 ---
 title: "Jen Pfeiffer Cabernet Sauvignon 2014"
 date: "2015-09-03"
-categories: 
+categories:
   - "wine"
-  - "wine"
-tags: 
+tags:
   - "2014"
   - "blackberry"
   - "crumble"

@@ -3,11 +3,8 @@ title: "Highlights of the Livermore Valley Wine Country"
 date: "2016-11-21"
 categories:
   - "wine"
-  - "wine"
-  - "wine"
   - "tasting-rooms"
   - "travel-guides"
-  - "wine"
   - "wine"
   - "events"
 tags:

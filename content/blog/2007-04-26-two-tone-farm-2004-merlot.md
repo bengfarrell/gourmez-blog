@@ -1,11 +1,9 @@
 ---
 title: "Two Tone Farm 2004 Merlot"
 date: "2007-04-26"
-categories: 
+categories:
   - "wine"
-  - "wine"
-  - "wine"
-tags: 
+tags:
   - "2004"
   - "two-tone-farm"
 ---

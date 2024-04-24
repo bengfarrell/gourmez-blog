@@ -3,8 +3,6 @@ title: "The 2017 Vintage Port Preview Tasting"
 date: "2019-09-10"
 categories:
   - "wine"
-  - "wine"
-  - "wine"
 tags:
   - "2017-vintage-port"
   - "dows"

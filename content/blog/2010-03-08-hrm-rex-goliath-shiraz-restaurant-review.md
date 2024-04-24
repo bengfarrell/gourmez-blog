@@ -1,10 +1,9 @@
 ---
 title: "HRM Rex Goliath Shiraz---Wine Review"
 date: "2010-03-08"
-categories: 
+categories:
   - "wine"
-  - "wine"
-tags: 
+tags:
   - "a-votre-sante"
   - "hrm-rex-goliath"
   - "pepper"

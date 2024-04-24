@@ -1,10 +1,9 @@
 ---
 title: "Cava Brut Gran Sarao"
 date: "2011-02-23"
-categories: 
+categories:
   - "wine"
-  - "wine"
-tags: 
+tags:
   - "brut"
   - "bubbly"
   - "crasstalk"

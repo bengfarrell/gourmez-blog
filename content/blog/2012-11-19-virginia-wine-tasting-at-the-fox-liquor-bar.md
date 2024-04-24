@@ -7,10 +7,6 @@ categories:
   - "wine"
   - "events"
   - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
 tags:
   - "barbara-ensrud"
   - "boxwood"

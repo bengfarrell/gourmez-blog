@@ -3,10 +3,7 @@ title: "Black Stallion Estate Wines...and Puzzles!"
 date: "2020-08-21"
 categories:
   - "wine"
-  - "wine"
-  - "wine"
   - "tasting-rooms"
-  - "wine"
   - "wine"
 tags:
   - "black-stallion-estate-winery"

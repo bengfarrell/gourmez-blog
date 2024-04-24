@@ -3,10 +3,9 @@ title: "A Picnic Lunch and Overnight Stay at Jordan Winery"
 date: "2019-10-04"
 categories:
   - "wine"
-  - "wine"
   - "restaurants"
   - "events"
-  
+
   - "tasting-rooms"
   - "wine"
 tags:

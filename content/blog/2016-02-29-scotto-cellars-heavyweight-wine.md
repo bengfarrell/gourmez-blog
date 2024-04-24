@@ -1,11 +1,9 @@
 ---
 title: "Scotto Cellars Heavyweight Wine"
 date: "2016-02-29"
-categories: 
+categories:
   - "wine"
-  - "wine"
-  - "wine"
-tags: 
+tags:
   - "california-wine"
   - "heavyweight-wines"
   - "wine"

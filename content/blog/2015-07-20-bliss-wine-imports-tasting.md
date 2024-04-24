@@ -3,11 +3,6 @@ title: "Bliss Wine Imports Tasting"
 date: "2015-07-20"
 categories:
   - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
 tags:
   - "alleah-friedrichs"
   - "bay-area"

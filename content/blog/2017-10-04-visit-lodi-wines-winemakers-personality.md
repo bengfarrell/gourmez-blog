@@ -4,18 +4,9 @@ date: "2017-10-04"
 categories:
   - "tasting-rooms"
   - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
   - "tasting-rooms"
   - "travel-guides"
-  
-  - "wine"
-  - "wine"
+
   - "wine"
 tags:
   - "acquiesce"

@@ -3,8 +3,6 @@ title: "Wine Review--Dellatorri Chianti 2007"
 date: "2009-07-17"
 categories:
   - "wine"
-  - "wine"
-  - "wine"
 tags:
   - "cherry"
   - "clove"

@@ -2,12 +2,8 @@
 title: "Bon Affair Sauvignon Blanc"
 date: "2015-09-21"
 categories:
-  
+
   - "product-reviews"
-  - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
   - "wine"
 tags:
   - "a-glass-after-work"

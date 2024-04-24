@@ -3,7 +3,6 @@ title: "Silk Hope Winery NC Traminette 2007"
 date: "2009-02-06"
 categories:
   - "wine"
-  - "wine"
 tags:
   - "silk-hope-winery"
 ---

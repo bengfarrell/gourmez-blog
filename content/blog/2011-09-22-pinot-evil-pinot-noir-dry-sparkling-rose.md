@@ -1,10 +1,9 @@
 ---
 title: "Pinot Evil Pinot Noir Dry Sparkling Rosé"
 date: "2011-09-22"
-categories: 
+categories:
   - "wine"
-  - "wine"
-tags: 
+tags:
   - "dry"
   - "pinot-evil"
   - "pinot-noir-dry-sparkling-rose"

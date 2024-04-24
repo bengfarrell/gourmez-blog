@@ -1,11 +1,9 @@
 ---
 title: "Wine Review--Abrazo Syrah 2007"
 date: "2009-08-05"
-categories: 
+categories:
   - "wine"
-  - "wine"
-  - "wine"
-tags: 
+tags:
   - "abrazo-del-toro"
   - "abrazo-syrah-2007"
   - "bad-spanish-wines"

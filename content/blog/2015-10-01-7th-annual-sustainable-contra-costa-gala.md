@@ -5,11 +5,7 @@ categories:
   - "wine"
   - "restaurants"
   - "events"
-  
-  - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
+
   - "wine"
 tags:
   - "awards"

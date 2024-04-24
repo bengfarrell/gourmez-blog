@@ -3,7 +3,6 @@ title: "Fuerza Blancos 2009"
 date: "2010-05-05"
 categories:
   - "wine"
-  - "wine"
 tags:
   - "2009"
   - "apple"

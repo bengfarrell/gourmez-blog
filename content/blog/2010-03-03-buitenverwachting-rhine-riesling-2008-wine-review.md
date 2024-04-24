@@ -3,7 +3,6 @@ title: "Buitenverwachting Rhine Riesling 2008---Wine Review"
 date: "2010-03-03"
 categories:
   - "wine"
-  - "wine"
 tags:
   - "2008-vintage"
   - "buitenverwachting-rhine-riesling"

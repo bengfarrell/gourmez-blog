@@ -3,8 +3,6 @@ title: "Wine Review--Black Swan Shiraz Cabernet 2008"
 date: "2009-08-31"
 categories:
   - "wine"
-  - "wine"
-  - "wine"
 tags:
   - "australian-wines"
   - "mulberry-nose"

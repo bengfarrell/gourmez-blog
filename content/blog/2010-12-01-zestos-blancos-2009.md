@@ -3,7 +3,6 @@ title: "Zestos Blancos 2009"
 date: "2010-12-01"
 categories:
   - "wine"
-  - "wine"
 tags:
   - "2009"
   - "blancos"

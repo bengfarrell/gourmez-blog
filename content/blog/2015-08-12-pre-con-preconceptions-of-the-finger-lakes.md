@@ -3,7 +3,6 @@ title: "Pre-Con Preconceptions of the Finger Lakes"
 date: "2015-08-12"
 categories:
   - "wine"
-  - "wine"
   - "events"
 tags:
   - "bay-area-wine"

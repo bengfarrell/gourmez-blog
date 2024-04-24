@@ -3,16 +3,10 @@ title: "Prosser Wine Part 2: Best Wines in the Area"
 date: "2016-12-29"
 categories:
   - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
   - "tasting-rooms"
   - "wine"
   - "travel-guides"
-  
-  - "wine"
+
   - "wine"
 tags:
   - "14-hands"

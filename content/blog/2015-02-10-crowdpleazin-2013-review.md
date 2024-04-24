@@ -1,10 +1,9 @@
 ---
 title: "Crowdpleazin 2013"
 date: "2015-02-10"
-categories: 
+categories:
   - "wine"
-  - "wine"
-tags: 
+tags:
   - "2013"
   - "angels"
   - "crowdpleazin"

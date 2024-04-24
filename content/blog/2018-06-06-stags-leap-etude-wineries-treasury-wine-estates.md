@@ -7,12 +7,9 @@ categories:
   - "wine"
   - "restaurants"
   - "wine"
-  - "wine"
-  - "wine"
   - "restaurants"
   - "spirits"
   - "tasting-rooms"
-  - "wine"
   - "wine"
   - "events"
 tags:

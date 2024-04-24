@@ -3,7 +3,6 @@ title: "McWilliams Hanwood Estates Shiraz 2008"
 date: "2010-05-13"
 categories:
   - "wine"
-  - "wine"
 tags:
   - "2008"
   - "cherry"

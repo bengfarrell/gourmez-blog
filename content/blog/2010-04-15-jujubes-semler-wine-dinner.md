@@ -1,14 +1,13 @@
 ---
 title: "Jujube's Semler Wine Dinner"
 date: "2010-04-15"
-categories: 
+categories:
   - "wine"
   - "restaurants"
   - "wine"
   - "restaurants"
   - "wine"
-  - "wine"
-tags: 
+tags:
   - "chapel-hill"
   - "crab-salad-roll"
   - "duck-hoisin-crepe"

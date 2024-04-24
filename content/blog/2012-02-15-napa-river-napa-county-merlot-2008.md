@@ -1,10 +1,9 @@
 ---
 title: "Napa River Napa County Merlot 2008"
 date: "2012-02-15"
-categories: 
+categories:
   - "wine"
-  - "wine"
-tags: 
+tags:
   - "2008"
   - "cheap-wine"
   - "cheap-wine-finder"
@@ -36,7 +35,7 @@ Other Bloggers Thoughts:
 [Cheap Wine Finder](http://www.cheapwinefinder.com/2011/02/2007-napa-river-napa-county-merlot/) on the 2007 vintage
 
 > The color is a see-thru, shiny cherry red. The nose is interesting, some cigar box, a bit of leather, blackberry, plum and smoky bacon fat; I was not expecting that from a $4.99 wine. This a nice, chewy Merlot, not fruit forward like the majority of wine in this price range. There is blackberry and raspberry, vanilla, along with a harder edge of tobacco and Christmas spice. There is a decent is berry and vanilla finish.
-> 
+>
 > Well, I wasn’t expecting a 5 buck Napa Merlot is be a real Napa Merlot. I am sure there are better Napa Merlot’s out there, but the Napa River at 1/10 the price is a solid effort.
 
  _Reviewed 10 Jan 12._

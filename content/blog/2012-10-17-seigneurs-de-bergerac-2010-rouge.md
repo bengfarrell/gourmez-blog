@@ -1,10 +1,9 @@
 ---
 title: "Seigneurs de Bergerac 2010 Rouge"
 date: "2012-10-17"
-categories: 
+categories:
   - "wine"
-  - "wine"
-tags: 
+tags:
   - "2010"
   - "bergerac-wine"
   - "cheap-wine"
@@ -26,7 +25,7 @@ This red wine blend of French varietals has a nose full of leather and strong, j
 
 The Seigneurs de Bergerac Rouge is not overly complex, but it’s a good, everyday red.
 
-[![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif) 
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif "rating_chicken11")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)
 
 Other Bloggers’ Thoughts:
 

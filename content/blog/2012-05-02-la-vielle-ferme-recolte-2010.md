@@ -1,10 +1,9 @@
 ---
 title: "La Vieille Ferme Récolte 2010"
 date: "2012-05-02"
-categories: 
+categories:
   - "wine"
-  - "wine"
-tags: 
+tags:
   - "2010"
   - "black-raspberry"
   - "french-wine"

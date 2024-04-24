@@ -3,7 +3,6 @@ title: "Beringer California Collection Cabernet Sauvignon 2008"
 date: "2010-08-27"
 categories:
   - "wine"
-  - "wine"
 tags:
   - "beringer"
   - "bleach"

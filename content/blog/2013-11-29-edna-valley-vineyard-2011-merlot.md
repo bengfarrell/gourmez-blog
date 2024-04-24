@@ -1,11 +1,9 @@
 ---
 title: "Edna Valley Vineyard 2011 Merlot"
 date: "2013-11-29"
-categories: 
+categories:
   - "wine"
-  - "wine"
-  - "wine"
-tags: 
+tags:
   - "2011"
   - "california"
   - "central-coast"
@@ -29,7 +27,7 @@ This merlot's nose has plastic overtones, but that doesn't stop me from enjoying
 
 You can sink your teeth into this wine. It's fun to drink but not necessarily worth repeating.
 
-[![rating_chicken11](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)](http://www.thegourmez.com/2009/02/barten-guestier-private-selection-merlot-2006/rating_chicken11/) 
+[![rating_chicken11](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_chicken11.gif)](http://www.thegourmez.com/2009/02/barten-guestier-private-selection-merlot-2006/rating_chicken11/)
 
 Other Bloggers' Thoughts:
 

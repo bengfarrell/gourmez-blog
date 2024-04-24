@@ -3,8 +3,6 @@ title: "Get Psyched for WBC16 with Livestreams and Lodi Chardonnay!"
 date: "2016-08-01"
 categories:
   - "wine"
-  - "wine"
-  - "wine"
   - "events"
 tags:
   - "attend-wine-bloggers-conference"

@@ -1,11 +1,9 @@
 ---
 title: "Wente Sauvignon Blanc Louis Mel Estate 2013"
 date: "2016-05-09"
-categories: 
+categories:
   - "wine"
-  - "wine"
-  - "wine"
-tags: 
+tags:
   - "2013"
   - "estate-wine"
   - "livermore"

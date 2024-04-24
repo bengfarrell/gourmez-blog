@@ -1,10 +1,9 @@
 ---
 title: "Arge & Tina Malbec 2009"
 date: "2011-03-16"
-categories: 
+categories:
   - "wine"
-  - "wine"
-tags: 
+tags:
   - "2009"
   - "arge"
   - "arge-tina"

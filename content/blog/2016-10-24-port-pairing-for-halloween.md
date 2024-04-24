@@ -1,11 +1,9 @@
 ---
 title: "Port Pairing for Halloween"
 date: "2016-10-24"
-categories: 
+categories:
   - "wine"
-  - "wine"
-  - "wine"
-tags: 
+tags:
   - "butter-toffee-nuts"
   - "cockburns"
   - "cockburns-special-reserve"

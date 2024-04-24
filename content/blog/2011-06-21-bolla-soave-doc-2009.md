@@ -1,10 +1,9 @@
 ---
 title: "Bolla Soave DOC 2009"
 date: "2011-06-21"
-categories: 
+categories:
   - "wine"
-  - "wine"
-tags: 
+tags:
   - "2009"
   - "bolla-soave"
   - "buttery"

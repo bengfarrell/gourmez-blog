@@ -1,10 +1,9 @@
 ---
 title: "Cocobon 2010 Red Wine"
 date: "2012-06-13"
-categories: 
+categories:
   - "wine"
-  - "wine"
-tags: 
+tags:
   - "2010"
   - "blend"
   - "california"

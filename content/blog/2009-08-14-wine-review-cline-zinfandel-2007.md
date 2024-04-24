@@ -3,8 +3,6 @@ title: "Wine Review--Cline Zinfandel 2007"
 date: "2009-08-14"
 categories:
   - "wine"
-  - "wine"
-  - "wine"
 tags:
   - "cline-zinfandel-2007"
   - "currants"

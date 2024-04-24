@@ -8,8 +8,7 @@ categories:
   - "restaurants"
   - "tasting-rooms"
   - "travel-guides"
-  
-  - "wine"
+
   - "wine"
 tags:
   - "cynthia-cosco"

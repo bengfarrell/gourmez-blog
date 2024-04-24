@@ -1,10 +1,9 @@
 ---
 title: "Two Tone Farm Cabernet Sauvignon 2003"
 date: "2007-04-26"
-categories: 
+categories:
   - "wine"
-  - "wine"
-tags: 
+tags:
   - "2003"
   - "two-tone-farm-cabernet-sauvignon"
 ---

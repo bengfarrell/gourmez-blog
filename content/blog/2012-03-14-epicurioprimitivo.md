@@ -1,10 +1,9 @@
 ---
 title: "Epicurio 2008 Primitivo Di Manduria Vendemmia"
 date: "2012-03-14"
-categories: 
+categories:
   - "wine"
-  - "wine"
-tags: 
+tags:
   - "2008-vintage"
   - "back-to-bacchus"
   - "chocolate"

@@ -1,11 +1,9 @@
 ---
 title: "Lost Vineyards Tempranillo"
 date: "2012-01-04"
-categories: 
+categories:
   - "wine"
-  - "wine"
-  - "wine"
-tags: 
+tags:
   - "blog"
   - "catalayud"
   - "cherry"

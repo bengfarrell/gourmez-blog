@@ -3,7 +3,6 @@ title: "Villa Sonia Pinot Grigio Piave 2008--Wine Review"
 date: "2010-02-16"
 categories:
   - "wine"
-  - "wine"
 tags:
   - "2008-vintage"
   - "casaba"

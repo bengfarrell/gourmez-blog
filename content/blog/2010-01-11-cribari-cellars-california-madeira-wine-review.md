@@ -3,8 +3,6 @@ title: "Cribari Cellars California Madeira -- Wine Review"
 date: "2010-01-11"
 categories:
   - "wine"
-  - "wine"
-  - "wine"
 tags:
   - "apricot-note"
   - "brandy-sauce"

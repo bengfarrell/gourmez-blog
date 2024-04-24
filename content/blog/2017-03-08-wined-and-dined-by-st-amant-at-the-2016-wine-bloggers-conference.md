@@ -4,10 +4,6 @@ date: "2017-03-08"
 categories:
   - "barbera-rose"
   - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
 tags:
   - "amador-county"
   - "awards-banquet"

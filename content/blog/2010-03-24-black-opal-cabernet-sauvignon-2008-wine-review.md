@@ -3,8 +3,6 @@ title: "Black Opal Cabernet Sauvignon 2008---Wine Review"
 date: "2010-03-24"
 categories:
   - "wine"
-  - "wine"
-  - "wine"
 tags:
   - "2008-vintage"
   - "black-opal-cabernet-sauvignon"

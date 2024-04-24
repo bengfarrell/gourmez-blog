@@ -3,13 +3,6 @@ title: "Best Wines on the APVSA Wine Not! Tour"
 date: "2017-08-02"
 categories:
   - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
 tags:
   - "avpsa"
   - "avpsa-wines"

@@ -1,11 +1,9 @@
 ---
 title: "2011 Green Fin Cabernet Sauvignon"
 date: "2013-03-08"
-categories: 
+categories:
   - "wine"
-  - "wine"
-  - "wine"
-tags: 
+tags:
   - "2011"
   - "back-to-bacchus"
   - "blackberry"

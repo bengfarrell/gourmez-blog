@@ -1,10 +1,9 @@
 ---
 title: "Tisdale Pinot Noir (vintage free, yo!)"
 date: "2011-06-13"
-categories: 
+categories:
   - "wine"
-  - "wine"
-tags: 
+tags:
   - "alcohlogers-anonymous"
   - "california"
   - "chocolate"

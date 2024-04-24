@@ -1,11 +1,9 @@
 ---
 title: "Martine Galhoune Moulin 2010 Pinot Noir"
 date: "2011-11-09"
-categories: 
+categories:
   - "wine"
-  - "wine"
-  - "wine"
-tags: 
+tags:
   - "2010-vintage"
   - "cant-stop-wineing"
   - "cheese-n-truffles"
@@ -21,7 +19,7 @@ tags:
 
 The MGM 2010 pinot noir is simple and unassuming and I dig it.
 
-[![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif) 
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif "rating_avocado1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)
 
 Other Bloggers’ Thoughts:
 

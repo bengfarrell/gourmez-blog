@@ -1,11 +1,9 @@
 ---
 title: "2010 Fetzer Crimson Winemaker's Favorite Red Wine Blend"
 date: "2013-11-19"
-categories: 
+categories:
   - "wine"
-  - "wine"
-  - "wine"
-tags: 
+tags:
   - "2010"
   - "blend"
   - "crimson-red"

@@ -3,10 +3,6 @@ title: "2017 White Wines from Sera Fina Cellars"
 date: "2019-06-25"
 categories:
   - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
 tags:
   - "amador-county"
   - "scotto"

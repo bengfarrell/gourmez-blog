@@ -1,11 +1,9 @@
 ---
 title: "Terrenal Tempranillo and Garnacha 2009"
 date: "2011-05-04"
-categories: 
+categories:
   - "wine"
-  - "wine"
-  - "wine"
-tags: 
+tags:
   - "2009"
   - "cheap-wine-finder"
   - "fig"

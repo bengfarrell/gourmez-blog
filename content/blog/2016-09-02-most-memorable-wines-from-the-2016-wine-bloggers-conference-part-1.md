@@ -4,9 +4,6 @@ date: "2016-09-02"
 categories:
   - "cider"
   - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
   - "events"
 tags:
   - "best-wines"

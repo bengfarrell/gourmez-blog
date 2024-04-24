@@ -5,13 +5,10 @@ categories:
   - "tasting-rooms"
   - "restaurants"
   - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
   - "tasting-rooms"
   - "tasting-rooms"
   - "travel-guides"
-  
+
 tags:
   - "acorn-winery"
   - "armida-winery"

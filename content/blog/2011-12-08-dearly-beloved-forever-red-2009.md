@@ -1,11 +1,9 @@
 ---
 title: "Dearly Beloved Forever Red 2009"
 date: "2011-12-08"
-categories: 
+categories:
   - "wine"
-  - "wine"
-  - "wine"
-tags: 
+tags:
   - "2009-vintage"
   - "airing"
   - "bake-like-a-ninja"

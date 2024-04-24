@@ -3,8 +3,6 @@ title: "Masciarelli Montepulciano d'Abruzzo 2006 -- Wine Review"
 date: "2009-12-09"
 categories:
   - "wine"
-  - "wine"
-  - "wine"
 tags:
   - "bald-wine-geek"
   - "leather-nose"

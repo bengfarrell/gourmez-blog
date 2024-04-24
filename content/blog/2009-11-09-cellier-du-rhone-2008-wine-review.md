@@ -3,7 +3,6 @@ title: "Cellier du Rhone 2008-- Wine Review"
 date: "2009-11-09"
 categories:
   - "wine"
-  - "wine"
 tags:
   - "cellier-du-rhone-2008"
   - "cotes-du-rhone"

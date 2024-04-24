@@ -1,10 +1,9 @@
 ---
 title: "Arena Loca Red Ringmaster 2004"
 date: "2007-04-26"
-categories: 
+categories:
   - "wine"
-  - "wine"
-tags: 
+tags:
   - "arena-loca"
   - "ringmaster-2004"
   - "spanish-wine"

@@ -1,16 +1,14 @@
 ---
 title: "Pairing Suggestions for Indaba Wines"
 date: "2015-09-22"
-categories: 
+categories:
   - "announcements"
   - "wine"
-  
+
   - "wine"
   - "product-reviews"
   - "wine"
-  - "wine"
-  - "wine"
-tags: 
+tags:
   - "cape-classics"
   - "contest"
   - "indaba"

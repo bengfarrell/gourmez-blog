@@ -1,11 +1,9 @@
 ---
 title: "Menage a Trois California Red Table Wine 2004"
 date: "2007-04-26"
-categories: 
+categories:
   - "wine"
-  - "wine"
-  - "wine"
-tags: 
+tags:
   - "2004"
   - "california-red-table-wine"
   - "menage-a-trois"

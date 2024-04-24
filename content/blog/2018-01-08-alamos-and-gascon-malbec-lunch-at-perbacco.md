@@ -4,10 +4,7 @@ date: "2018-01-08"
 categories:
   - "restaurants"
   - "wine"
-  - "wine"
   - "restaurants"
-  - "wine"
-  - "wine"
   - "wine"
 tags:
   - "italian"

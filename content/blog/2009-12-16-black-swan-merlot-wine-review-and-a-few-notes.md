@@ -3,8 +3,6 @@ title: "Black Swan Merlot -- Wine Review (and a few notes)"
 date: "2009-12-16"
 categories:
   - "wine"
-  - "wine"
-  - "wine"
 tags:
   - "beef-jerky-notes"
   - "black-swan-merlot"

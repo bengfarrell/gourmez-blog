@@ -4,7 +4,6 @@ date: "2014-08-05"
 categories:
   - "events"
   - "wine"
-  - "wine"
   - "events"
 tags:
   - "appellation"

@@ -1,11 +1,9 @@
 ---
 title: "Exploring Pinot Noir of California"
 date: "2016-10-04"
-categories: 
+categories:
   - "wine"
-  - "wine"
-  - "wine"
-tags: 
+tags:
   - "2014-vintage"
   - "benson-marketing-group"
   - "california"

@@ -5,11 +5,6 @@ categories:
   - "wine"
   - "events"
   - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
   - "events"
 tags:
   - "2005"

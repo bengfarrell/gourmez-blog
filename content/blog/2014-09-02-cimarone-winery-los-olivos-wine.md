@@ -3,8 +3,6 @@ title: "Cimarone Winery"
 date: "2014-09-02"
 categories:
   - "wine"
-  - "wine"
-  - "wine"
   - "tasting-rooms"
   - "travel-guides"
   - "events"

@@ -5,12 +5,7 @@ categories:
   - "wine"
   - "cider"
   - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
   - "travel-guides"
-  - "wine"
   - "wine"
   - "events"
 tags:

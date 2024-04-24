@@ -4,10 +4,7 @@ date: "2018-12-06"
 categories:
   - "tasting-rooms"
   - "wine"
-  - "wine"
-  - "wine"
   - "tasting-rooms"
-  - "wine"
   - "wine"
 tags:
   - "cabernet-sauvignon"

@@ -1,11 +1,9 @@
 ---
 title: "Wine Review--Hanover Park Mourvedre 2005"
 date: "2009-06-24"
-categories: 
+categories:
   - "wine"
-  - "wine"
-  - "wine"
-tags: 
+tags:
   - "hanover-park-mourvedre-2005"
   - "hanover-park-wines"
   - "the-gourmez-wine-review"

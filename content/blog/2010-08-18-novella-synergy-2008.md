@@ -3,7 +3,6 @@ title: "Novella Synergy 2008"
 date: "2010-08-18"
 categories:
   - "wine"
-  - "wine"
 tags:
   - "2008"
   - "de-cantation"

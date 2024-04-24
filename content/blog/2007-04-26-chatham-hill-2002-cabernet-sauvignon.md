@@ -1,11 +1,10 @@
 ---
 title: "Chatham Hill 2002 Cabernet Sauvignon"
 date: "2007-04-26"
-categories: 
+categories:
   - "cabernet-sauvignon"
   - "wine"
-  - "wine"
-tags: 
+tags:
   - "2002"
   - "chatham-hill"
 ---

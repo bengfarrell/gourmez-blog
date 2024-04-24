@@ -1,10 +1,9 @@
 ---
 title: "Taylor Fladgate 10 Year Tawny Port"
 date: "2012-02-22"
-categories: 
+categories:
   - "wine"
-  - "wine"
-tags: 
+tags:
   - "10-year"
   - "crazy-palate"
   - "fig"

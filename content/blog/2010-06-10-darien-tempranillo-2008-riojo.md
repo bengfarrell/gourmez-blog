@@ -3,8 +3,6 @@ title: "Darien Tempranillo 2008 Riojo"
 date: "2010-06-10"
 categories:
   - "wine"
-  - "wine"
-  - "wine"
 tags:
   - "2008-vintage"
   - "bitter-greens"

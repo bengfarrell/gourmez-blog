@@ -3,8 +3,6 @@ title: "A Virtual Taste of TerraNoble Carménère"
 date: "2020-10-10"
 categories:
   - "wine"
-  - "wine"
-  - "wine"
 tags:
   - "carmenere"
   - "chile-wine"

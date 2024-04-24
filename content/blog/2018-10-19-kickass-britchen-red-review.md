@@ -3,10 +3,6 @@ title: "KickAss Britchen Red"
 date: "2018-10-19"
 categories:
   - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
 tags:
   - "aronhill-vineyards"
   - "kickass-britchen-red"

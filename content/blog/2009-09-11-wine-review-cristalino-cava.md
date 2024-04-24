@@ -3,7 +3,6 @@ title: "Wine Review--Cristalino Cava"
 date: "2009-09-11"
 categories:
   - "wine"
-  - "wine"
 tags:
   - "cava-review"
   - "chicken-soup-wine"

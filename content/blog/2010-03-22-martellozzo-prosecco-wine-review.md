@@ -1,10 +1,9 @@
 ---
 title: "Martellozzo Prosecco---Wine Review"
 date: "2010-03-22"
-categories: 
+categories:
   - "wine"
-  - "wine"
-tags: 
+tags:
   - "bubbly"
   - "cork"
   - "drinking-my-way-through-trader-joes-wine"

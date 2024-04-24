@@ -4,12 +4,7 @@ date: "2018-08-27"
 categories:
   - "tasting-rooms"
   - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
   - "tasting-rooms"
-  - "wine"
   - "wine"
 tags:
   - "caviar"

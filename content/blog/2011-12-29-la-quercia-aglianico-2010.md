@@ -1,8 +1,7 @@
 ---
 title: "La Quercia Aglianico 2010"
 date: "2011-12-29"
-categories: 
-  - "wine"
+categories:
   - "wine"
 ---
 

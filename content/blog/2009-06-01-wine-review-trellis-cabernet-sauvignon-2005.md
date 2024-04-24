@@ -3,7 +3,6 @@ title: "Wine Review--Trellis Cabernet Sauvignon 2005"
 date: "2009-06-01"
 categories:
   - "wine"
-  - "wine"
 tags:
   - "cabernet-sauvignon-2005"
   - "mesquite-wine"

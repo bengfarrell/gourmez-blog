@@ -3,10 +3,8 @@ title: "A Sampling of the Perfect Watkins Glen and Eastern Seneca Lake Experienc
 date: "2015-11-03"
 categories:
   - "wine"
-  - "wine"
   - "tasting-rooms"
   - "travel-guides"
-  - "wine"
   - "wine"
   - "events"
 tags:

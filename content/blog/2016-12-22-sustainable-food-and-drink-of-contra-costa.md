@@ -4,12 +4,7 @@ date: "2016-12-22"
 categories:
   - "restaurants"
   - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
   - "restaurants"
-  - "wine"
-  - "wine"
   - "wine"
 tags:
   - "adam-carpenter"

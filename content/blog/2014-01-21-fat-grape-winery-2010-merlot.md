@@ -1,11 +1,9 @@
 ---
 title: "Fat Grape Winery 2010 Merlot"
 date: "2014-01-21"
-categories: 
+categories:
   - "wine"
-  - "wine"
-  - "wine"
-tags: 
+tags:
   - "2010"
   - "boysenberry"
   - "brown-sugar"

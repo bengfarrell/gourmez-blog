@@ -3,7 +3,6 @@ title: "Dow's 10- and 20-Year-Old Tawny Ports"
 date: "2021-04-15"
 categories:
   - "wine"
-  - "wine"
 tags:
   - "10-year"
   - "20-year"

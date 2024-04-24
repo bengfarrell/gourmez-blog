@@ -3,7 +3,6 @@ title: "Evenus 2006 Zinfandel Port"
 date: "2010-06-16"
 categories:
   - "wine"
-  - "wine"
 tags:
   - "2006"
   - "365-sweet-wines-in-365-days"

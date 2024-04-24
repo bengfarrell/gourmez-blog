@@ -1,8 +1,7 @@
 ---
 title: "Gallo Family Vineyards 2006 Cabernet Sauvignon"
 date: "2009-02-06"
-categories: 
-  - "wine"
+categories:
   - "wine"
 ---
 

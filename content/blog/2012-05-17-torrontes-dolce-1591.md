@@ -1,11 +1,9 @@
 ---
 title: "Torrontes Dolce 1591"
 date: "2012-05-17"
-categories: 
+categories:
   - "wine"
-  - "wine"
-  - "wine"
-tags: 
+tags:
   - "1591"
   - "argentina-wines"
   - "cheap-wine-finder"

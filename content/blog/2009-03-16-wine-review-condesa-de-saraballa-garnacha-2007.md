@@ -3,7 +3,6 @@ title: "Wine Review--Condesa de Saraballa Garnacha 2007"
 date: "2009-03-16"
 categories:
   - "wine"
-  - "wine"
 tags:
   - "condesa-de-sarabella"
   - "condesa-de-sarabella-garnacha-2007"

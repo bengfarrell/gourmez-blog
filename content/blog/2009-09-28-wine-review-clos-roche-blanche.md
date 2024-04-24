@@ -1,10 +1,9 @@
 ---
 title: "Wine Review--Clos Roche Blanche"
 date: "2009-09-28"
-categories: 
+categories:
   - "wine"
-  - "wine"
-tags: 
+tags:
   - "clos-roche-blanche"
   - "fresca"
   - "rose-wines"

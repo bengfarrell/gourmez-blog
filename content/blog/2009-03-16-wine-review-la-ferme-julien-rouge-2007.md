@@ -3,8 +3,6 @@ title: "Wine Review--La Ferme Julien Rouge 2007"
 date: "2009-03-16"
 categories:
   - "wine"
-  - "wine"
-  - "wine"
 tags:
   - "la-ferme-julien-rouge-2007"
   - "the-gourmez-wine-review"

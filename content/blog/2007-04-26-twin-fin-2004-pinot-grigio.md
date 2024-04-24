@@ -1,10 +1,9 @@
 ---
 title: "Twin Fin 2004 Pinot Grigio"
 date: "2007-04-26"
-categories: 
+categories:
   - "wine"
-  - "wine"
-tags: 
+tags:
   - "2004"
   - "twin-fin"
 ---

@@ -3,7 +3,6 @@ title: "Dancing Bull Chardonnay 2004 -- Wine Review"
 date: "2009-11-25"
 categories:
   - "wine"
-  - "wine"
 tags:
   - "citrus-notes"
   - "commercial-wine"

@@ -1,14 +1,13 @@
 ---
 title: "Sonoma Valley Portworks Petite Sirah Port 2007"
 date: "2014-09-20"
-categories: 
+categories:
   - "tasting-rooms"
-  - "wine"
   - "wine"
   - "tasting-rooms"
   - "travel-guides"
   - "wine"
-tags: 
+tags:
   - "2007"
   - "butterscotch"
   - "chocolate"

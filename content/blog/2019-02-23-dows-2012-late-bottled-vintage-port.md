@@ -3,7 +3,6 @@ title: "Dow's 2012 Late Bottled Vintage Porto"
 date: "2019-02-23"
 categories:
   - "wine"
-  - "wine"
 tags:
   - "2012"
   - "dows"

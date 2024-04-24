@@ -6,7 +6,6 @@ categories:
   - "restaurants"
   - "restaurants"
   - "wine"
-  - "wine"
 tags:
   - "avesso"
   - "bargain-wines"

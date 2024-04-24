@@ -1,10 +1,9 @@
 ---
 title: "Shannon Ridge Ranch Collection Zinfandel 2008"
 date: "2011-03-02"
-categories: 
+categories:
   - "wine"
-  - "wine"
-tags: 
+tags:
   - "2008"
   - "anise"
   - "blackberry"

@@ -1,10 +1,9 @@
 ---
 title: "Meridian 2006 Dry Rose"
 date: "2007-04-26"
-categories: 
+categories:
   - "wine"
-  - "wine"
-tags: 
+tags:
   - "2006"
   - "dry-rose"
   - "meridian"

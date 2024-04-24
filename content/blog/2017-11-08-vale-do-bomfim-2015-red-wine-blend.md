@@ -1,12 +1,9 @@
 ---
 title: "Vale do Bomfim 2015 Red Wine Blend"
 date: "2017-11-08"
-categories: 
+categories:
   - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
-tags: 
+tags:
   - "2015"
   - "douro"
   - "dow"

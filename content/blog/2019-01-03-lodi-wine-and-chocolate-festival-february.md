@@ -4,15 +4,9 @@ date: "2019-01-03"
 categories:
   - "tasting-rooms"
   - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
   - "tasting-rooms"
   - "travel-guides"
-  
-  - "wine"
-  - "wine"
+
   - "wine"
 tags:
   - "festival"

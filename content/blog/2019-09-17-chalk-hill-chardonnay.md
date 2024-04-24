@@ -3,8 +3,6 @@ title: "Chalk Hill Chardonnay – A tasting"
 date: "2019-09-17"
 categories:
   - "wine"
-  - "wine"
-  - "wine"
 tags:
   - "chalk-hill"
   - "chalk-hill-chardonnay"

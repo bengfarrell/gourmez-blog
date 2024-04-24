@@ -3,13 +3,11 @@ title: "Jujube's Bubbly Recession Wine Dinner"
 date: "2010-12-15"
 categories:
   - "wine"
-  
+
   - "restaurants"
   - "events"
   - "wine"
-  - "wine"
   - "restaurants"
-  - "wine"
   - "wine"
 tags:
   - "adami-garbel-13"

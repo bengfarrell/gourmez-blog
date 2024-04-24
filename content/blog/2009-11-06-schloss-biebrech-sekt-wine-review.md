@@ -1,10 +1,9 @@
 ---
 title: "Schloss Biebrech Sekt -- Wine Review"
 date: "2009-11-06"
-categories: 
+categories:
   - "wine"
-  - "wine"
-tags: 
+tags:
   - "floral-notes"
   - "german-sparkling-wine"
   - "good-wines-under-20"

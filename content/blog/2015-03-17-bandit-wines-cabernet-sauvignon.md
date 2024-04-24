@@ -1,11 +1,9 @@
 ---
 title: "Bandit Wines Cabernet Sauvignon"
 date: "2015-03-17"
-categories: 
+categories:
   - "wine"
-  - "wine"
-  - "wine"
-tags: 
+tags:
   - "bandit"
   - "boxed-wine"
   - "california"

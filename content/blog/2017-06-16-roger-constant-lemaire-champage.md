@@ -3,8 +3,6 @@ title: "Roger Constant Lemaire Champage"
 date: "2017-06-16"
 categories:
   - "wine"
-  - "wine"
-  - "wine"
 tags:
   - "brix-chicks"
   - "champagne"

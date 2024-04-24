@@ -1,11 +1,9 @@
 ---
 title: "Château Ksara 2013 Reserve du Couvent"
 date: "2016-11-25"
-categories: 
+categories:
   - "wine"
-  - "wine"
-  - "wine"
-tags: 
+tags:
   - "bekaa-valley"
   - "chateau-ksara"
   - "lebanese"

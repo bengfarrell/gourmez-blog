@@ -6,8 +6,6 @@ categories:
   - "restaurants"
   - "events"
   - "wine"
-  - "wine"
-  - "wine"
 tags:
   - "angus-barn"
   - "arturo-ciompi"

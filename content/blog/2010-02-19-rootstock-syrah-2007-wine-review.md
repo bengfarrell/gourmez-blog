@@ -3,8 +3,6 @@ title: "Rootstock Syrah 2007--Wine Review"
 date: "2010-02-19"
 categories:
   - "wine"
-  - "wine"
-  - "wine"
 tags:
   - "2007-vintage"
   - "boozing-it"

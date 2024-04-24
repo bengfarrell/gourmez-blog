@@ -3,11 +3,6 @@ title: "San Marcos Creek Wines"
 date: "2018-05-01"
 categories:
   - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
 tags:
   - "cabernet"
   - "paso-robles"

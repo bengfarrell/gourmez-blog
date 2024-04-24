@@ -1,11 +1,9 @@
 ---
 title: "Red Guitar 2005 Navarra"
 date: "2007-04-26"
-categories: 
+categories:
   - "wine"
-  - "wine"
-  - "wine"
-tags: 
+tags:
   - "2005-wine"
   - "red-guitar-navarra"
   - "tempranillo-garnacha"

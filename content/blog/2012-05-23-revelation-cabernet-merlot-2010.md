@@ -1,11 +1,9 @@
 ---
 title: "Revelation Cabernet-Merlot 2010"
 date: "2012-05-23"
-categories: 
+categories:
   - "wine"
-  - "wine"
-  - "wine"
-tags: 
+tags:
   - "2010"
   - "cabernet-merlot"
   - "cheap-wine-snobs"

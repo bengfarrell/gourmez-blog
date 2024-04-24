@@ -1,10 +1,9 @@
 ---
 title: "Barten & Guestier Private Selection Merlot 2006"
 date: "2009-02-06"
-categories: 
+categories:
   - "wine"
-  - "wine"
-tags: 
+tags:
   - "barten-guestier"
 ---
 

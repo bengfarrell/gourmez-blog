@@ -3,13 +3,6 @@ title: "Left Coast Cellars Wines"
 date: "2017-03-14"
 categories:
   - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
 tags:
   - "bubbly"
   - "calis-cuvee"

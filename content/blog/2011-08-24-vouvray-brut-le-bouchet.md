@@ -1,12 +1,9 @@
 ---
 title: "Vouvray Brut Le Bouchet"
 date: "2011-08-24"
-categories: 
+categories:
   - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
-tags: 
+tags:
   - "almond"
   - "brut"
   - "grapefruit"

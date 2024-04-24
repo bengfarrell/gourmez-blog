@@ -1,11 +1,9 @@
 ---
 title: "Randall Grahm’s Uncle Louie Vineyard Zinfandel 2013"
 date: "2015-06-26"
-categories: 
+categories:
   - "wine"
-  - "wine"
-  - "wine"
-tags: 
+tags:
   - "2013"
   - "bonny-doon"
   - "california"

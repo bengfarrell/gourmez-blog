@@ -1,10 +1,9 @@
 ---
 title: "Pacific Rim Dry Riesling"
 date: "2007-04-27"
-categories: 
+categories:
   - "wine"
-  - "wine"
-tags: 
+tags:
   - "dry-riesling"
   - "pacific-rim"
 ---

@@ -3,16 +3,11 @@ title: "A Vintner’s Village Vacation in Prosser Wine Country"
 date: "2017-05-30"
 categories:
   - "wine"
-  - "wine"
-  - "wine"
   - "restaurants"
-  - "wine"
-  - "wine"
   - "wine"
   - "tasting-rooms"
   - "travel-guides"
-  
-  - "wine"
+
   - "wine"
 tags:
   - "7-gables"

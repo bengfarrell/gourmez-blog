@@ -3,7 +3,6 @@ title: "Wine Review--Snapping Turtle Merlot 2007"
 date: "2009-09-16"
 categories:
   - "wine"
-  - "wine"
 tags:
   - "curry-nose"
   - "dijon-note"

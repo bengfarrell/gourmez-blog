@@ -1,12 +1,9 @@
 ---
 title: "Goats in Villages Shiraz Pinotage"
 date: "2013-10-15"
-categories: 
+categories:
   - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
-tags: 
+tags:
   - "blackberry"
   - "christine-ashworth"
   - "frugal-oenologist"

@@ -3,8 +3,6 @@ title: "Arrogant Frog 2008 Lily Pad Red"
 date: "2010-11-05"
 categories:
   - "wine"
-  - "wine"
-  - "wine"
 tags:
   - "2008"
   - "arrogant-frog"

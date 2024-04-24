@@ -3,11 +3,6 @@ title: "Sunny with a Chance of Flowers Wines"
 date: "2020-12-04"
 categories:
   - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
 tags:
   - "better-for-you-wines"
   - "california-wine"

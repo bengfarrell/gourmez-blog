@@ -3,8 +3,6 @@ title: "Légende Wines"
 date: "2019-04-17"
 categories:
   - "wine"
-  - "wine"
-  - "wine"
 tags:
   - "bordeaux"
   - "lafite"

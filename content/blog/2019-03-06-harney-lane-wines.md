@@ -3,9 +3,6 @@ title: "Harney Lane Wines"
 date: "2019-03-06"
 categories:
   - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
 tags:
   - "chardonnay"
   - "harney-lane"

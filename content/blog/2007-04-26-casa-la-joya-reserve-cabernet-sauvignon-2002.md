@@ -1,11 +1,9 @@
 ---
 title: "Casa La Joya Reserve Cabernet Sauvignon 2002"
 date: "2007-04-26"
-categories: 
+categories:
   - "wine"
-  - "wine"
-  - "wine"
-tags: 
+tags:
   - "2002"
   - "casa-la-joya-reserve"
   - "chilean-wines"

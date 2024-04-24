@@ -1,11 +1,9 @@
 ---
 title: "Lost Sonnet Meritage 2007"
 date: "2011-05-25"
-categories: 
+categories:
   - "wine"
-  - "wine"
-  - "wine"
-tags: 
+tags:
   - "2007"
   - "beards-and-bellies"
   - "berry"

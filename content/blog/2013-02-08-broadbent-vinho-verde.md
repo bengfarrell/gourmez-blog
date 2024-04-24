@@ -1,11 +1,9 @@
 ---
 title: "Broadbent Vinho Verde"
 date: "2013-02-08"
-categories: 
+categories:
   - "wine"
-  - "wine"
-  - "wine"
-tags: 
+tags:
   - "bianca-blanca-rioja"
   - "boise-weekly"
   - "broadbent"

@@ -3,8 +3,6 @@ title: "Bravante Vineyards Wines"
 date: "2019-02-27"
 categories:
   - "wine"
-  - "wine"
-  - "wine"
 tags:
   - "bordeaux"
   - "bravante"

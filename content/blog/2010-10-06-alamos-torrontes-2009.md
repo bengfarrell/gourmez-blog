@@ -3,7 +3,6 @@ title: "Alamos Torrontes 2009"
 date: "2010-10-06"
 categories:
   - "wine"
-  - "wine"
 tags:
   - "2009"
   - "alamos-torrontes"

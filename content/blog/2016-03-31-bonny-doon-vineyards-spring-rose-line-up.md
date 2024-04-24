@@ -1,14 +1,9 @@
 ---
 title: "Bonny Doon Vineyard’s Spring Rosé Line-Up"
 date: "2016-03-31"
-categories: 
+categories:
   - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
-tags: 
+tags:
   - "a-proper-pink"
   - "bonny-doon"
   - "bonny-doon-vineyards-rose"

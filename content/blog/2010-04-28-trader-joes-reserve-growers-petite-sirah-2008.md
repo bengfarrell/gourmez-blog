@@ -3,7 +3,6 @@ title: "Trader Joe's Reserve Growers Petite Sirah 2008"
 date: "2010-04-28"
 categories:
   - "wine"
-  - "wine"
 tags:
   - "2008-raspberry"
   - "anise"

@@ -1,12 +1,9 @@
 ---
 title: "An Intro to Henry Matthes Vineyards"
 date: "2016-05-25"
-categories: 
+categories:
   - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
-tags: 
+tags:
   - "backyard-vineyard"
   - "estate-grown"
   - "grapevines"

@@ -3,7 +3,6 @@ title: "Vida Organica Torrontes 2008---Wine Review"
 date: "2010-04-07"
 categories:
   - "wine"
-  - "wine"
 tags:
   - "2008-vintage"
   - "bon-gourmet-blog"

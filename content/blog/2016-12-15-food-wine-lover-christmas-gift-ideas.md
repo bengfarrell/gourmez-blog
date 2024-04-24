@@ -3,9 +3,6 @@ title: "Food and Wine Lover Christmas Gift Ideas"
 date: "2016-12-15"
 categories:
   - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
 tags:
   - "christmas-gift-ideas"
   - "foodie-gifts"

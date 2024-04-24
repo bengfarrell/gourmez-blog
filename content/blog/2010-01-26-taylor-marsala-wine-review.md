@@ -3,8 +3,6 @@ title: "Taylor Marsala -- Wine Review"
 date: "2010-01-26"
 categories:
   - "wine"
-  - "wine"
-  - "wine"
 tags:
   - "dessert-wine"
   - "finger-lakes-wine"

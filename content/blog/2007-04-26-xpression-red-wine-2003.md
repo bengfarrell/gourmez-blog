@@ -1,10 +1,9 @@
 ---
 title: "Xpression Red Wine 2003"
 date: "2007-04-26"
-categories: 
+categories:
   - "wine"
-  - "wine"
-tags: 
+tags:
   - "2003"
   - "xpression-red-wine"
 ---

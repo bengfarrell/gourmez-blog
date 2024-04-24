@@ -1,11 +1,9 @@
 ---
 title: "Yellowtail Shiraz Grenache 2010"
 date: "2012-01-18"
-categories: 
+categories:
   - "wine"
-  - "wine"
-  - "wine"
-tags: 
+tags:
   - "2010"
   - "bitter"
   - "blueberry"
@@ -25,7 +23,7 @@ tags:
 
 None of that combines especially well. It’s not horrible, but it’s not far off, either.
 
-[![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif) 
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif "rating_olive1")](http://s3.amazonaws.com/thegourmez-wpmedia/2009/04/rating_olive1.gif)
 
 Other Bloggers’ Thoughts:
 

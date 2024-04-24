@@ -1,11 +1,9 @@
 ---
 title: "Trader Joe’s Petit Reserve Rose 2009"
 date: "2011-02-16"
-categories: 
+categories:
   - "wine"
-  - "wine"
-  - "wine"
-tags: 
+tags:
   - "2009-vintage"
   - "film-2"
   - "filmy"

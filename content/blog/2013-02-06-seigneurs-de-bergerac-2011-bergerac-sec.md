@@ -1,12 +1,9 @@
 ---
 title: "Seigneurs de Bergerac 2011 Bergerac Sec"
 date: "2013-02-06"
-categories: 
+categories:
   - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
-tags: 
+tags:
   - "2011"
   - "bergerac-sec"
   - "eat-well-drink-well"

@@ -3,13 +3,9 @@ title: "Uncorked Ventures Wine Club"
 date: "2015-11-09"
 categories:
   - "wine"
-  
-  - "wine"
-  - "wine"
+
   - "wine"
   - "product-reviews"
-  - "wine"
-  - "wine"
   - "wine"
 tags:
   - "bay-area"

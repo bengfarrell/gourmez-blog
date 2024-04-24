@@ -1,10 +1,9 @@
 ---
 title: "Comique Revolution Blanc 2010"
 date: "2012-03-30"
-categories: 
+categories:
   - "wine"
-  - "wine"
-tags: 
+tags:
   - "2010"
   - "butter-cream"
   - "california"

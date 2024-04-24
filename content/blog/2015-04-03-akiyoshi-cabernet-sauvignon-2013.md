@@ -1,11 +1,9 @@
 ---
 title: "Akiyoshi Cabernet Sauvignon 2013"
 date: "2015-04-03"
-categories: 
+categories:
   - "wine"
-  - "wine"
-  - "wine"
-tags: 
+tags:
   - "akiyoshi"
   - "angel"
   - "berry"

@@ -3,7 +3,6 @@ title: "Yellow Jersey Sauvignon Blanc 2007"
 date: "2010-08-30"
 categories:
   - "wine"
-  - "wine"
 tags:
   - "2007"
   - "butterscotch"

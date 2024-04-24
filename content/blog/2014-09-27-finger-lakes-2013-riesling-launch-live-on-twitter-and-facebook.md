@@ -1,13 +1,10 @@
 ---
 title: "Finger Lakes 2013 Riesling Launch--Live! On Twitter and Facebook"
 date: "2014-09-27"
-categories: 
-  - "wine"
-  - "wine"
-  - "wine"
+categories:
   - "wine"
   - "events"
-tags: 
+tags:
   - "2013"
   - "buitenverwachting-rhine"
   - "chateau-lafayette-renaeu"

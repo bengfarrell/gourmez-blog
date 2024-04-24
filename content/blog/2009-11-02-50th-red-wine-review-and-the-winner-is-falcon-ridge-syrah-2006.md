@@ -1,10 +1,9 @@
 ---
 title: "50th Red Wine Review! And the winner is . . . Falcon Ridge Syrah 2006."
 date: "2009-11-02"
-categories: 
+categories:
   - "wine"
-  - "wine"
-tags: 
+tags:
   - "acidic-wine"
   - "blackberry-jam-notes"
   - "falcon-ridge-syrah-2006"
@@ -33,7 +32,7 @@ Wine: **Falcon Ridge Syrah 2006** Region: Central Coast, CA
 Jason @ [Jason’s Wine Blog](http://jasonswineblog.com/2008/06/14/2006-falcon-ridge-syrah/)
 
 > Upon opening it you were greeted with a spicy nose, heavy in tannins. On the palate black fruit was apparent early but quickly disappeared and left you with a mineralish finish again heavy in tannins. Think they did some work on this one in the lab. I certainly can’t recommend it, especially with this Gravity Hills Syrah available.
-> 
+>
 > Rating: Skip It
 
 _Reviewed by The Gourmez on 10.11.09._

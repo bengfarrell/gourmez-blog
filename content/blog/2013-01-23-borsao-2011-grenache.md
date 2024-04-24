@@ -1,10 +1,9 @@
 ---
 title: "Borsao 2011 Grenache"
 date: "2013-01-23"
-categories: 
+categories:
   - "wine"
-  - "wine"
-tags: 
+tags:
   - "2011"
   - "blueberry"
   - "borja"

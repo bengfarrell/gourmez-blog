@@ -5,8 +5,6 @@ categories:
   - "wine"
   - "restaurants"
   - "wine"
-  - "wine"
-  - "wine"
 tags:
   - "bellota"
   - "bodegas-lan"

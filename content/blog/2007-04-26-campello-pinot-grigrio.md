@@ -3,7 +3,6 @@ title: "Campello Pinot Grigrio"
 date: "2007-04-26"
 categories:
   - "wine"
-  - "wine"
 tags:
   - "campello"
 ---

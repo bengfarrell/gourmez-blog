@@ -3,11 +3,6 @@ title: "On the Go with Anywhere Cellars and Heavyweight Wines!"
 date: "2017-09-15"
 categories:
   - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
 tags:
   - "anywhere-cellars"
   - "cabernet"

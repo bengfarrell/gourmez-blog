@@ -1,11 +1,9 @@
 ---
 title: "Pickberry Vineyard Merlot 2013"
 date: "2015-07-08"
-categories: 
+categories:
   - "wine"
-  - "wine"
-  - "wine"
-tags: 
+tags:
   - "2013"
   - "angel"
   - "california"
@@ -51,15 +49,15 @@ I’d probably have liked it better with less of a mushroom presence—I am what
 Jeremy, [a NakedWines.Com Angel](https://us.nakedwines.com/wines/jim-olsen-and-tom-shula-merlot-2013.htm)
 
 > In my opinion this Merlot is at the absolute top of its game. Normally I find the varietal soft and uninspiring when bottled singularly. Jim and Tom’s Pickberry, however, is the furthest from that I could ever imagine. It is polished, structured, and expressive in an unexpected manner, but it has allowed me to truly grasp the potential of the grape.
-> 
+>
 > _Appearance:_ Inky, deep and rich, almost to the point of brooding, reminded me of a Malbec. Very shocking for a Merlot based on my past experiences.
-> 
+>
 > _Nose:_ Ultra dark chocolate (90%+ cacao), earth, dark berries and a hint of spice, perhaps a touch of leather.
-> 
+>
 > _Taste:_ Lush dark fruit, blackberry, dark raspberry, cacao, finishes with mild spices. The mouth feel is divine. The initial cacao dryness lends way to the lush juicy fruit which leads into a touch of acidity that can be felt on the sides of the tongue but finishes dry, though not tannic in any way.
-> 
+>
 > I’m not sure I have had a Merlot that was as exquisitely crafted and babied as this. I don’t say this often, but this was a wine I will remember in detail for years to come. It is one of THOSE bottles.
-> 
+>
 > Drinking this bottle was itself an experience to be savored (and I did) as each sip was as spectacular as the next all the way to the end of the bottle. I was quite sad when the bottle was empty. All joking aside I poured every last drop out of this bottle.
 
 Needless to say, I was not as enthused as other reviewers! This wine is currently out of stock at NakedWines.Com. It’s a solid wine, just not one that agreed with my taste buds.

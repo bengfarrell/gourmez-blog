@@ -3,7 +3,6 @@ title: "W. & J. Graham’s “Six Grapes” Special River Quintas Edition Reserv
 date: "2020-09-27"
 categories:
   - "wine"
-  - "wine"
 tags:
   - "douro"
   - "nonvintage"

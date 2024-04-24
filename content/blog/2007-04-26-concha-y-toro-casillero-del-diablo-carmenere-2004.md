@@ -1,11 +1,9 @@
 ---
 title: "Concha y Toro Casillero del Diablo Carmenere 2004"
 date: "2007-04-26"
-categories: 
+categories:
   - "wine"
-  - "wine"
-  - "wine"
-tags: 
+tags:
   - "2004"
   - "casillero-del-diablo-carmenere"
   - "concha-y-toro"

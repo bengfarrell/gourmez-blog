@@ -1,11 +1,9 @@
 ---
 title: "St. Somewhere Petit Verdot 2010"
 date: "2012-08-24"
-categories: 
+categories:
   - "wine"
-  - "wine"
-  - "wine"
-tags: 
+tags:
   - "2010"
   - "ash"
   - "berry"

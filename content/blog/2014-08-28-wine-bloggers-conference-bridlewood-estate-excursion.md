@@ -3,7 +3,6 @@ title: "WBC14: Bridlewood Estate Excursion"
 date: "2014-08-28"
 categories:
   - "wine"
-  - "wine"
   - "events"
 tags:
   - "2014"

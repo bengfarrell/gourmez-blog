@@ -1,10 +1,9 @@
 ---
 title: "Three Knights Russian River Merlot 2006"
 date: "2011-01-05"
-categories: 
+categories:
   - "wine"
-  - "wine"
-tags: 
+tags:
   - "2006"
   - "blueberry"
   - "boysenberry"

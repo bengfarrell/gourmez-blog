@@ -3,7 +3,6 @@ title: "Augey Red Bordeaux 2007"
 date: "2010-07-21"
 categories:
   - "wine"
-  - "wine"
 tags:
   - "2007"
   - "augey-bordeaux"

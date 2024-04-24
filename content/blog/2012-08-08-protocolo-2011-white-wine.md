@@ -1,11 +1,9 @@
 ---
 title: "Protocolo 2011 White Wine"
 date: "2012-08-08"
-categories: 
+categories:
   - "wine"
-  - "wine"
-  - "wine"
-tags: 
+tags:
   - "2011"
   - "amandas-wine-blog"
   - "blend"

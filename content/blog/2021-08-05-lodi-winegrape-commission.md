@@ -5,12 +5,6 @@ categories:
   - "wine"
   - "events"
   - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
 tags:
   - "30-years"
   - "anniversary"

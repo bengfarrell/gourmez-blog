@@ -1,15 +1,10 @@
 ---
 title: "3 Best Wines at Urban Vines"
 date: "2016-06-24"
-categories: 
+categories:
   - "events"
   - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
-tags: 
+tags:
   - "african-american-winemakers"
   - "best-wines"
   - "crumble-and-whisk"
@@ -64,7 +59,7 @@ I've always been a red blend fan and I'm delighted to add another to my repertoi
 I think it's fantastic that most of these wines are pretty affordable, too. But wine was not my only discovery at Urban Vines. There's also the matter of cheesecake.
 
 > [Crumble & Whisk serves up delish personal cheesecakes in homemade style. Marbled chocolate with espresso swirl was best! 😋🍰 \_\_\_\_\_ #foodie #foodpic #instafood #eeeeeats #dessert #cheesecake #bayarea](https://www.instagram.com/p/BG9zFbiwQhg/)
-> 
+>
 > A photo posted by Becca Gomez Farrell (@thegourmez) on Jun 22, 2016 at 10:44am PDT
 
 [Crumble & Whisk Patisserie](http://crumbleandwhisk.com/), based in San Francisco, brought a delicious variety of mini-cheesecakes, and I thought they were awesome. I don't always think homemade is best, but baker and owner Charles Farrier captures that feeling in all the right ways, especially in the warm toastiness of his graham cracker crusts--an atmospheric feat for a cold treat! We had the Madagascar vanilla, which featured a tasty bourbon-caramel glaze, and the chocolate marble with an espresso swirl. The texture straddled the line between cream cheese pie and NY-style cheesecake. Each one lasted a good four bites, though they were smaller than his standard 3-inch mini-cheesecakes. Available to order in all sizes from the website linked above.

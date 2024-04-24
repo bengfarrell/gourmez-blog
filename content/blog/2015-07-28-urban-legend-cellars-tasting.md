@@ -1,15 +1,13 @@
 ---
 title: "Urban Legend Cellars Tasting"
 date: "2015-07-28"
-categories: 
+categories:
   - "wine"
   - "tasting-rooms"
   - "wine"
-  - "wine"
   - "tasting-rooms"
   - "wine"
-  - "wine"
-tags: 
+tags:
   - "cellars"
   - "cheval-dacier"
   - "draft-wine"

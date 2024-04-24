@@ -1,12 +1,9 @@
 ---
 title: "Extremely Rare Rare Red 2012 Black Blend"
 date: "2016-07-15"
-categories: 
+categories:
   - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
-tags: 
+tags:
   - "2012"
   - "black-blend"
   - "extremely-rare-rare-red"

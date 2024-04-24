@@ -3,8 +3,6 @@ title: "Graham’s Six Grapes Reserve Port"
 date: "2017-02-24"
 categories:
   - "wine"
-  - "wine"
-  - "wine"
 tags:
   - "douro"
   - "grahams"

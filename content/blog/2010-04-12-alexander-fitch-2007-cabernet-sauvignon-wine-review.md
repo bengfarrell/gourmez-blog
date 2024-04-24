@@ -3,8 +3,6 @@ title: "Alexander & Fitch 2007 Cabernet Sauvignon---Wine Review"
 date: "2010-04-12"
 categories:
   - "wine"
-  - "wine"
-  - "wine"
 tags:
   - "2007-vintage"
   - "alexander-fitch-cabernet-sauvignon"

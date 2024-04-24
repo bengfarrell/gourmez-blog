@@ -1,11 +1,9 @@
 ---
 title: "Le Faux Frog Apropos 2003 Syrah"
 date: "2007-04-26"
-categories: 
+categories:
   - "wine"
-  - "wine"
-  - "wine"
-tags: 
+tags:
   - "2003"
   - "le-faux-frog-apropos-syrah"
 ---

@@ -1,11 +1,9 @@
 ---
 title: "Primal Roots 2010 Red Blend"
 date: "2012-12-31"
-categories: 
+categories:
   - "wine"
-  - "wine"
-  - "wine"
-tags: 
+tags:
   - "2010"
   - "airing"
   - "black-raspberry"
@@ -35,7 +33,7 @@ Other Bloggers’ Thoughts:
 [Bob’s Brew and Liquor Reviews](http://www.bobsbrewandliquorreviews.com/2012/11/primal-roots-red-blend.html)
 
 > The 2010 Primal Roots Red Blend pours a surprisingly dark garnet color with aromas of raspberry jam and vanilla.  Tasting brings sweet strawberries, raspberry jelly, and a soft bit of vanilla and mocha lingering throughout.
-> 
+>
 > This isn't a bad blend, especially being under $10.  It is a touch sweeter than I was expecting, but there is a good bit of underlying dry mocha notes that really keep it from being overly fruity and sweet.  All in all, not a bad everyday type of wine, if not a bit too straightforward.
 
 [The Wine Commonsewer](http://www.winecommonsewer.com/the_wine_commonsewer/2012/01/2010-primal-roots-red-blend.html)

@@ -1,10 +1,9 @@
 ---
 title: "Trader Joe's Grande Reserve Carneros Pinot Noir 2011"
 date: "2013-04-26"
-categories: 
+categories:
   - "wine"
-  - "wine"
-tags: 
+tags:
   - "2011"
   - "berry"
   - "boysenberry"
@@ -30,7 +29,7 @@ I tasted this wine before purchasing it at Trader Joe's, and I'm glad the sample
 
 I will call this a gateway wine, one with no dryness so the uninitiated will think only of those bright boysenberries and how delicious it is. Could it be more complex? Of course, but I'm smiling as I drink it.
 
-[![rating_avocado1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)](http://www.thegourmez.com/2009/02/restaurant-review-nanas-durham/rating_avocado1/) 
+[![rating_avocado1](http://s3.amazonaws.com/thegourmez-wpmedia/2009/02/rating_avocado1.gif)](http://www.thegourmez.com/2009/02/restaurant-review-nanas-durham/rating_avocado1/)
 
 Other Bloggers' Thoughts:
 

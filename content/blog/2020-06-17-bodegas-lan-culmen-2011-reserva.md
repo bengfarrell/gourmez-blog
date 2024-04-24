@@ -3,8 +3,6 @@ title: "Bodegas LAN Culmen 2011 Reserva"
 date: "2020-06-17"
 categories:
   - "wine"
-  - "wine"
-  - "wine"
 tags:
   - "bodegas-lan"
   - "bodegas-lan-culmen-2011-reserva"

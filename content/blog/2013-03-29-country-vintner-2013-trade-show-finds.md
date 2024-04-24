@@ -2,17 +2,10 @@
 title: "Country Vintner 2013 Trade Show Finds"
 date: "2013-03-29"
 categories:
-  
+
   - "events"
   - "wine"
-  - "wine"
-  - "wine"
   - "product-reviews"
-  - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
-  - "wine"
   - "wine"
 tags:
   - "blanc-2004"
