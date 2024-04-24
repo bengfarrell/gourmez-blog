@@ -1,5 +1,5 @@
 ---
-title: "The Sustainable Classroom: Coffee &amp; Chocolate"
+title: "The Sustainable Classroom: Coffee & Chocolate"
 date: "2012-11-16"
 categories:
   - "other-businesses"
