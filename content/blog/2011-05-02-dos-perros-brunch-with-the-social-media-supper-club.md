@@ -2,10 +2,10 @@
 title: "Dos Perros Brunch with the Social Media Supper Club"
 date: "2011-05-02"
 categories: 
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "events"
   - "restaurants"
-  - "tequila"
+  - "spirits"
 tags: 
   - "chilaquiles"
   - "churros"

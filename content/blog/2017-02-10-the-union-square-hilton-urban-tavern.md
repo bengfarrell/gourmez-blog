@@ -2,7 +2,7 @@
 title: "The Union Square Hilton’s Urban Tavern"
 date: "2017-02-10"
 categories:
-  - "san-francisco-restaurant-review"
+  - "restaurants"
   - "restaurants"
 tags:
   - "buffalo-chicken-meatballs"

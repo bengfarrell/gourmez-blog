@@ -9,7 +9,7 @@ tags:
   - "nanko-plum"
   - "plum"
   - "plum-sake"
-  - "plum-wine"
+  - "wine"
   - "review"
   - "sake-reviews"
   - "tasting-notes"

@@ -3,7 +3,7 @@ title: "Kahlua Midnight"
 date: "2013-05-03"
 categories:
   - "recipes"
-  - "liqueur-reviews"
+  - "spirits"
 tags:
   - "almond"
   - "black-coffee-liqueur"

@@ -3,7 +3,7 @@ title: "Point Break at the Pinhook"
 date: "2011-06-06"
 categories: 
   - "bars"
-  - "bars-in-durham-nc"
+  - "bars"
   - "spirits"
 tags: 
   - "absolut-citron"

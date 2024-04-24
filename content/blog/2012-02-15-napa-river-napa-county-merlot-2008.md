@@ -2,8 +2,8 @@
 title: "Napa River Napa County Merlot 2008"
 date: "2012-02-15"
 categories: 
-  - "merlot"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
 tags: 
   - "2008"
   - "cheap-wine"

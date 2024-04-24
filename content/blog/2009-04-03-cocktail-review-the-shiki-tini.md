@@ -3,7 +3,7 @@ title: "Cocktail Review--The Shiki Tini"
 date: "2009-04-03"
 categories:
   - "bars"
-  - "bars-in-durham-nc"
+  - "bars"
 tags:
   - "cocktail-review"
   - "cocktails-triangle"

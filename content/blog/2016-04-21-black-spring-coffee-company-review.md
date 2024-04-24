@@ -2,8 +2,8 @@
 title: "Black Spring Coffee Company"
 date: "2016-04-21"
 categories: 
-  - "coffee-shop"
-  - "oakland-coffee-shop-reviews"
+  - "coffee-shops"
+  - "coffee-shops"
 tags: 
   - "black-spring"
   - "coffee"

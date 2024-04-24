@@ -3,9 +3,9 @@ title: "The Sustainable Classroom #3: The Cultivation and Culinary Possibilities
 date: "2012-12-14"
 categories:
   - "events"
-  - "zinfandel"
-  - "chapel-hill-north-carolina-travel"
-  - "travel-product-review"
+  - "wine"
+  - "travel-guides"
+  
   - "wine"
 tags:
   - "2012"

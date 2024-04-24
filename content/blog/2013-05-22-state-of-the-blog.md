@@ -4,7 +4,7 @@ date: "2013-05-22"
 categories:
   - "announcements"
   - "wine"
-  - "writing"
+  - "announcements"
 tags:
   - "announcement"
   - "boardwalk"
@@ -24,7 +24,7 @@ tags:
   - "the-gourmez"
   - "wanderlust"
   - "writers"
-  - "writing"
+  - "announcements"
 ---
 
 I’m moving to California.

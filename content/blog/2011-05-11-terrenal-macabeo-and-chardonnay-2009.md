@@ -2,9 +2,9 @@
 title: "Terrenal Macabeo and Chardonnay 2009"
 date: "2011-05-11"
 categories: 
-  - "chardonnay"
-  - "macabeo-viura"
-  - "white-wine-reviews"
+  - "wine"
+  - "wine"
+  - "wine"
 tags: 
   - "2009"
   - "acidic"

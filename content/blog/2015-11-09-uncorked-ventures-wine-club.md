@@ -2,14 +2,14 @@
 title: "Uncorked Ventures Wine Club"
 date: "2015-11-09"
 categories:
-  - "carignan"
-  - "food-product-review"
-  - "grenache-blanc"
-  - "white-wine-blends"
-  - "pinot-noir"
+  - "wine"
+  
+  - "wine"
+  - "wine"
+  - "wine"
   - "product-reviews"
-  - "red-wine-review"
-  - "white-wine-reviews"
+  - "wine"
+  - "wine"
   - "wine"
 tags:
   - "bay-area"

@@ -2,7 +2,7 @@
 title: "Lucky 32 Southern Kitchen"
 date: "2011-03-01"
 categories:
-  - "raleigh-restaurant-reviews"
+  - "restaurants"
   - "events"
   - "restaurants"
 tags:

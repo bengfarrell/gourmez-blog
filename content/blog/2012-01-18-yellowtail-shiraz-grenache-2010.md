@@ -2,9 +2,9 @@
 title: "Yellowtail Shiraz Grenache 2010"
 date: "2012-01-18"
 categories: 
-  - "garnacha"
-  - "red-wine-review"
-  - "shiraz"
+  - "wine"
+  - "wine"
+  - "wine"
 tags: 
   - "2010"
   - "bitter"

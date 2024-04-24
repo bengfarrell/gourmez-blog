@@ -2,8 +2,8 @@
 title: "Gaetano D’Aquino Chianti 2010"
 date: "2011-10-26"
 categories: 
-  - "chianti"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
 tags: 
   - "2010"
   - "2010-vintage"

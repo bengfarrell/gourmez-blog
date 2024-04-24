@@ -2,8 +2,8 @@
 title: "Wine Review--Chateau Vielle Tour La Roche Bordeaux 2006"
 date: "2009-05-13"
 categories:
-  - "red-bordeaux"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
 tags:
   - "chateau-vielle-tour-la-roche-bordeaux-2006"
   - "gourmez-wine-review"

@@ -2,8 +2,8 @@
 title: "Redwood Creek Pinot Noir 2009"
 date: "2010-07-15"
 categories:
-  - "pinot-noir"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
 tags:
   - "2009-vintage"
   - "adventures-in-9-wines"

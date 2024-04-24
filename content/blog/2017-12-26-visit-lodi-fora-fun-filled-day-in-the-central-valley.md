@@ -3,12 +3,12 @@ title: "Visit Lodi for…a fun-filled day in the Central Valley!"
 date: "2017-12-26"
 categories:
   - "tasting-rooms"
-  - "bars-in-lodi-ca"
-  - "dining-in-lodi-ca"
+  - "bars"
   - "restaurants"
-  - "tasting-rooms-in-lodi-ca"
-  - "lodi-travel"
-  - "travel-product-review"
+  - "restaurants"
+  - "tasting-rooms"
+  - "travel-guides"
+  
 tags:
   - "lodi"
   - "visit-lodi"

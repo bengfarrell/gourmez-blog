@@ -2,7 +2,7 @@
 title: "Spartacus"
 date: "2011-09-29"
 categories: 
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "antipasto"

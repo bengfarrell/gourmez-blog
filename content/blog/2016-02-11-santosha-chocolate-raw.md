@@ -2,7 +2,7 @@
 title: "Santosha Chocolate"
 date: "2016-02-11"
 categories: 
-  - "food-product-review"
+  
   - "product-reviews"
 tags: 
   - "asheville"

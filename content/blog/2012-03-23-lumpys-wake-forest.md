@@ -2,7 +2,7 @@
 title: "Lumpy's Ice Cream"
 date: "2012-03-23"
 categories:
-  - "ice-cream-bakery-food-truck"
+  - "ice-cream-parlors"
   - "ice-cream-parlors"
 tags:
   - "baklava"

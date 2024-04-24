@@ -2,7 +2,7 @@
 title: "Wimpy's Grill"
 date: "2012-08-22"
 categories: 
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "biscuits"

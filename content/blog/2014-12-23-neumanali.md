@@ -2,7 +2,7 @@
 title: "Neumanali"
 date: "2014-12-23"
 categories: 
-  - "hayward-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "b-street"

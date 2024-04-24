@@ -3,8 +3,8 @@ title: "The Floridita at Cuban Revolution"
 date: "2011-07-28"
 categories: 
   - "bars"
-  - "bars-in-durham-nc"
-  - "vermouth"
+  - "bars"
+  - "wine"
 tags: 
   - "bacardi-select"
   - "cocktail"

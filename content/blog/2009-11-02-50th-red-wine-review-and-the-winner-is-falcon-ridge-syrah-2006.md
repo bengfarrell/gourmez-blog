@@ -2,8 +2,8 @@
 title: "50th Red Wine Review! And the winner is . . . Falcon Ridge Syrah 2006."
 date: "2009-11-02"
 categories: 
-  - "red-wine-review"
-  - "shiraz"
+  - "wine"
+  - "wine"
 tags: 
   - "acidic-wine"
   - "blackberry-jam-notes"

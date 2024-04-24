@@ -3,7 +3,7 @@ title: "Fullsteam Brewery"
 date: "2010-11-09"
 categories:
   - "bars"
-  - "breweries-in-durham-nc"
+  - "breweries"
 tags:
   - "barbecue"
   - "basil"

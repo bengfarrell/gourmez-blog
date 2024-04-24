@@ -2,8 +2,8 @@
 title: "Wine Review--Westbend Le Noirien"
 date: "2009-07-20"
 categories: 
-  - "pinot-noir"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
 tags: 
   - "north-carolina-wines"
   - "westbend-vineyards-le-noirien"

@@ -2,8 +2,8 @@
 title: "Santa Cristina Sangiovese 2005"
 date: "2007-04-26"
 categories: 
-  - "red-wine-review"
-  - "sangiovese"
+  - "wine"
+  - "wine"
 tags: 
   - "2005"
   - "santa-cristina"

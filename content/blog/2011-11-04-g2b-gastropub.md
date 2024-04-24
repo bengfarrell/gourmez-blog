@@ -2,7 +2,7 @@
 title: "G2B Gastropub *CLOSED*"
 date: "2011-11-04"
 categories: 
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "arugula-pesto"

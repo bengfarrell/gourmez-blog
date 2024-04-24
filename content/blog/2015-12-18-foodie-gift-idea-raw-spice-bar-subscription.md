@@ -2,7 +2,7 @@
 title: "Foodie Gift Idea: Raw Spice Bar Subscription!"
 date: "2015-12-18"
 categories: 
-  - "food-product-review"
+  
   - "product-reviews"
 tags: 
   - "foodie"

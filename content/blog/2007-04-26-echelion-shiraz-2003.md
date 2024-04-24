@@ -2,8 +2,8 @@
 title: "Echelion Shiraz 2003"
 date: "2007-04-26"
 categories: 
-  - "red-wine-review"
-  - "shiraz"
+  - "wine"
+  - "wine"
   - "wine"
 tags: 
   - "2003"

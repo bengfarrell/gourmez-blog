@@ -2,7 +2,7 @@
 title: "Bakesale Betty"
 date: "2015-11-30"
 categories:
-  - "oakland-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags:
   - "bakesale-betty"

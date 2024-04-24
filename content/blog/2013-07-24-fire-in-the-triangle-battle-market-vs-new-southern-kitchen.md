@@ -5,7 +5,7 @@ categories:
   - "events"
   - "restaurants"
   - "spirits"
-  - "vodka"
+  - "spirits"
 tags:
   - "basil-gin-syrup"
   - "battle"

@@ -3,7 +3,7 @@ title: "Cocktail Review--Wild Mango Lemonade, Connolly's Irish Pub"
 date: "2009-05-06"
 categories:
   - "bars"
-  - "bars-in-cary-nc"
+  - "bars"
 tags:
   - "cary-cocktails"
   - "connollys-irish-pub"

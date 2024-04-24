@@ -2,8 +2,8 @@
 title: "Cava Brut Gran Sarao"
 date: "2011-02-23"
 categories: 
-  - "cava"
-  - "sparkling-wine-review"
+  - "wine"
+  - "wine"
 tags: 
   - "brut"
   - "bubbly"

@@ -2,8 +2,8 @@
 title: "Four Corners Cafe"
 date: "2015-07-13"
 categories: 
-  - "coffee-shop"
-  - "coffee-in-albany"
+  - "coffee-shops"
+  - "coffee-shops"
 tags: 
   - "albany"
   - "breakfast"

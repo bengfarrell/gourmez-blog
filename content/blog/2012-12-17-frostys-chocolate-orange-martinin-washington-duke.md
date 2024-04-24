@@ -4,7 +4,7 @@ date: "2012-12-17"
 categories:
   - "announcements"
   - "recipes"
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags:
   - "bull-durham-bar"

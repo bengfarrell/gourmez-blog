@@ -3,7 +3,7 @@ title: "Serpent's Bite Apple Cider Flavored Whisky"
 date: "2016-03-25"
 categories: 
   - "spirits"
-  - "whiskey-whisky-review"
+  - "spirits"
 tags: 
   - "spirit-reviews"
   - "apple-cider-whisky"

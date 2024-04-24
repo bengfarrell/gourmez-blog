@@ -2,8 +2,8 @@
 title: "Wine Review--Clos Roche Blanche"
 date: "2009-09-28"
 categories: 
-  - "other-rose-blends"
-  - "rose-review"
+  - "wine"
+  - "wine"
 tags: 
   - "clos-roche-blanche"
   - "fresca"

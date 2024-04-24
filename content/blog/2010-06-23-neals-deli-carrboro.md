@@ -2,7 +2,7 @@
 title: "Neal's Deli (Carrboro)"
 date: "2010-06-23"
 categories:
-  - "dining-in-carrboro-nc"
+  - "restaurants"
   - "restaurants"
 tags:
   - "carrboro-lunch"

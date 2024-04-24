@@ -2,7 +2,7 @@
 title: "Skyy Key Lime Pie Martini @ Rockfish (Southpoint, Durham) *CLOSED*"
 date: "2010-02-02"
 categories:
-  - "bars-in-durham-nc"
+  - "bars"
 tags:
   - "durham-cocktail"
   - "key-lime-pie-martini"

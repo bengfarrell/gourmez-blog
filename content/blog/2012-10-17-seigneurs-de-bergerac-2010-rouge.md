@@ -2,8 +2,8 @@
 title: "Seigneurs de Bergerac 2010 Rouge"
 date: "2012-10-17"
 categories: 
-  - "red-bergerac"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
 tags: 
   - "2010"
   - "bergerac-wine"

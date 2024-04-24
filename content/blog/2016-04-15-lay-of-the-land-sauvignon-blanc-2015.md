@@ -2,8 +2,8 @@
 title: "Lay of the Land Sauvignon Blanc 2015"
 date: "2016-04-15"
 categories: 
-  - "sauvignon-blanc"
-  - "white-wine-reviews"
+  - "wine"
+  - "wine"
   - "wine"
 tags: 
   - "2015"

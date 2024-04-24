@@ -2,7 +2,7 @@
 title: "Paris Baguette's New Dublin Store"
 date: "2016-12-07"
 categories:
-  - "dining-in-dublin"
+  - "restaurants"
   - "restaurants"
 tags:
   - "asian"

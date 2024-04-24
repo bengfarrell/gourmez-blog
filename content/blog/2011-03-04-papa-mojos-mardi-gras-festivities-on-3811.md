@@ -2,7 +2,7 @@
 title: "Papa Mojo's Mardi Gras Festivities on 3/8/11"
 date: "2011-03-04"
 categories: 
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "events"
   - "restaurants"
 tags: 

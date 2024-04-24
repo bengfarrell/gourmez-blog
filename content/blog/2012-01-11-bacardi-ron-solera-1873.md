@@ -2,7 +2,7 @@
 title: "Bacardi Ron Solera 1873"
 date: "2012-01-11"
 categories: 
-  - "rum-review"
+  - "spirits"
 tags: 
   - "1873"
   - "aged-rum"

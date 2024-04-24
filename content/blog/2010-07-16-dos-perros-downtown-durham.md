@@ -2,7 +2,7 @@
 title: "Dos Perros (Downtown Durham)"
 date: "2010-07-16"
 categories:
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags:
   - "bunuelos"

@@ -2,9 +2,9 @@
 title: "Extremely Rare Rare Red 2012 Black Blend"
 date: "2016-07-15"
 categories: 
-  - "other-red-blends"
-  - "zinfandel"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
+  - "wine"
   - "wine"
 tags: 
   - "2012"
@@ -13,7 +13,7 @@ tags:
   - "lodi"
   - "rare-label"
   - "rare-wine"
-  - "red-wine-review"
+  - "wine"
   - "scotto-cellars"
   - "tasting-notes"
 ---

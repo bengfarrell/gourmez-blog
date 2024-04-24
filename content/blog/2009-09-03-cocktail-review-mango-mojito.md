@@ -3,7 +3,7 @@ title: "Cocktail Review--Mango Mojito"
 date: "2009-09-03"
 categories:
   - "bars"
-  - "bars-in-durham-nc"
+  - "bars"
 tags:
   - "10-cane-rum"
   - "cocktail-reviews"

@@ -2,7 +2,7 @@
 title: "Jasper's Corner Tap and Kitchen"
 date: "2013-11-12"
 categories:
-  - "san-francisco-restaurant-review"
+  - "restaurants"
   - "restaurants"
 tags:
   - "amaro"

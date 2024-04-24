@@ -2,7 +2,7 @@
 title: "Best New Products at the 2015 Atlanta Coffee Fest"
 date: "2015-03-09"
 categories:
-  - "coffee-shop"
+  - "coffee-shops"
   - "events"
 tags:
   - "2015"

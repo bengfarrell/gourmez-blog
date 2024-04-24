@@ -3,8 +3,8 @@ title: "b. a. b. c. @ Revolution"
 date: "2012-04-23"
 categories: 
   - "bars"
-  - "bars-in-durham-nc"
-  - "bourbon"
+  - "bars"
+  - "spirits"
 tags: 
   - "b-a-b-c"
   - "babc"

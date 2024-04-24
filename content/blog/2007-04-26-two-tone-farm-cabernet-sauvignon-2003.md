@@ -2,8 +2,8 @@
 title: "Two Tone Farm Cabernet Sauvignon 2003"
 date: "2007-04-26"
 categories: 
-  - "cabernet-sauvignon"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
 tags: 
   - "2003"
   - "two-tone-farm-cabernet-sauvignon"

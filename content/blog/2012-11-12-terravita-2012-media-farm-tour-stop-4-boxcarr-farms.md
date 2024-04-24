@@ -2,13 +2,13 @@
 title: "TerraVITA 2012 Media Farm Tour: Stop 4, Boxcarr Farms"
 date: "2012-11-12"
 categories:
-  - "durham-restaurant-reviews"
-  - "events"
-  - "food-trucks-and-carts"
-  - "ice-cream-bakery-food-truck"
   - "restaurants"
-  - "chapel-hill-north-carolina-travel"
-  - "travel-product-review"
+  - "events"
+  - "food-trucks"
+  
+  - "restaurants"
+  - "travel-guides"
+  
 tags:
   - "2012"
   - "ariyeh"

@@ -2,12 +2,12 @@
 title: "Alamos and Gascón Malbec Lunch at Perbacco"
 date: "2018-01-08"
 categories:
-  - "san-francisco-restaurant-review"
-  - "malbec"
-  - "red-wine-review"
   - "restaurants"
-  - "torrontes"
-  - "white-wine-reviews"
+  - "wine"
+  - "wine"
+  - "restaurants"
+  - "wine"
+  - "wine"
   - "wine"
 tags:
   - "italian"

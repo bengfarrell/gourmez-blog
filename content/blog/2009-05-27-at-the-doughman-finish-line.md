@@ -2,7 +2,7 @@
 title: "At the Doughman Finish Line"
 date: "2009-05-27"
 categories: 
-  - "durham-north-carolina-travel"
+  - "travel-guides"
 tags: 
   - "blu-seafood"
   - "competitive-food"

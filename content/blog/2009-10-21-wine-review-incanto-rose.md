@@ -2,8 +2,8 @@
 title: "Wine Review--Incanto Rose"
 date: "2009-10-21"
 categories:
-  - "robaso"
-  - "rose-review"
+  - "wine"
+  - "wine"
 tags:
   - "bubbly-wine"
   - "incanto-rose"

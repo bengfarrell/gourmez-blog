@@ -2,7 +2,7 @@
 title: "Restaurant Review--The Raleigh Times Bar, Downtown Raleigh"
 date: "2009-07-27"
 categories:
-  - "raleigh-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags:
   - "avocado-sandwiches"

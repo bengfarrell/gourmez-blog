@@ -3,7 +3,7 @@ title: "Sidecar (Rockwood Filling Station, Durham) *CLOSED*"
 date: "2007-04-27"
 categories:
   - "bars"
-  - "bars-in-durham-nc"
+  - "bars"
 tags:
   - "durham"
   - "rockwood-filling-station"

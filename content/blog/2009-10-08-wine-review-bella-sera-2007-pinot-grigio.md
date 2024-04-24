@@ -2,8 +2,8 @@
 title: "Wine Review--Bella Sera 2007 Pinot Grigio"
 date: "2009-10-08"
 categories: 
-  - "pinot-grigio-gris"
-  - "white-wine-reviews"
+  - "wine"
+  - "wine"
   - "wine"
 tags: 
   - "bella-sera-2007-pinot-grigio"

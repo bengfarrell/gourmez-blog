@@ -2,8 +2,8 @@
 title: "Cribari Cellars California Madeira -- Wine Review"
 date: "2010-01-11"
 categories:
-  - "fortified-wine"
-  - "madeira"
+  - "wine"
+  - "wine"
   - "wine"
 tags:
   - "apricot-note"

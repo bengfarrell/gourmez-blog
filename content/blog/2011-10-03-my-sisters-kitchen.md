@@ -2,7 +2,7 @@
 title: "My Sister's Kitchen"
 date: "2011-10-03"
 categories: 
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "breakfast"

@@ -3,7 +3,7 @@ title: "Mexican Breeze (Jibarra, Raleigh)"
 date: "2007-04-27"
 categories:
   - "bars"
-  - "bars-in-raleigh-nc"
+  - "bars"
 tags:
   - "agave-tequila"
   - "champagne"

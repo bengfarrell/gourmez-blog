@@ -2,9 +2,9 @@
 title: "Lindemans Bin 55 Shiraz Cabernet"
 date: "2007-04-26"
 categories: 
-  - "cabernet-sauvignon"
-  - "red-wine-review"
-  - "shiraz"
+  - "wine"
+  - "wine"
+  - "wine"
   - "wine"
 tags: 
   - "2004"

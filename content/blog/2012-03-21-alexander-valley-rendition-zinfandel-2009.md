@@ -2,8 +2,8 @@
 title: "Alexander Valley Rendition Zinfandel 2009"
 date: "2012-03-21"
 categories: 
-  - "zinfandel"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
 tags: 
   - "2009"
   - "alexander-valley"

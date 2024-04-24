@@ -2,7 +2,7 @@
 title: "Jamaica Jamaica (Durham) -- Restaurant Review"
 date: "2010-01-20"
 categories: 
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "coco-bread"

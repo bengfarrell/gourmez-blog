@@ -2,7 +2,7 @@
 title: "? Wine (Oreana Winery Red Table Wine)"
 date: "2009-11-18"
 categories:
-  - "other-red-blends"
+  - "wine"
   - "wine"
 tags:
   - "grass-notes"

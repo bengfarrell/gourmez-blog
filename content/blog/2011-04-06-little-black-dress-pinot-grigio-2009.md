@@ -2,8 +2,8 @@
 title: "Little Black Dress Pinot Grigio 2009"
 date: "2011-04-06"
 categories: 
-  - "pinot-grigio-gris"
-  - "white-wine-reviews"
+  - "wine"
+  - "wine"
 tags: 
   - "2009"
   - "bitter"

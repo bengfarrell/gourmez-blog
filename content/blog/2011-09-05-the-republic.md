@@ -3,7 +3,7 @@ title: "The Republic"
 date: "2011-09-05"
 categories: 
   - "bars"
-  - "bars-in-durham-nc"
+  - "bars"
   - "spirits"
 tags: 
   - "bars"

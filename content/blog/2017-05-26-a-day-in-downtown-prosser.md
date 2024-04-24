@@ -3,12 +3,12 @@ title: "A Day in Downtown Prosser"
 date: "2017-05-26"
 categories:
   - "tasting-rooms"
-  - "breweries-in-prosser-wa"
-  - "dining-in-prosser-wa"
+  - "breweries"
   - "restaurants"
-  - "tasting-rooms-in-prosser"
-  - "travel-guide-for-prosser"
-  - "travel-product-review"
+  - "restaurants"
+  - "tasting-rooms"
+  - "travel-guides"
+  
 tags:
   - "alys-means"
   - "andrea-schutt"

@@ -2,8 +2,8 @@
 title: "Wine Review--2007 Trentatre Rosso"
 date: "2009-10-22"
 categories:
-  - "other-red-blends"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
 tags:
   - "date-notes"
   - "oc-wine-and-lifestyle"

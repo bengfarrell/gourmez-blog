@@ -2,8 +2,8 @@
 title: "Trader Joe’s Petit Reserve Rose 2009"
 date: "2011-02-16"
 categories: 
-  - "other-rose-blends"
-  - "rose-review"
+  - "wine"
+  - "wine"
   - "wine"
 tags: 
   - "2009-vintage"

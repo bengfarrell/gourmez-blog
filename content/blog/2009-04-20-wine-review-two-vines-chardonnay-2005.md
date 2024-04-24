@@ -2,8 +2,8 @@
 title: "Wine Review--Two Vines Chardonnay 2005"
 date: "2009-04-20"
 categories:
-  - "chardonnay"
-  - "white-wine-reviews"
+  - "wine"
+  - "wine"
 tags:
   - "minerality"
   - "the-gourmez-wine-review"

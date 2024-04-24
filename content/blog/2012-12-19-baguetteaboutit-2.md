@@ -2,8 +2,8 @@
 title: "Baguetteaboutit"
 date: "2012-12-19"
 categories:
-  - "food-trucks-and-carts"
-  - "ice-cream-bakery-food-truck"
+  - "food-trucks"
+  
 tags:
   - "baguettaboutit"
   - "baguette"

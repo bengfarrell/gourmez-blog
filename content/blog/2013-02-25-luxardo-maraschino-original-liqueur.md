@@ -2,7 +2,7 @@
 title: "Luxardo Maraschino Original Liqueur"
 date: "2013-02-25"
 categories: 
-  - "liqueur-reviews"
+  - "spirits"
 tags: 
   - "almond"
   - "cherry"

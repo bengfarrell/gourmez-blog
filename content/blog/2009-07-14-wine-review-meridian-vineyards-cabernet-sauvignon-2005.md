@@ -2,8 +2,8 @@
 title: "Wine Review--Meridian Vineyards Cabernet Sauvignon 2005"
 date: "2009-07-14"
 categories:
-  - "cabernet-sauvignon"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
   - "wine"
 tags:
   - "meridian-vineyards-cabernet-sauvignon-2005"

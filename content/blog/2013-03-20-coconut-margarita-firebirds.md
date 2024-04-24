@@ -3,7 +3,7 @@ title: "CocoNUT Margarita at Firebirds"
 date: "2013-03-20"
 categories: 
   - "bars"
-  - "bars-in-durham-nc"
+  - "bars"
 tags: 
   - "1800-coconut-tequila"
   - "cocktail"

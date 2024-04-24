@@ -2,8 +2,8 @@
 title: "VINTJS Cabernet Sauvignon 2006"
 date: "2010-08-11"
 categories:
-  - "cabernet-sauvignon"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
 tags:
   - "2006"
   - "allspice"

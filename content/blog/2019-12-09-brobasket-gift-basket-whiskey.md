@@ -4,7 +4,7 @@ date: "2019-12-09"
 categories:
   - "product-reviews"
   - "spirits"
-  - "whiskey-whisky-review"
+  - "spirits"
 tags:
   - "gift-basket"
   - "gift-box"

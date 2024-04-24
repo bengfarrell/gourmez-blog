@@ -2,10 +2,10 @@
 title: "The Hospitality of the Finger Lakes—and Other Reasons to Visit"
 date: "2015-09-10"
 categories:
-  - "travel-guide-for-corning"
-  - "travel-guide-for-the-finger-lakes"
+  - "travel-guides"
+  - "travel-guides"
   - "wine"
-  - "wine-bloggers-conference-2015"
+  - "events"
 tags:
   - "coffee"
   - "corning"

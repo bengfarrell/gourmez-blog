@@ -2,7 +2,7 @@
 title: "Spring Menu at the Fairview Dining Room (Durham)"
 date: "2012-04-04"
 categories:
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags:
   - "artichoke"

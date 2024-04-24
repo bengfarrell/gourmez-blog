@@ -2,8 +2,8 @@
 title: "Monte Antico Red Wine 2003"
 date: "2007-04-26"
 categories: 
-  - "red-wine-review"
-  - "sangiovese"
+  - "wine"
+  - "wine"
 tags: 
   - "2003"
   - "monte-antico-red-wine"

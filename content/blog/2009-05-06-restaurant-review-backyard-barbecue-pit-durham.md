@@ -2,7 +2,7 @@
 title: "Restaurant Review--Backyard Barbecue Pit, Durham"
 date: "2009-05-06"
 categories: 
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "backyard-barbecue-pit"

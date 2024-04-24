@@ -3,7 +3,7 @@ title: "Qahweh @ Sitti"
 date: "2011-02-07"
 categories: 
   - "bars"
-  - "bars-in-raleigh-nc"
+  - "bars"
 tags: 
   - "beans"
   - "cocktail"

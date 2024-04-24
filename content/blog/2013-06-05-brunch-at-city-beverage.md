@@ -2,7 +2,7 @@
 title: "Brunch at City Beverage"
 date: "2013-06-05"
 categories: 
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "bloody-mary"

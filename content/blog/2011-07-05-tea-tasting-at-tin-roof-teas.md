@@ -2,11 +2,11 @@
 title: "Tea Tasting at Tin Roof Teas"
 date: "2011-07-05"
 categories:
-  - "beverage-product-review"
-  - "beverages-to-go"
+  - "tea"
+  
   - "events"
-  - "ice-cream-bakery-food-truck"
-  - "product-reviews"
+  - "other-businesses"
+  
 tags:
   - "assam"
   - "black-tea"

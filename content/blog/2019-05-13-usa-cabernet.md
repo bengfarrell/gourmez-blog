@@ -2,8 +2,8 @@
 title: "USA Cabernet: \"Rumored to Be Made by American Exceptionalism\""
 date: "2019-05-13"
 categories:
-  - "cabernet-sauvignon"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
   - "wine"
 tags:
   - "cabernet"

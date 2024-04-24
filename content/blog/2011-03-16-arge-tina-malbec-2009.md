@@ -2,8 +2,8 @@
 title: "Arge &amp; Tina Malbec 2009"
 date: "2011-03-16"
 categories: 
-  - "malbec"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
 tags: 
   - "2009"
   - "arge"

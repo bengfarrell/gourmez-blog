@@ -2,7 +2,7 @@
 title: "Old Havana Sandwich Shop"
 date: "2011-12-16"
 categories: 
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "black-beans"

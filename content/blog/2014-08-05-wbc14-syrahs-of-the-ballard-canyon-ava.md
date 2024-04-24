@@ -3,9 +3,9 @@ title: "WBC14: Syrahs of the Ballard Canyon AVA"
 date: "2014-08-05"
 categories:
   - "events"
-  - "red-wine-review"
-  - "shiraz"
-  - "wine-bloggers-conference-2014-buellton"
+  - "wine"
+  - "wine"
+  - "events"
 tags:
   - "appellation"
   - "ava"

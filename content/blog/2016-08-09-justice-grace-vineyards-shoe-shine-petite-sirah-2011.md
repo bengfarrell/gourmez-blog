@@ -2,8 +2,8 @@
 title: "Justice Grace Vineyards Shoe Shine Petite Sirah 2011"
 date: "2016-08-09"
 categories: 
-  - "petite-sirah"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
   - "wine"
 tags: 
   - "2011"

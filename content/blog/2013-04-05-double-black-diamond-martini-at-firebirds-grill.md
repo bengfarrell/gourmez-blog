@@ -3,7 +3,7 @@ title: "Double Black Diamond Martini at Firebird's Grill"
 date: "2013-04-05"
 categories: 
   - "bars"
-  - "bars-in-durham-nc"
+  - "bars"
 tags: 
   - "bar"
   - "citron-vodka"

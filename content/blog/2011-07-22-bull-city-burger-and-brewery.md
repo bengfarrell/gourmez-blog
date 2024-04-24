@@ -2,7 +2,7 @@
 title: "Bull City Burger and Brewery"
 date: "2011-07-22"
 categories: 
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
   - "wine"
 tags: 

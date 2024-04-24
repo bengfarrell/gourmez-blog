@@ -2,8 +2,8 @@
 title: "Bottle Cap"
 date: "2013-10-22"
 categories:
-  - "san-francisco-restaurant-review"
-  - "pisco"
+  - "restaurants"
+  - "spirits"
   - "restaurants"
 tags:
   - "artichoke"

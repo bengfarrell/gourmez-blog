@@ -2,9 +2,9 @@
 title: "The Cookery Open House"
 date: "2011-04-11"
 categories: 
-  - "durham-restaurant-reviews"
-  - "food-trucks-and-carts"
-  - "ice-cream-bakery-food-truck"
+  - "restaurants"
+  - "food-trucks"
+  - "other-businesses"
   - "restaurants"
 tags: 
   - "blue-sky-dining"

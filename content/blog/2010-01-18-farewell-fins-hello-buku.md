@@ -2,7 +2,7 @@
 title: "Farewell, Fins. Hello, bu*ku!"
 date: "2010-01-18"
 categories: 
-  - "raleigh-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "buku"

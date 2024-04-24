@@ -2,8 +2,8 @@
 title: "Wente Sauvignon Blanc Louis Mel Estate 2013"
 date: "2016-05-09"
 categories: 
-  - "sauvignon-blanc"
-  - "white-wine-reviews"
+  - "wine"
+  - "wine"
   - "wine"
 tags: 
   - "2013"

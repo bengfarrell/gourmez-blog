@@ -2,7 +2,7 @@
 title: "Blue Corn Cafe"
 date: "2010-11-19"
 categories:
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "events"
   - "restaurants"
 tags:

@@ -2,7 +2,7 @@
 title: "Country Junction"
 date: "2011-01-17"
 categories: 
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "bacon"

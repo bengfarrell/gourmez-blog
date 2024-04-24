@@ -3,7 +3,7 @@ title: "Hawaiian Orchard @ My Place---Cocktail Review"
 date: "2010-03-25"
 categories:
   - "recipes"
-  - "vodka"
+  - "spirits"
 tags:
   - "hawaiian-orchard"
   - "lemon"

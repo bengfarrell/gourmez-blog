@@ -3,8 +3,8 @@ title: "Bourbon Tasting"
 date: "2012-05-14"
 categories: 
   - "bars"
-  - "bars-in-durham-nc"
-  - "bourbon"
+  - "bars"
+  - "spirits"
   - "spirits"
 tags: 
   - "12-year"

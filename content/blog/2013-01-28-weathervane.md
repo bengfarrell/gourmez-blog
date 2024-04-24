@@ -2,7 +2,7 @@
 title: "Weathervane"
 date: "2013-01-28"
 categories: 
-  - "dining-chapel-hill-nc"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "bread-pudding"

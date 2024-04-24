@@ -2,8 +2,8 @@
 title: "Epicurio 2008 Primitivo Di Manduria Vendemmia"
 date: "2012-03-14"
 categories: 
-  - "zinfandel"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
 tags: 
   - "2008-vintage"
   - "back-to-bacchus"

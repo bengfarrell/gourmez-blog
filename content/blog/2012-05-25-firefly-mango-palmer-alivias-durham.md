@@ -3,7 +3,7 @@ title: "Firefly Mango Palmer (Alivia's Durham Bistro, Durham)"
 date: "2012-05-25"
 categories: 
   - "bars"
-  - "bars-in-durham-nc"
+  - "bars"
 tags: 
   - "alcohol"
   - "alivias"

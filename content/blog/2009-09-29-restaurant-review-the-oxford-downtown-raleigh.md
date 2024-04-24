@@ -2,7 +2,7 @@
 title: "Restaurant Review--The Oxford (Downtown Raleigh)"
 date: "2009-09-29"
 categories:
-  - "raleigh-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags:
   - "blt-fried-green-tomato"

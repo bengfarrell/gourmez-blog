@@ -3,7 +3,7 @@ title: "Nonfiction Bragging - Front Porch at the Independent Weekly"
 date: "2012-01-26"
 categories: 
   - "announcements"
-  - "writing"
+  - "announcements"
 tags: 
   - "cary"
   - "chapel-hill"
@@ -22,7 +22,7 @@ tags:
   - "rebecca-gomez-farrell"
   - "running"
   - "triangle"
-  - "writing"
+  - "announcements"
 ---
 
 Would you like to know how good of a year 2012 has been so far? This is the second time I've had to replace one of my planned bragging posts with a just published one instead!  Let's hope this is a trend that continues.

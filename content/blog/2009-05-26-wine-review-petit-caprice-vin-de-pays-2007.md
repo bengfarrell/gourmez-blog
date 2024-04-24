@@ -2,8 +2,8 @@
 title: "Wine Review--Petit Caprice Vin de Pays 2007"
 date: "2009-05-26"
 categories:
-  - "other-red-blends"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
 tags:
   - "petit-caprice-review"
   - "petite-caprice-vin-de-pays-2007"

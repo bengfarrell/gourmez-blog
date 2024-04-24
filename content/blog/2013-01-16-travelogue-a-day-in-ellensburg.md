@@ -2,10 +2,10 @@
 title: "Travelogue: A Day in Ellensburg"
 date: "2013-01-16"
 categories:
-  - "coffee-shop"
-  - "dining-in-ellensburg-wa"
+  - "coffee-shops"
   - "restaurants"
-  - "ellensburg-travel"
+  - "restaurants"
+  - "travel-guides"
 tags:
   - "art"
   - "buildings"

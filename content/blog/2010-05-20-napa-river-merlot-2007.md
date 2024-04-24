@@ -2,8 +2,8 @@
 title: "Napa River Merlot 2007"
 date: "2010-05-20"
 categories:
-  - "merlot"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
 tags:
   - "2007"
   - "berry"

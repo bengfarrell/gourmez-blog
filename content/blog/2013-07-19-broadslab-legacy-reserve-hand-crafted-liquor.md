@@ -2,8 +2,8 @@
 title: "Broadslab Legacy Reserve Hand-Crafted Liquor"
 date: "2013-07-19"
 categories: 
-  - "moonshine-reviews"
-  - "whiskey-whisky-review"
+  - "spirits"
+  - "spirits"
 tags: 
   - "broadslab"
   - "charred-oak"

@@ -2,9 +2,9 @@
 title: "City Kitchen"
 date: "2012-08-31"
 categories: 
-  - "dining-chapel-hill-nc"
   - "restaurants"
-  - "tequila"
+  - "restaurants"
+  - "spirits"
 tags: 
   - "apple-chocolate-torte"
   - "bistro"

@@ -2,8 +2,8 @@
 title: "Cocobon 2010 Red Wine"
 date: "2012-06-13"
 categories: 
-  - "other-red-blends"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
 tags: 
   - "2010"
   - "blend"

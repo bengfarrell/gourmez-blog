@@ -3,8 +3,8 @@ title: "Bangkok Fever @ Jujube"
 date: "2013-05-08"
 categories: 
   - "bars"
-  - "bars-chapel-hill-nc"
-  - "tequila"
+  - "bars"
+  - "spirits"
 tags: 
   - "alcohol"
   - "chapel-hill"

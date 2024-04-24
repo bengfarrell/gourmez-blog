@@ -3,8 +3,8 @@ title: "The Old Ceremony @ Motorco"
 date: "2011-01-10"
 categories: 
   - "bars"
-  - "bars-in-durham-nc"
-  - "bourbon"
+  - "bars"
+  - "spirits"
 tags: 
   - "bars"
   - "bitters"

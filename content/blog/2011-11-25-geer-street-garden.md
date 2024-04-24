@@ -2,7 +2,7 @@
 title: "Geer Street Garden"
 date: "2011-11-25"
 categories: 
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
   - "sake"
   - "wine"

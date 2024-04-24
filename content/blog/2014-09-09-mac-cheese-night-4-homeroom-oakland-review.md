@@ -2,7 +2,7 @@
 title: "Mac &amp; Cheese Night #4: Homeroom"
 date: "2014-09-09"
 categories:
-  - "oakland-restaurant-reviews"
+  - "restaurants"
   - "events"
   - "restaurants"
 tags:

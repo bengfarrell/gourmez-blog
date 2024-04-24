@@ -2,8 +2,8 @@
 title: "Meridian 2006 Dry Rose"
 date: "2007-04-26"
 categories: 
-  - "gsm-rose"
-  - "rose-review"
+  - "wine"
+  - "wine"
 tags: 
   - "2006"
   - "dry-rose"

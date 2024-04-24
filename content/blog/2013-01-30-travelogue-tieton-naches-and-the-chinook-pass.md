@@ -2,8 +2,8 @@
 title: "Travelogue: Tieton, Naches, and the Chinook Pass"
 date: "2013-01-30"
 categories:
-  - "tieton-travel"
-  - "yakima-travel"
+  - "travel-guides"
+  - "travel-guides"
 tags:
   - "apples"
   - "car-trip"

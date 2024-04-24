@@ -2,7 +2,7 @@
 title: "WOATS Oatsnack"
 date: "2015-03-24"
 categories:
-  - "food-product-review"
+  
   - "product-reviews"
 tags:
   - "butter-toffee-peanuts"
@@ -19,7 +19,7 @@ tags:
   - "oatsnack"
   - "peanut-butter"
   - "pecan-praline"
-  - "product-review"
+  - "product-reviews"
   - "review"
   - "shortbread"
   - "snack"

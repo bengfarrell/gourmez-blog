@@ -2,8 +2,8 @@
 title: "Lambrusco Dell 'Emilia Bianco Le Grotte"
 date: "2010-06-02"
 categories:
-  - "lambrusco"
-  - "sparkling-wine-review"
+  - "wine"
+  - "wine"
 tags:
   - "bubbles"
   - "common-man-vin"

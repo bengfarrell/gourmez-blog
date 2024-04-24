@@ -4,10 +4,10 @@ date: "2015-09-24"
 categories:
   - "distillery"
   - "events"
-  - "gin-reviews"
-  - "liqueur-reviews"
   - "spirits"
-  - "vodka"
+  - "spirits"
+  - "spirits"
+  - "spirits"
 tags:
   - "amaro"
   - "bay-area"

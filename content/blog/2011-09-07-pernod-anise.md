@@ -2,7 +2,7 @@
 title: "Pernod Anise"
 date: "2011-09-07"
 categories: 
-  - "liqueur-reviews"
+  - "spirits"
 tags: 
   - "alcohol"
   - "anise"

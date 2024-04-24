@@ -2,8 +2,8 @@
 title: "Fuerza Blancos 2009"
 date: "2010-05-05"
 categories:
-  - "torrontes"
-  - "white-wine-reviews"
+  - "wine"
+  - "wine"
 tags:
   - "2009"
   - "apple"

@@ -2,8 +2,8 @@
 title: "Gallo Family Vineyards 2006 Cabernet Sauvignon"
 date: "2009-02-06"
 categories: 
-  - "cabernet-sauvignon"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
 ---
 
 **Other Words on the Label:  Sonoma**

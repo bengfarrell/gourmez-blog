@@ -3,10 +3,10 @@ title: "Affordable Vinho Verde Varietals and Vintages"
 date: "2017-04-24"
 categories:
   - "wine"
-  - "san-francisco-restaurant-review"
   - "restaurants"
-  - "vinho-verde"
-  - "white-wine-reviews"
+  - "restaurants"
+  - "wine"
+  - "wine"
 tags:
   - "avesso"
   - "bargain-wines"

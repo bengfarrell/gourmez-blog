@@ -2,7 +2,7 @@
 title: "Raw Spice Bar Spice Delivery Service"
 date: "2017-03-24"
 categories: 
-  - "food-product-review"
+  
   - "product-reviews"
 tags: 
   - "creamed-brussel-sprouts"

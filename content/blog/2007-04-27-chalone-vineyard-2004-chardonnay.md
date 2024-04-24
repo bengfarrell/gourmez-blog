@@ -2,8 +2,8 @@
 title: "Chalone Vineyard 2004 Chardonnay"
 date: "2007-04-27"
 categories:
-  - "chardonnay"
-  - "white-wine-reviews"
+  - "wine"
+  - "wine"
 tags:
   - "chalone-vineyard-2004-chardonnay"
 ---

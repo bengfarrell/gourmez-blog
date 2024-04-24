@@ -2,8 +2,8 @@
 title: "Jacqueline Bahue Cabernet Franc 2013"
 date: "2015-07-30"
 categories: 
-  - "cabernet-franc"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
 tags: 
   - "2013"
   - "cabernet-franc"

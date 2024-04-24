@@ -2,7 +2,7 @@
 title: "Enoteca Vin (Glenwood South, Raleigh) *CLOSED*"
 date: "2007-04-27"
 categories:
-  - "raleigh-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags:
   - "enoteca-vin"

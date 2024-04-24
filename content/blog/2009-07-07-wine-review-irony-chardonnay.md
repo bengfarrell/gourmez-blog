@@ -2,8 +2,8 @@
 title: "Wine Review--Irony Chardonnay"
 date: "2009-07-07"
 categories:
-  - "chardonnay"
-  - "white-wine-reviews"
+  - "wine"
+  - "wine"
   - "wine"
 tags:
   - "chardonnay-review"

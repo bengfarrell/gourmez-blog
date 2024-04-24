@@ -3,7 +3,7 @@ title: "Bar/Restaurant Review--West End Wine Bar, Warehouse District (Durham)"
 date: "2009-10-16"
 categories:
   - "wine-bars"
-  - "tasting-rooms-in-durham-nc"
+  - "tasting-rooms"
 tags:
   - "add-new-tag"
   - "durham-nightlife"

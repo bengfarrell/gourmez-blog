@@ -3,7 +3,7 @@ title: "The Photographing Tourist Book Review"
 date: "2016-09-20"
 categories:
   - "product-reviews"
-  - "travel-product-review"
+  
 tags:
   - "book-review"
   - "david-noyes"
@@ -17,7 +17,7 @@ tags:
   - "tour-groups"
   - "travel"
   - "vacation-photography"
-  - "writing"
+  - "announcements"
 ---
 
 _Obligatory disclaimer: This review of_ the Photographing Tourist _comes from a copy supplied to me for free._

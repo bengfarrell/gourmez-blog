@@ -2,7 +2,7 @@
 title: "Market Restaurant--the Dessert and Drink Lowdown *RELOCATING*"
 date: "2011-04-29"
 categories: 
-  - "raleigh-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
   - "spirits"
 tags: 

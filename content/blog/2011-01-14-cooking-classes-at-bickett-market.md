@@ -3,8 +3,8 @@ title: "Cooking Classes at Bickett Market"
 date: "2011-01-14"
 categories: 
   - "events"
-  - "ice-cream-bakery-food-truck"
-  - "markets"
+  - "other-businesses"
+  
 tags: 
   - "bickett-market"
   - "cooking-classes"

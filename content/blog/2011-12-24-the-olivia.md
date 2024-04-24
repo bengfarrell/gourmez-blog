@@ -3,8 +3,8 @@ title: "The Olivia @ West End Wine Bar"
 date: "2011-12-24"
 categories: 
   - "bars"
-  - "bars-in-durham-nc"
-  - "tasting-rooms-in-durham-nc"
+  - "bars"
+  - "tasting-rooms"
 tags: 
   - "cocktail"
   - "cranberry"

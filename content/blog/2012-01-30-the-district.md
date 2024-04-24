@@ -2,7 +2,7 @@
 title: "The District"
 date: "2012-01-30"
 categories: 
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "american-tobacco-district"

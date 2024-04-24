@@ -2,8 +2,8 @@
 title: "Légende Wines"
 date: "2019-04-17"
 categories:
-  - "red-bordeaux"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
   - "wine"
 tags:
   - "bordeaux"

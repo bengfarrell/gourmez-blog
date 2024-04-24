@@ -2,7 +2,7 @@
 title: "Ba-Bite"
 date: "2016-04-12"
 categories:
-  - "oakland-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags:
   - "ba-bite"

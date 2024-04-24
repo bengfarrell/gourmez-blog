@@ -2,8 +2,8 @@
 title: "Wine Review--Mars and Venus Cabernet Sauvignon 2007"
 date: "2009-05-19"
 categories: 
-  - "cabernet-sauvignon"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
 tags: 
   - "cabernet-sauvignon-review"
   - "mars-and-venus-cabernet-sauvignon"

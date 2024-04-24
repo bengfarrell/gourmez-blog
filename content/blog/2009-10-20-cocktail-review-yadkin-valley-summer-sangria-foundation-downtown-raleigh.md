@@ -3,7 +3,7 @@ title: "Cocktail Review--Yadkin Valley Summer Sangria @ Foundation (Downtown Ral
 date: "2009-10-20"
 categories: 
   - "bars"
-  - "bars-in-raleigh-nc"
+  - "bars"
 tags: 
   - "38-vines-muscadine"
   - "8-shelton-bin-17-chardonnay"

@@ -3,7 +3,7 @@ title: "Loki's New Favorite Thing and RSS Updates"
 date: "2010-04-26"
 categories: 
   - "announcements"
-  - "writing"
+  - "announcements"
 tags: 
   - "cat-and-food"
   - "cats"

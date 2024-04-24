@@ -2,8 +2,8 @@
 title: "Beaujolais-Villages Red Burgundy Table Wine 2006"
 date: "2007-04-26"
 categories: 
-  - "red-burgundy"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
 tags: 
   - "2006"
   - "beaujolais-villages"

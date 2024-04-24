@@ -2,8 +2,8 @@
 title: "The Bay Area's Best Mac &amp; Cheese: My Verdict"
 date: "2015-06-30"
 categories: 
-  - "oakland-restaurant-reviews"
-  - "san-francisco-restaurant-review"
+  - "restaurants"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "american-grilled-cheese-kitchen"

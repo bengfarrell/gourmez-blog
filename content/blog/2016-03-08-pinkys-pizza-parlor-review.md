@@ -2,7 +2,7 @@
 title: "Pinky's Pizza Parlor"
 date: "2016-03-08"
 categories:
-  - "dining-in-walnut-creek"
+  - "restaurants"
   - "restaurants"
 tags:
   - "drink-specials"

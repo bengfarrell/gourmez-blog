@@ -2,7 +2,7 @@
 title: "six plates (Central Durham) *REOPENED as Black Twig Cider*"
 date: "2007-04-27"
 categories:
-  - "bars-in-durham-nc"
+  - "bars"
   - "restaurants"
 tags:
   - "central-durham-dining"

@@ -3,7 +3,7 @@ title: "The Orchard Manhattan at Bijou"
 date: "2014-02-13"
 categories: 
   - "bars"
-  - "bars-in-hayward-ca"
+  - "bars"
 tags: 
   - "bars"
   - "bay-area"

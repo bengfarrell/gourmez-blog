@@ -2,7 +2,7 @@
 title: "Day One Pop-Up Restaurant"
 date: "2013-05-27"
 categories: 
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "ari-berenbaum"

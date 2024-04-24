@@ -2,8 +2,8 @@
 title: "Trader Joe's Reserve Syrah 2006 -- Wine Review"
 date: "2010-02-12"
 categories:
-  - "red-wine-review"
-  - "shiraz"
+  - "wine"
+  - "wine"
 tags:
   - "2006-vintage"
   - "black-raspberry-candy"

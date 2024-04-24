@@ -2,7 +2,7 @@
 title: "Empty Bowls 2010 Soup Review"
 date: "2010-03-12"
 categories: 
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "blue-seafood"

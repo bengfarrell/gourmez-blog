@@ -2,7 +2,7 @@
 title: "Fire in the Triangle Round 6"
 date: "2012-06-21"
 categories: 
-  - "raleigh-restaurant-reviews"
+  - "restaurants"
   - "events"
   - "restaurants"
 tags: 

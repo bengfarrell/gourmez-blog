@@ -2,12 +2,12 @@
 title: "A Picnic Lunch and Overnight Stay at Jordan Winery"
 date: "2019-10-04"
 categories:
-  - "cabernet-sauvignon"
-  - "champagne"
-  - "dining-in-healdsburg"
+  - "wine"
+  - "wine"
+  - "restaurants"
   - "events"
-  - "food-product-review"
-  - "tasting-rooms-in-sonoma-ca"
+  
+  - "tasting-rooms"
   - "wine"
 tags:
   - "guest-rooms"

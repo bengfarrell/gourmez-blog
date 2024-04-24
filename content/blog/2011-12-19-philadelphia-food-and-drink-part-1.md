@@ -2,12 +2,12 @@
 title: "Philadelphia: Food and Drink, Part 1"
 date: "2011-12-19"
 categories:
-  - "philadelphia-bar-review"
-  - "philadelphia-restaurant-review"
-  - "gin-reviews"
+  - "bars"
   - "restaurants"
   - "spirits"
-  - "philadelphia-travel"
+  - "restaurants"
+  - "spirits"
+  - "travel-guides"
 tags:
   - "basil-hayden"
   - "black-sheep"

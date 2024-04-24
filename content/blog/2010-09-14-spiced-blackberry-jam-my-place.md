@@ -3,8 +3,8 @@ title: "Spiced Blackberry Jam @ My Place"
 date: "2010-09-14"
 categories:
   - "recipes"
-  - "liqueur-reviews"
-  - "vodka"
+  - "spirits"
+  - "spirits"
 tags:
   - "blackberry-juice"
   - "champagne-grapes"

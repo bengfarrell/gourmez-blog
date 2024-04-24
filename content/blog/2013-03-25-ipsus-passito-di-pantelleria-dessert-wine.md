@@ -2,7 +2,7 @@
 title: "Ipsus Passito di Pantelleria Dessert Wine"
 date: "2013-03-25"
 categories: 
-  - "dessert-wine-reviews"
+  - "wine"
   - "wine"
 tags: 
   - "dessert"

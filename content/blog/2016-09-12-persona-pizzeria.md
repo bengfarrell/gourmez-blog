@@ -2,7 +2,7 @@
 title: "Persona Pizzeria"
 date: "2016-09-12"
 categories:
-  - "dining-in-santa-rosa"
+  - "restaurants"
   - "restaurants"
 tags:
   - "basil"

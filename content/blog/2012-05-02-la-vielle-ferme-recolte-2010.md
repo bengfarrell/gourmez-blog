@@ -2,8 +2,8 @@
 title: "La Vieille Ferme Récolte 2010"
 date: "2012-05-02"
 categories: 
-  - "red-wine-review"
-  - "rhone"
+  - "wine"
+  - "wine"
 tags: 
   - "2010"
   - "black-raspberry"

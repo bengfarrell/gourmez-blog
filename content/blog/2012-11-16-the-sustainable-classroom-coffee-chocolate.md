@@ -2,13 +2,13 @@
 title: "The Sustainable Classroom: Coffee &amp; Chocolate"
 date: "2012-11-16"
 categories:
-  - "chocolatiers"
-  - "coffee-shop"
-  - "chapel-hill-coffee-shop-reviews"
-  - "raleigh-coffee-shop-reviews"
+  - "other-businesses"
+  - "coffee-shops"
+  - "coffee-shops"
+  - "coffee-shops"
   - "events"
-  - "ice-cream-bakery-food-truck"
-  - "travel-product-review"
+  
+  
 tags:
   - "carrboro-coffee"
   - "chapel-hill"

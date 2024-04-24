@@ -2,8 +2,8 @@
 title: "Casillero del Diablo Reserve Chardonnay 2005"
 date: "2007-04-27"
 categories:
-  - "chardonnay"
-  - "white-wine-reviews"
+  - "wine"
+  - "wine"
 tags:
   - "2005"
   - "casillero-del-diablo"

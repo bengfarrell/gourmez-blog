@@ -4,7 +4,7 @@ date: "2009-10-06"
 categories:
   - "spirits"
   - "bars"
-  - "bars-in-durham-nc"
+  - "bars"
 tags:
   - "cocktail-review"
   - "cocktails-durham"

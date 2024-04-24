@@ -2,7 +2,7 @@
 title: "Market Restaurant *RELOCATED*"
 date: "2010-12-17"
 categories:
-  - "raleigh-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags:
   - "apple-iced-tea"

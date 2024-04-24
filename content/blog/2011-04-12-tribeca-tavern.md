@@ -2,7 +2,7 @@
 title: "Tribeca Tavern"
 date: "2011-04-12"
 categories:
-  - "cary-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags:
   - "blue-devil-burger"

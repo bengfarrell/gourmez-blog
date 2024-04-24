@@ -2,13 +2,13 @@
 title: "TerraVITA 2012 Media Farm Tour: Stop 1, Southern Season"
 date: "2012-11-05"
 categories:
-  - "coffee-shop"
-  - "chapel-hill-coffee-shop-reviews"
+  - "coffee-shops"
+  - "coffee-shops"
   - "events"
-  - "ice-cream-bakery-food-truck"
-  - "markets"
-  - "chapel-hill-north-carolina-travel"
-  - "travel-product-review"
+  - "bakeries"
+  
+  - "travel-guides"
+  
   - "wine"
 tags:
   - "bakery"

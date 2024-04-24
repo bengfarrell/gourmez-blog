@@ -3,7 +3,7 @@ title: "Food Writing Bragging: New Post at WRAL"
 date: "2013-06-07"
 categories:
   - "announcements"
-  - "coffee-shop"
+  - "coffee-shops"
   - "restaurants"
 tags:
   - "bar-lusconi"

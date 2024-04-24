@@ -2,7 +2,7 @@
 title: "Taylor Fladgate 10 Year Tawny Port"
 date: "2012-02-22"
 categories: 
-  - "port-fortified-wine"
+  - "wine"
   - "wine"
 tags: 
   - "10-year"

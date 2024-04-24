@@ -2,9 +2,9 @@
 title: "Revelation Cabernet-Merlot 2010"
 date: "2012-05-23"
 categories: 
-  - "cabernet-sauvignon"
-  - "merlot"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
+  - "wine"
 tags: 
   - "2010"
   - "cabernet-merlot"

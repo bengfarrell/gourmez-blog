@@ -2,9 +2,9 @@
 title: "Calavera"
 date: "2012-06-20"
 categories: 
-  - "raleigh-restaurant-reviews"
   - "restaurants"
-  - "tequila"
+  - "restaurants"
+  - "spirits"
 tags: 
   - "calavera"
   - "dinner"

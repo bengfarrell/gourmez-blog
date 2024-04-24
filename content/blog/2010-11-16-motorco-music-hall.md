@@ -3,7 +3,7 @@ title: "Motorco Music Hall"
 date: "2010-11-16"
 categories:
   - "bars"
-  - "bars-in-durham-nc"
+  - "bars"
 tags:
   - "central-park-district"
   - "durham"

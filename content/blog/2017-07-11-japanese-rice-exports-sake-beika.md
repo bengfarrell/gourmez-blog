@@ -2,7 +2,7 @@
 title: "Tasting My Way through Japanese Rice Exports: Grain, Snacks, and Sake"
 date: "2017-07-11"
 categories:
-  - "san-francisco-restaurant-review"
+  - "restaurants"
   - "restaurants"
   - "sake"
 tags:

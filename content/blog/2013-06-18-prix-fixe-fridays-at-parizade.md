@@ -2,7 +2,7 @@
 title: "Prix Fixe Fridays at Parizade"
 date: "2013-06-18"
 categories:
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "events"
   - "restaurants"
 tags:

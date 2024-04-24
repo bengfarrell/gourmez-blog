@@ -2,8 +2,8 @@
 title: "2016 Vintage Port: A Sign of Good Things to Come…and Good Drinking Now"
 date: "2018-11-28"
 categories:
-  - "fortified-wine"
-  - "port-fortified-wine"
+  - "wine"
+  - "wine"
   - "wine"
 tags:
   - "2016-vintage-port"

@@ -2,8 +2,8 @@
 title: "Château Ksara 2013 Reserve du Couvent"
 date: "2016-11-25"
 categories: 
-  - "other-red-blends"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
   - "wine"
 tags: 
   - "bekaa-valley"

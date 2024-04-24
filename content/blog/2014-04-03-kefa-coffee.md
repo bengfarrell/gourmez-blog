@@ -2,9 +2,9 @@
 title: "Kefa Coffee"
 date: "2014-04-03"
 categories: 
-  - "coffee-shop"
-  - "oakland-coffee-shop-reviews"
-  - "oakland-restaurant-reviews"
+  - "coffee-shops"
+  - "coffee-shops"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "alameda"

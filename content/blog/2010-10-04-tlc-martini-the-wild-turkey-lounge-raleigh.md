@@ -3,8 +3,8 @@ title: "TLC Martini @ the Wild Turkey Lounge"
 date: "2010-10-04"
 categories:
   - "bars"
-  - "bars-in-raleigh-nc"
-  - "vodka"
+  - "bars"
+  - "spirits"
 tags:
   - "angus-barn"
   - "cointreau"

@@ -2,8 +2,8 @@
 title: "Harveys Bristol Cream Sherry"
 date: "2010-11-30"
 categories:
-  - "fortified-wine"
-  - "sherry-fortified-wine"
+  - "wine"
+  - "wine"
 tags:
   - "chocolate"
   - "cream"

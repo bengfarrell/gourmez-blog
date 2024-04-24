@@ -3,7 +3,7 @@ title: "The Cricket (My Place)---Cocktail Review"
 date: "2010-03-19"
 categories:
   - "recipes"
-  - "vodka"
+  - "spirits"
 tags:
   - "chocolate"
   - "cocktail-review"

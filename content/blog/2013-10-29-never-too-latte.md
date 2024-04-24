@@ -2,8 +2,8 @@
 title: "Never Too Latté"
 date: "2013-10-29"
 categories: 
-  - "coffee-shop"
-  - "san-bruno-coffee-shop-review"
+  - "coffee-shops"
+  - "coffee-shops"
 tags: 
   - "bay-area"
   - "california-club"

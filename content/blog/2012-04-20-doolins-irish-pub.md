@@ -2,7 +2,7 @@
 title: "Doolin's Irish Pub"
 date: "2012-04-20"
 categories: 
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "alcohol"

@@ -2,7 +2,7 @@
 title: "Poggia Basso Grappa del Piemonte"
 date: "2014-12-08"
 categories: 
-  - "grappa"
+  - "spirits"
 tags: 
   - "big-league"
   - "christian-brothers"

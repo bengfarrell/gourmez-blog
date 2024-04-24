@@ -2,7 +2,7 @@
 title: "Afghan Village"
 date: "2014-04-01"
 categories: 
-  - "fremont-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "afghan"

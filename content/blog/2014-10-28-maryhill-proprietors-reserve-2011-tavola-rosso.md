@@ -2,10 +2,10 @@
 title: "Maryhill Proprietor’s Reserve 2011 Tavola Rosso and Maryhill Day Trip"
 date: "2014-10-28"
 categories:
-  - "red-wine-review"
-  - "super-tuscan"
-  - "tasting-rooms-in-maryhill-wa"
-  - "maryhill-washington-travel"
+  - "wine"
+  - "wine"
+  - "tasting-rooms"
+  - "travel-guides"
 tags:
   - "2011"
   - "cassie-courtney"

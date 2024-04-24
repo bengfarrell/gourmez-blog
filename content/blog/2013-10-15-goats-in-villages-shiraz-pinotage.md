@@ -2,9 +2,9 @@
 title: "Goats in Villages Shiraz Pinotage"
 date: "2013-10-15"
 categories: 
-  - "pinotage"
-  - "red-wine-review"
-  - "shiraz"
+  - "wine"
+  - "wine"
+  - "wine"
   - "wine"
 tags: 
   - "blackberry"

@@ -2,7 +2,7 @@
 title: "Restaurant Review--Taqueria La Vaquita, Durham"
 date: "2009-07-22"
 categories: 
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "durham-taquerias"

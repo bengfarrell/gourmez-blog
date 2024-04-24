@@ -2,9 +2,9 @@
 title: "Farley’s East Expansion and New Menu"
 date: "2017-07-28"
 categories:
-  - "coffee-shop"
-  - "oakland-coffee-shop-reviews"
-  - "oakland-restaurant-reviews"
+  - "coffee-shops"
+  - "coffee-shops"
+  - "restaurants"
   - "restaurants"
 tags:
   - "chia-pudding"

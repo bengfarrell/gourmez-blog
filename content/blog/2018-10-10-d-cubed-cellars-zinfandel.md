@@ -2,8 +2,8 @@
 title: "D-Cubed Cellars: Born of a Yen for Zinfandel"
 date: "2018-10-10"
 categories: 
-  - "zinfandel"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
   - "wine"
 tags: 
   - "d-cubed-cellars"

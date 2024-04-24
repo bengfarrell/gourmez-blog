@@ -2,8 +2,8 @@
 title: "Borsao 2011 Grenache"
 date: "2013-01-23"
 categories: 
-  - "garnacha"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
 tags: 
   - "2011"
   - "blueberry"

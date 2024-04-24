@@ -3,7 +3,7 @@ title: "Cityscape at the Union Square Hilton"
 date: "2016-11-15"
 categories:
   - "bars"
-  - "bars-in-san-francisco"
+  - "bars"
 tags:
   - "bar-bites"
   - "black-garlic"

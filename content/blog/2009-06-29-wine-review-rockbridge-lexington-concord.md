@@ -2,7 +2,7 @@
 title: "Wine Review--Rockbridge Lexington &amp; Concord"
 date: "2009-06-29"
 categories:
-  - "dessert-wine-reviews"
+  - "wine"
 tags:
   - "concord-grape-wine"
   - "dessert-or-table-wine"

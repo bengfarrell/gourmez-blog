@@ -2,7 +2,7 @@
 title: "Starrlight Meadery Traditional Off-Dry"
 date: "2011-04-20"
 categories: 
-  - "mead-review"
+  - "mead"
 tags: 
   - "butterscotch"
   - "green-apples"

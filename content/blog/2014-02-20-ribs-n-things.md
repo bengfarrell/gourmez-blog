@@ -2,7 +2,7 @@
 title: "Ribs 'N Things"
 date: "2014-02-20"
 categories: 
-  - "hayward-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "barbecue"

@@ -2,8 +2,8 @@
 title: "First Vine Red Wine Blend"
 date: "2013-11-07"
 categories: 
-  - "other-red-blends"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
 tags: 
   - "cheap-wine"
   - "chemical"

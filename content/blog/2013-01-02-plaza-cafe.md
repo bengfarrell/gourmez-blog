@@ -2,7 +2,7 @@
 title: "Plaza Café"
 date: "2013-01-02"
 categories: 
-  - "raleigh-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "breakfast"

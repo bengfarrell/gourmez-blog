@@ -2,7 +2,7 @@
 title: "Summer Menu at the Washington Duke Inn"
 date: "2013-07-03"
 categories:
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags:
   - "american-red-snapper"

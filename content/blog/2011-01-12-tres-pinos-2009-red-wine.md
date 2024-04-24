@@ -2,8 +2,8 @@
 title: "Tres Pinos 2009 Red Wine"
 date: "2011-01-12"
 categories: 
-  - "other-red-blends"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
 tags: 
   - "2009"
   - "cranberry"

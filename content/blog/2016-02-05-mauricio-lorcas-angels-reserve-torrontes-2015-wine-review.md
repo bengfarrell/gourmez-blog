@@ -2,8 +2,8 @@
 title: "Mauricio Lorca’s Angel’s Reserve Torrontes 2015"
 date: "2016-02-05"
 categories: 
-  - "torrontes"
-  - "white-wine-reviews"
+  - "wine"
+  - "wine"
 tags: 
   - "2015"
   - "lorca"

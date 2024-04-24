@@ -2,8 +2,8 @@
 title: "2011 Green Fin Cabernet Sauvignon"
 date: "2013-03-08"
 categories: 
-  - "cabernet-sauvignon"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
   - "wine"
 tags: 
   - "2011"

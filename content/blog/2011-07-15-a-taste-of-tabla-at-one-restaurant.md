@@ -2,7 +2,7 @@
 title: "A Taste of Tabla at [ONE] Restaurant"
 date: "2011-07-15"
 categories: 
-  - "dining-chapel-hill-nc"
+  - "restaurants"
   - "events"
   - "restaurants"
 tags: 

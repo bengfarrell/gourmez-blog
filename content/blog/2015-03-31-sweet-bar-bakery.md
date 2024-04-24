@@ -3,10 +3,10 @@ title: "Sweet Bar Bakery"
 date: "2015-03-31"
 categories: 
   - "bakeries"
-  - "coffee-shop"
-  - "oakland-coffee-shop-reviews"
-  - "oakland-restaurant-reviews"
-  - "ice-cream-bakery-food-truck"
+  - "coffee-shops"
+  - "coffee-shops"
+  - "restaurants"
+  
   - "restaurants"
 tags: 
   - "blt"

@@ -2,7 +2,7 @@
 title: "East Coast Chinese Food Express"
 date: "2013-02-13"
 categories: 
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "beef"

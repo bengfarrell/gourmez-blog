@@ -2,7 +2,7 @@
 title: "Sweet Peach Mead"
 date: "2011-06-22"
 categories: 
-  - "mead-review"
+  - "mead"
 tags: 
   - "mead"
   - "peach"

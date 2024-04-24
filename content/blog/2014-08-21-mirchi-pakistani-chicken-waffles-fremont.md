@@ -2,7 +2,7 @@
 title: "Mirchi"
 date: "2014-08-21"
 categories: 
-  - "fremont-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "dinner"

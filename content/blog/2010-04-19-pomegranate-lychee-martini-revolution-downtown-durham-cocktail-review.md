@@ -3,8 +3,8 @@ title: "Pomegranate Lychee Martini @ Revolution (Downtown Durham)---Cocktail Rev
 date: "2010-04-19"
 categories: 
   - "bars"
-  - "bars-in-durham-nc"
-  - "vodka"
+  - "bars"
+  - "spirits"
 tags: 
   - "durham-cocktail"
   - "lychee"

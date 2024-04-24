@@ -3,7 +3,7 @@ title: "Cherry-Aid @ Buffalo Wings and Rings (Morrisville)"
 date: "2010-07-05"
 categories:
   - "bars"
-  - "bars-in-morrisville-nc"
+  - "bars"
 tags:
   - "3-olives-vodka"
   - "buffalo-wings-and-rings"

@@ -2,8 +2,8 @@
 title: "Wine Review--Cline Zinfandel 2007"
 date: "2009-08-14"
 categories:
-  - "zinfandel"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
   - "wine"
 tags:
   - "cline-zinfandel-2007"

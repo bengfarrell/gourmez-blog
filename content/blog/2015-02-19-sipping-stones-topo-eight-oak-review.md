@@ -2,11 +2,11 @@
 title: "Sipping Stones, TOPO Eight Oak Carolina Whiskey, and the Strawberry Glades"
 date: "2015-02-19"
 categories: 
-  - "beverage-product-review"
+  
   - "recipes"
   - "product-reviews"
   - "spirits"
-  - "whiskey-whisky-review"
+  - "spirits"
 tags: 
   - "carolina-whiskey"
   - "cocktails"

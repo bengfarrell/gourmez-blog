@@ -3,8 +3,8 @@ title: "Hawaiian Punch (West 94th Street Pub, Durham)---Cocktail Review"
 date: "2010-03-04"
 categories:
   - "bars"
-  - "bars-in-durham-nc"
-  - "vodka"
+  - "bars"
+  - "spirits"
 tags:
   - "blue-curacao"
   - "durham-cocktails"

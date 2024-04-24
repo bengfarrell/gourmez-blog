@@ -2,8 +2,8 @@
 title: "Charlottesville Blogging: Dinner at Mas"
 date: "2013-05-06"
 categories:
-  - "charlottesville-virginia-bar-reviews"
-  - "charlottesville-virginia-restaurant-reviews"
+  - "bars"
+  - "restaurants"
   - "restaurants"
 tags:
   - "belmont"

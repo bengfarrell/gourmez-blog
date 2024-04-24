@@ -2,8 +2,8 @@
 title: "Mai Banh Mi"
 date: "2015-12-11"
 categories: 
-  - "berkeley-restaurant-review"
-  - "oakland-restaurant-reviews"
+  - "restaurants"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "banh-mi"

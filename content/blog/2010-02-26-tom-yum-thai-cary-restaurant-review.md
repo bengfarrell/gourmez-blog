@@ -2,7 +2,7 @@
 title: "Tom Yum Thai (Cary)---Restaurant Review"
 date: "2010-02-26"
 categories:
-  - "cary-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags:
   - "calamari-rings"

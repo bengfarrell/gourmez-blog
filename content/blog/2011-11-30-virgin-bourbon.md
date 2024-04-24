@@ -2,7 +2,7 @@
 title: "Virgin Bourbon"
 date: "2011-11-30"
 categories: 
-  - "bourbon"
+  - "spirits"
 tags: 
   - "7-year"
   - "bourbon-reviews"

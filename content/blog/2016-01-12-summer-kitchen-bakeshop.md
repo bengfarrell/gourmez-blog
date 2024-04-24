@@ -2,7 +2,7 @@
 title: "Summer Kitchen + Bakeshop"
 date: "2016-01-12"
 categories: 
-  - "berkeley-restaurant-review"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "bakeshop"

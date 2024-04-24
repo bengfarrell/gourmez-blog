@@ -2,8 +2,8 @@
 title: "Wine Review--Cristalino Cava"
 date: "2009-09-11"
 categories:
-  - "cava"
-  - "sparkling-wine-review"
+  - "wine"
+  - "wine"
 tags:
   - "cava-review"
   - "chicken-soup-wine"

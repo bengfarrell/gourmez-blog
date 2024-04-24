@@ -2,7 +2,7 @@
 title: "Burger Joints of Hayward #2: Best Burger"
 date: "2014-07-29"
 categories: 
-  - "hayward-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "best-burger"

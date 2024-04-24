@@ -2,7 +2,7 @@
 title: "Brews &amp; Brats"
 date: "2016-05-12"
 categories: 
-  - "hayward-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "affordable"

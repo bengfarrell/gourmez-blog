@@ -2,8 +2,8 @@
 title: "Le Faux Frog Apropos 2003 Syrah"
 date: "2007-04-26"
 categories: 
-  - "red-wine-review"
-  - "shiraz"
+  - "wine"
+  - "wine"
   - "wine"
 tags: 
   - "2003"

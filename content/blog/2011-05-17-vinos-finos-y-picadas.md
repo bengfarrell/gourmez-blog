@@ -3,8 +3,8 @@ title: "Vinos Finos y Picadas"
 date: "2011-05-17"
 categories: 
   - "wine-bars"
-  - "malbec"
-  - "tasting-rooms-in-raleigh-nc"
+  - "wine"
+  - "tasting-rooms"
 tags: 
   - "cheese-plate"
   - "lafayette-village"

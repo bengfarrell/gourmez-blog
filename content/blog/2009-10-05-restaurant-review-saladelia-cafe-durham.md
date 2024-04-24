@@ -2,7 +2,7 @@
 title: "Restaurant Review--Saladelia Cafe (Durham)"
 date: "2009-10-05"
 categories:
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags:
   - "brunch-durham"

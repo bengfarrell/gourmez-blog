@@ -3,7 +3,7 @@ title: "Pineapple Express Martini at Rockfish *CLOSED*"
 date: "2011-07-26"
 categories: 
   - "bars"
-  - "bars-in-durham-nc"
+  - "bars"
 tags: 
   - "coconut"
   - "pineapple-vodka"

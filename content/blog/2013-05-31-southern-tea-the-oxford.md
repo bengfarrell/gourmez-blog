@@ -3,7 +3,7 @@ title: "Southern Tea @ the Oxford"
 date: "2013-05-31"
 categories: 
   - "bars"
-  - "bars-in-raleigh-nc"
+  - "bars"
 tags: 
   - "cocktail"
   - "downtown"

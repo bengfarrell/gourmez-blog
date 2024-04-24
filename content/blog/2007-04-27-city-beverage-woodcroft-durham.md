@@ -2,7 +2,7 @@
 title: "City Beverage (Woodcroft, Durham) *CLOSED*"
 date: "2007-04-27"
 categories:
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags:
   - "city-beverage"

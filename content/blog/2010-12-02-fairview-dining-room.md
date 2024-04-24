@@ -2,7 +2,7 @@
 title: "Fairview Dining Room"
 date: "2010-12-02"
 categories:
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags:
   - "celebrity-dairy-goat-cheese"

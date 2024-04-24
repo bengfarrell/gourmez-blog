@@ -2,7 +2,7 @@
 title: "International Delights"
 date: "2010-09-17"
 categories:
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags:
   - "durham"

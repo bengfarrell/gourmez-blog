@@ -2,7 +2,7 @@
 title: "Grocery Cafe"
 date: "2015-08-03"
 categories:
-  - "oakland-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags:
   - "burmese"

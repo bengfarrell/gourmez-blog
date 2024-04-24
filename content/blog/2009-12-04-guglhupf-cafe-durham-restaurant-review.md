@@ -2,7 +2,7 @@
 title: "Guglhupf Cafe (Durham) -- Restaurant Review"
 date: "2009-12-04"
 categories:
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags:
   - "cider-cocktail"

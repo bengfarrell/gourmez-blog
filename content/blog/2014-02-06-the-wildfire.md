@@ -3,7 +3,7 @@ title: "The Wildfire at Firehouse 37"
 date: "2014-02-06"
 categories: 
   - "bars"
-  - "bars-in-san-ramon-ca"
+  - "bars"
 tags: 
   - "bay-area"
   - "cocktail"

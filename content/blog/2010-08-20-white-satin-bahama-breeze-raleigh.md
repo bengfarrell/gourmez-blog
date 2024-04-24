@@ -3,7 +3,7 @@ title: "White Satin @ Bahama Breeze"
 date: "2010-08-20"
 categories: 
   - "bars"
-  - "bars-in-raleigh-nc"
+  - "bars"
 tags: 
   - "bahama-breeze"
   - "cocktail"

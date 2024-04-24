@@ -2,7 +2,7 @@
 title: "Domaine de Canton Liqueur"
 date: "2011-03-11"
 categories: 
-  - "liqueur-reviews"
+  - "spirits"
 tags: 
   - "canton"
   - "domaine-de-canton"

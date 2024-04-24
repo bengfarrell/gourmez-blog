@@ -2,7 +2,7 @@
 title: "Covington Sweet Potato Vodka"
 date: "2013-05-17"
 categories:
-  - "vodka"
+  - "spirits"
 tags:
   - "best-yam-vodka"
   - "covington"

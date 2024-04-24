@@ -2,8 +2,8 @@
 title: "Geyser Peak Sauvignon Blanc 2003"
 date: "2007-04-27"
 categories: 
-  - "sauvignon-blanc"
-  - "white-wine-reviews"
+  - "wine"
+  - "wine"
 tags: 
   - "2003"
   - "geyser-peak"

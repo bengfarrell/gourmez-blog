@@ -2,12 +2,12 @@
 title: "California Trip 2011, Day 4: Tiara Café, Little Tokyo, and the Barbacoa"
 date: "2011-11-07"
 categories: 
-  - "los-angeles-restaurant-reviews"
-  - "mezcal"
+  - "restaurants"
+  - "spirits"
   - "restaurants"
   - "sake"
-  - "shochu"
-  - "los-angeles-travel"
+  - "spirits"
+  - "travel-guides"
 tags: 
   - "barbacoa"
   - "beef-jerky"

@@ -2,8 +2,8 @@
 title: "Blue Fin Chardonnay 2008"
 date: "2010-05-27"
 categories:
-  - "chardonnay"
-  - "white-wine-reviews"
+  - "wine"
+  - "wine"
 tags:
   - "2008"
   - "bland-wine"

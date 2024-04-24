@@ -2,7 +2,7 @@
 title: "Mawa's Taste of Africa with the Social Media Supper Club *CLOSED*"
 date: "2011-01-25"
 categories:
-  - "cary-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags:
   - "african-morrisville"

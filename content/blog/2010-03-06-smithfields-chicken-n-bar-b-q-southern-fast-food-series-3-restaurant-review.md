@@ -2,7 +2,7 @@
 title: "Smithfield's Chicken 'N Bar-B-Q (Southern Fast Food Series #3)---Restaurant Review"
 date: "2010-03-06"
 categories:
-  - "morrisville-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags:
   - "coleslaw"

@@ -2,8 +2,8 @@
 title: "Monkey Bay Chardonnay 2004"
 date: "2007-04-27"
 categories:
-  - "chardonnay"
-  - "white-wine-reviews"
+  - "wine"
+  - "wine"
 tags:
   - "2004"
   - "monkey-bay"

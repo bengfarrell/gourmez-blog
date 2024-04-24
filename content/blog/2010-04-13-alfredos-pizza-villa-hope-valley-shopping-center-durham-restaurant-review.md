@@ -2,7 +2,7 @@
 title: "Alfredo's Pizza Villa (Hope Valley Shopping Center, Durham)---Restaurant Review *CLOSED*"
 date: "2010-04-13"
 categories:
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags:
   - "alfredos-pizza-villa"

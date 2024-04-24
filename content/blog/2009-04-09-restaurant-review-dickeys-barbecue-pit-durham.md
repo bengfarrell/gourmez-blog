@@ -2,7 +2,7 @@
 title: "Restaurant Review--Dickey's Barbecue Pit, Durham"
 date: "2009-04-09"
 categories:
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags:
   - "boring-mac-and-cheese"

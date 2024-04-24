@@ -4,8 +4,8 @@ date: "2009-07-28"
 categories: 
   - "bars"
   - "restaurants"
-  - "tasting-rooms-in-durham-nc"
-  - "txakoli-cider"
+  - "tasting-rooms"
+  - "cider"
 tags: 
   - "basque-cider"
   - "caruso-music"

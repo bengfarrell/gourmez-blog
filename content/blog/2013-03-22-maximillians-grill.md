@@ -2,7 +2,7 @@
 title: "Maximillian’s Grill"
 date: "2013-03-22"
 categories: 
-  - "cary-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "best-restaurants"

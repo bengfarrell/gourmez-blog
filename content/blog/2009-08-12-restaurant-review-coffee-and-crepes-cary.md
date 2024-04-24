@@ -2,7 +2,7 @@
 title: "Restaurant Review--Coffee and Crepes, Cary"
 date: "2009-08-12"
 categories:
-  - "cary-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags:
   - "cary-coffee-shops"

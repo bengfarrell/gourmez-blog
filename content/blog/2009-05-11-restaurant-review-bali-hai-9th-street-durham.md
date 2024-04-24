@@ -2,7 +2,7 @@
 title: "Restaurant Review--Bali Hai, 9th Street, Durham"
 date: "2009-05-11"
 categories:
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags:
   - "bali-hai-durham"

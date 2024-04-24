@@ -2,9 +2,9 @@
 title: "Mixed Up: A Book Review and Holiday Gift Idea"
 date: "2017-11-21"
 categories:
-  - "beverage-product-review"
+  
   - "recipes"
-  - "liqueur-reviews"
+  - "spirits"
   - "product-reviews"
   - "spirits"
 tags:

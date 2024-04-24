@@ -2,8 +2,8 @@
 title: "Bolla Soave DOC 2009"
 date: "2011-06-21"
 categories: 
-  - "soave"
-  - "white-wine-reviews"
+  - "wine"
+  - "wine"
 tags: 
   - "2009"
   - "bolla-soave"

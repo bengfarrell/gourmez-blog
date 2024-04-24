@@ -2,7 +2,7 @@
 title: "Triangle Foodie Tweetup at Posta Tuscan Grille 8.27.10"
 date: "2010-09-01"
 categories: 
-  - "raleigh-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "andrea-weigl"

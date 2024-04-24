@@ -2,9 +2,9 @@
 title: "Wyndham Estate Cabernet Merlot"
 date: "2007-04-26"
 categories: 
-  - "cabernet-sauvignon"
-  - "merlot"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
+  - "wine"
 tags: 
   - "cabernet-merlot"
   - "wyndham-estate"

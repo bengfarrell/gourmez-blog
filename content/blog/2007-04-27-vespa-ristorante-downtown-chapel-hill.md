@@ -2,7 +2,7 @@
 title: "Vespa Ristorante (Downtown Chapel Hill)"
 date: "2007-04-27"
 categories:
-  - "dining-chapel-hill-nc"
+  - "restaurants"
   - "restaurants"
 tags:
   - "downtown-chapel-hill-dining"

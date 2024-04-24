@@ -2,8 +2,8 @@
 title: "Redemption Rye"
 date: "2013-01-07"
 categories: 
-  - "rye"
-  - "whiskey-whisky-review"
+  - "spirits"
+  - "spirits"
 tags: 
   - "chemistry-of-the-cocktail"
   - "corn"

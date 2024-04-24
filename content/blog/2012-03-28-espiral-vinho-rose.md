@@ -2,9 +2,9 @@
 title: "Espiral Vinho Rosé"
 date: "2012-03-28"
 categories: 
-  - "rose-review"
-  - "vinho-rose"
-  - "vinho-verde"
+  - "wine"
+  - "wine"
+  - "wine"
 tags: 
   - "blush-wine"
   - "espiral"

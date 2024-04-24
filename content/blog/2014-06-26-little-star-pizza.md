@@ -2,7 +2,7 @@
 title: "Little Star Pizza"
 date: "2014-06-26"
 categories:
-  - "san-francisco-restaurant-review"
+  - "restaurants"
   - "restaurants"
 tags:
   - "almonds"

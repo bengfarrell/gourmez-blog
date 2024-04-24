@@ -2,8 +2,8 @@
 title: "Midtown Grille"
 date: "2012-09-07"
 categories: 
-  - "bourbon"
-  - "raleigh-restaurant-reviews"
+  - "spirits"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "bar-scene"

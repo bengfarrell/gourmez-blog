@@ -2,7 +2,7 @@
 title: "Southern Fast Food Series #2: Chick-fil-A--Restaurant Review"
 date: "2010-02-18"
 categories:
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags:
   - "bojangles"

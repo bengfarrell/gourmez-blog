@@ -3,7 +3,7 @@ title: "The Boy's Club at the Borough"
 date: "2013-03-11"
 categories: 
   - "bars"
-  - "bars-in-raleigh-nc"
+  - "bars"
 tags: 
   - "alcohol"
   - "baileys"

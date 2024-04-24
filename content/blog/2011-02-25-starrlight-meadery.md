@@ -2,9 +2,9 @@
 title: "Starrlight Meadery"
 date: "2011-02-25"
 categories:
-  - "mead-review"
-  - "chapel-hill-north-carolina-travel"
-  - "pittsboro-nc-travel"
+  - "mead"
+  - "travel-guides"
+  - "travel-guides"
 tags:
   - "becky-starr"
   - "ben-starr"

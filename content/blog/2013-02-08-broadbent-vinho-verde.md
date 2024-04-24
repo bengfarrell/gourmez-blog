@@ -2,8 +2,8 @@
 title: "Broadbent Vinho Verde"
 date: "2013-02-08"
 categories: 
-  - "vinho-verde"
-  - "white-wine-reviews"
+  - "wine"
+  - "wine"
   - "wine"
 tags: 
   - "bianca-blanca-rioja"

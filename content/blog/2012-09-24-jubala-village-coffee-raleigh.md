@@ -2,8 +2,8 @@
 title: "Jubala Village Coffee (Raleigh)"
 date: "2012-09-24"
 categories: 
-  - "coffee-shop"
-  - "raleigh-coffee-shop-reviews"
+  - "coffee-shops"
+  - "coffee-shops"
 tags: 
   - "belgian"
   - "big-spoon"

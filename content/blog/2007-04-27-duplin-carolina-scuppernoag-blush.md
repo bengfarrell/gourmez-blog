@@ -2,8 +2,8 @@
 title: "Duplin Carolina Scuppernoag Blush"
 date: "2007-04-27"
 categories: 
-  - "rose-review"
-  - "scuppernoag-blush"
+  - "wine"
+  - "wine"
 tags: 
   - "carolina-scuppernoag-blush"
   - "duplin"

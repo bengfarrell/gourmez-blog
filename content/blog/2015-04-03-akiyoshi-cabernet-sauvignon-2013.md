@@ -2,8 +2,8 @@
 title: "Akiyoshi Cabernet Sauvignon 2013"
 date: "2015-04-03"
 categories: 
-  - "cabernet-sauvignon"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
   - "wine"
 tags: 
   - "akiyoshi"

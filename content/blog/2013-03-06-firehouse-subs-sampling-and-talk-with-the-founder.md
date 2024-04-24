@@ -2,7 +2,7 @@
 title: "Firehouse Subs Sampling and Talk with the Founder"
 date: "2013-03-06"
 categories:
-  - "cary-restaurant-reviews"
+  - "restaurants"
   - "events"
   - "restaurants"
 tags:

@@ -2,7 +2,7 @@
 title: "Gringo Bandito Hot Sauce Line"
 date: "2017-04-11"
 categories:
-  - "food-product-review"
+  
   - "product-reviews"
 tags:
   - "dexter-holland"

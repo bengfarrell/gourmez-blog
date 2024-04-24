@@ -2,11 +2,11 @@
 title: "Bonny Doon Vineyard’s Spring Rosé Line-Up"
 date: "2016-03-31"
 categories: 
-  - "ciliegiolo"
-  - "rose-review"
-  - "tannat"
-  - "vin-gris-de-cigare"
-  - "vin-gris-tuile"
+  - "wine"
+  - "wine"
+  - "wine"
+  - "wine"
+  - "wine"
   - "wine"
 tags: 
   - "a-proper-pink"

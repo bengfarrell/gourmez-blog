@@ -2,7 +2,7 @@
 title: "Wine Review--Elkin Creek Vineyard Dessert Wine"
 date: "2009-10-14"
 categories:
-  - "dessert-wine-reviews"
+  - "wine"
 tags:
   - "boysenberry-syrup"
   - "elkin-creek-vineyard-dessert-wine"

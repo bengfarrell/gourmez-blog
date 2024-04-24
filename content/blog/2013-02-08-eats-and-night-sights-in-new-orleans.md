@@ -2,10 +2,10 @@
 title: "Eats and Night Sights in New Orleans"
 date: "2013-02-08"
 categories:
-  - "new-orleans-bar-review"
-  - "new-orleans-restaurant-review"
+  - "bars"
   - "restaurants"
-  - "new-orleans-travel"
+  - "restaurants"
+  - "travel-guides"
 tags:
   - "alligator"
   - "bar"

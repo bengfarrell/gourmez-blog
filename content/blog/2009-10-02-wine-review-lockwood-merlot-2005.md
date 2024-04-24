@@ -2,8 +2,8 @@
 title: "Wine Review--Lockwood Merlot 2005"
 date: "2009-10-02"
 categories:
-  - "merlot"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
 tags:
   - "central-coast-merlot"
   - "lockwood-vineyard-merlot-2005"

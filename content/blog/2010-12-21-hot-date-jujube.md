@@ -3,8 +3,8 @@ title: "Hot Date @ Jujube"
 date: "2010-12-21"
 categories: 
   - "bars"
-  - "bars-chapel-hill-nc"
-  - "bourbon"
+  - "bars"
+  - "spirits"
 tags: 
   - "cayenne"
   - "chapel-hill"

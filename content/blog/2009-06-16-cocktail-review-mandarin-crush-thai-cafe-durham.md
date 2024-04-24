@@ -3,7 +3,7 @@ title: "Cocktail Review--Mandarin Crush, Thai Cafe, Durham"
 date: "2009-06-16"
 categories:
   - "bars"
-  - "bars-in-durham-nc"
+  - "bars"
 tags:
   - "cherry-brandy-cocktail"
   - "durham-cocktails"

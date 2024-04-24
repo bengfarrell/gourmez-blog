@@ -3,10 +3,10 @@ title: "Nonfiction Bragging: Guest Post for the LoMo Market"
 date: "2012-12-24"
 categories:
   - "announcements"
-  - "beverage-product-review"
+  
   - "recipes"
-  - "product-reviews"
-  - "writing"
+  
+  - "announcements"
 tags:
   - "blog"
   - "cocktail-syrup"
@@ -17,7 +17,7 @@ tags:
   - "muscadine-grape"
   - "simple-syrup"
   - "this-and-that-jam"
-  - "writing"
+  - "announcements"
 ---
 
 **Nonfiction Bragging: Guest Post for the LoMo Market**

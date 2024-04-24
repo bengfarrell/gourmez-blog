@@ -2,7 +2,7 @@
 title: "Vit Goal Tofu"
 date: "2012-02-20"
 categories: 
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "bento-box"

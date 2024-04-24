@@ -3,7 +3,7 @@ title: "Cocktail Review--Pirate's Punch, Sunset Grille, Cary"
 date: "2009-04-28"
 categories:
   - "bars"
-  - "bars-in-cary-nc"
+  - "bars"
 tags:
   - "amaretto"
   - "captain-morgan"

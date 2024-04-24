@@ -3,7 +3,7 @@ title: "Argiolas Costamolino 2009"
 date: "2011-07-01"
 categories: 
   - "vermentino"
-  - "white-wine-reviews"
+  - "wine"
 tags: 
   - "2009"
   - "argiolas-costamolino"

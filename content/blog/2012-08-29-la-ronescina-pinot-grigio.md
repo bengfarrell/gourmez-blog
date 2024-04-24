@@ -2,8 +2,8 @@
 title: "La Ronescina Pinot Grigio"
 date: "2012-08-29"
 categories: 
-  - "pinot-grigio-gris"
-  - "white-wine-reviews"
+  - "wine"
+  - "wine"
   - "wine"
 tags: 
   - "cantaloupe"

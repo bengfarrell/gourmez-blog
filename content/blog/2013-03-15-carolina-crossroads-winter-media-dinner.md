@@ -2,7 +2,7 @@
 title: "Carolina Crossroads Winter Media Dinner"
 date: "2013-03-15"
 categories:
-  - "dining-chapel-hill-nc"
+  - "restaurants"
   - "events"
   - "restaurants"
 tags:

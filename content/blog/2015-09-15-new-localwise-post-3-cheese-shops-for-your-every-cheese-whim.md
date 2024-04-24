@@ -3,11 +3,11 @@ title: "New Localwise Post! 3 Cheese Shops for Your Every Cheese Whim"
 date: "2015-09-15"
 categories:
   - "announcements"
-  - "cheesemongers"
-  - "oakland-restaurant-reviews"
-  - "ice-cream-bakery-food-truck"
+  - "other-businesses"
   - "restaurants"
-  - "writing"
+  
+  - "restaurants"
+  - "announcements"
 tags:
   - "berkeley"
   - "blogger"

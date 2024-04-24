@@ -2,9 +2,9 @@
 title: "Downtown St. Paul, Cosetta, and the Wabasha Street Caves"
 date: "2014-07-17"
 categories:
-  - "dining-st-paul"
   - "restaurants"
-  - "st-paul-saint-travel-minnesota"
+  - "restaurants"
+  - "travel-guides"
 tags:
   - "cathedral-of-saint-paul"
   - "caves"

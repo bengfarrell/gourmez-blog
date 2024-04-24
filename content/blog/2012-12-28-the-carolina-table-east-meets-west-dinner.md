@@ -2,11 +2,11 @@
 title: "The Carolina Table: East Meets West Dinner"
 date: "2012-12-28"
 categories:
-  - "dining-chapel-hill-nc"
-  - "kinston-nc-restaurant-review"
+  - "restaurants"
+  - "restaurants"
   - "events"
   - "restaurants"
-  - "travel-product-review"
+  
 tags:
   - "adam-rose"
   - "arancini"

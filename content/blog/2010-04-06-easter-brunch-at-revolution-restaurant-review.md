@@ -2,7 +2,7 @@
 title: "Easter Brunch at Revolution---Restaurant Review"
 date: "2010-04-06"
 categories: 
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "apple-crisp"

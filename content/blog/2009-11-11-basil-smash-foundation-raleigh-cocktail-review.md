@@ -3,7 +3,7 @@ title: "Basil Smash @ Foundation (Raleigh) -- Cocktail Review"
 date: "2009-11-11"
 categories:
   - "bars"
-  - "bars-in-raleigh-nc"
+  - "bars"
 tags:
   - "basil-cocktail"
   - "basil-smash"

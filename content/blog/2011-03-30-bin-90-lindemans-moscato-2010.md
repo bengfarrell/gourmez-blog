@@ -2,7 +2,7 @@
 title: "Bin 90 Lindeman’s Moscato 2010"
 date: "2011-03-30"
 categories: 
-  - "dessert-wine-reviews"
+  - "wine"
 tags: 
   - "2010"
   - "cantaloupe"

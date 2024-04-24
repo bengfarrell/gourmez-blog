@@ -2,8 +2,8 @@
 title: "Paso Robles Estancia Zinfandel 2003"
 date: "2007-04-26"
 categories: 
-  - "zinfandel"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
   - "wine"
 tags: 
   - "2003"

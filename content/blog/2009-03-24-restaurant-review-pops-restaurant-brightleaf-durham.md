@@ -2,7 +2,7 @@
 title: "Restaurant Review--Pop's Restaurant, Brightleaf, Durham"
 date: "2009-03-24"
 categories:
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags:
   - "brightleaf-restaurants"

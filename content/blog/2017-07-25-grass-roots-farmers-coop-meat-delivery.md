@@ -2,7 +2,7 @@
 title: "Grass Roots Farmers’ Coop Meat Delivery"
 date: "2017-07-25"
 categories:
-  - "food-product-review"
+  
   - "product-reviews"
 tags:
   - "animal-husbandry"

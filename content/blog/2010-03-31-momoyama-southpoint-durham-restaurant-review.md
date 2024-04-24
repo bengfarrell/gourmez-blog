@@ -2,8 +2,8 @@
 title: "Momoyama (Southpoint, Durham)---Restaurant Review"
 date: "2010-03-31"
 categories:
-  - "durham-restaurant-reviews"
-  - "plum-wine"
+  - "restaurants"
+  - "wine"
   - "restaurants"
 tags:
   - "japanese-restaurant"

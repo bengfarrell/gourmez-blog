@@ -2,8 +2,8 @@
 title: "Pie Pushers"
 date: "2011-04-25"
 categories: 
-  - "food-trucks-and-carts"
-  - "ice-cream-bakery-food-truck"
+  - "food-trucks"
+  
 tags: 
   - "1243"
   - "durham"

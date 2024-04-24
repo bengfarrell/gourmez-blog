@@ -2,8 +2,8 @@
 title: "Camelot Cabernet Sauvignon"
 date: "2010-07-08"
 categories:
-  - "cabernet-sauvignon"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
 tags:
   - "camelot-cabernet-sauvignon"
   - "chocolate-note"

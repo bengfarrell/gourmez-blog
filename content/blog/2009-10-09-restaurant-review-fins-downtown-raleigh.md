@@ -2,7 +2,7 @@
 title: "Restaurant Review--Fins, Downtown Raleigh"
 date: "2009-10-09"
 categories:
-  - "raleigh-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags:
   - "asian-fusion"

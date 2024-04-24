@@ -3,7 +3,7 @@ title: "A Pair of Pisco Tinctures"
 date: "2013-11-21"
 categories:
   - "recipes"
-  - "pisco"
+  - "spirits"
 tags:
   - "cocktail"
   - "fennel"

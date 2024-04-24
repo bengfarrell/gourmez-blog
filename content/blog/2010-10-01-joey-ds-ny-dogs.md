@@ -2,8 +2,8 @@
 title: "Joey D's NY Dogs *CLOSED*"
 date: "2010-10-01"
 categories: 
-  - "food-trucks-and-carts"
-  - "ice-cream-bakery-food-truck"
+  - "food-trucks"
+  
 tags: 
   - "buffalo-hot-dogs"
   - "durham"

@@ -2,8 +2,8 @@
 title: "LaCheteau Vouvray 2011"
 date: "2013-04-12"
 categories: 
-  - "vouvray"
-  - "white-wine-reviews"
+  - "wine"
+  - "wine"
 tags: 
   - "2011-vintage"
   - "acidic"

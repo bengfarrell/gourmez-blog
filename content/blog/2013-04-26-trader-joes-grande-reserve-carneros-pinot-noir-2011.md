@@ -2,8 +2,8 @@
 title: "Trader Joe's Grande Reserve Carneros Pinot Noir 2011"
 date: "2013-04-26"
 categories: 
-  - "pinot-noir"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
 tags: 
   - "2011"
   - "berry"

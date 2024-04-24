@@ -2,8 +2,8 @@
 title: "Éko Coffee Bar and Tea House"
 date: "2014-02-27"
 categories: 
-  - "coffee-shop"
-  - "hayward-coffee-shop-review"
+  - "coffee-shops"
+  - "coffee-shops"
 tags: 
   - "banana"
   - "boba"

@@ -2,11 +2,11 @@
 title: "Drip Line – West Oakland"
 date: "2017-04-06"
 categories:
-  - "coffee-shop"
-  - "oakland-coffee-shop-reviews"
+  - "coffee-shops"
+  - "coffee-shops"
 tags:
   - "coffee"
-  - "coffee-shop"
+  - "coffee-shops"
   - "drip-line"
   - "fusion"
   - "gado-gado"

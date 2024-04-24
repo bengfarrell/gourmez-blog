@@ -2,7 +2,7 @@
 title: "Tweat-Up at An"
 date: "2013-07-03"
 categories:
-  - "cary-restaurant-reviews"
+  - "restaurants"
   - "events"
   - "restaurants"
 tags:

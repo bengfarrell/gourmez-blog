@@ -3,7 +3,7 @@ title: "Yorkshire Hathaway @ Beyu Caffe"
 date: "2010-09-08"
 categories:
   - "bars"
-  - "bars-in-durham-nc"
+  - "bars"
 tags:
   - "beyu-caffe"
   - "butterscotch-schnapps"

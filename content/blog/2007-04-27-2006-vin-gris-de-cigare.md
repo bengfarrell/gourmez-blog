@@ -2,8 +2,8 @@
 title: "2006 Vin Gris de Cigare"
 date: "2007-04-27"
 categories:
-  - "rose-review"
-  - "vin-gris-de-cigare"
+  - "wine"
+  - "wine"
 tags:
   - "2006"
   - "bonny-doon-vineyard"

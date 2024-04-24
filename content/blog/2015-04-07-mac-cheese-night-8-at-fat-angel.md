@@ -2,7 +2,7 @@
 title: "Mac &amp; Cheese Night #8 at Fat Angel"
 date: "2015-04-07"
 categories:
-  - "san-francisco-restaurant-review"
+  - "restaurants"
   - "restaurants"
   - "wine"
 tags:

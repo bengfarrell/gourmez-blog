@@ -2,8 +2,8 @@
 title: "Mattie's Perch Shiraz"
 date: "2007-04-26"
 categories: 
-  - "red-wine-review"
-  - "shiraz"
+  - "wine"
+  - "wine"
 tags: 
   - "matties-perch"
 ---

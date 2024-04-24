@@ -2,7 +2,7 @@
 title: "Restaurant Review--Thai Cafe, Durham"
 date: "2009-06-17"
 categories:
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags:
   - "eclectic-glob-of-tangential-verbosity"

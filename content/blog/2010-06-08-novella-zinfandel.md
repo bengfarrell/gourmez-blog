@@ -2,8 +2,8 @@
 title: "Novella Zinfandel"
 date: "2010-06-08"
 categories:
-  - "zinfandel"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
 tags:
   - "cinnamon"
   - "currant"

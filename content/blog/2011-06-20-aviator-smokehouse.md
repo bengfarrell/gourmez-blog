@@ -2,7 +2,7 @@
 title: "Aviator Smokehouse"
 date: "2011-06-20"
 categories: 
-  - "fuquay-varina-restaurant-review"
+  - "restaurants"
   - "restaurants"
   - "sake"
   - "wine"

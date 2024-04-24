@@ -2,7 +2,7 @@
 title: "Peppers Market and Sandwich Shop"
 date: "2011-01-24"
 categories: 
-  - "morrisville-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "bbq-mahi-mahi"

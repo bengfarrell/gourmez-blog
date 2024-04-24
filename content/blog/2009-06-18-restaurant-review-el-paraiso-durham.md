@@ -2,7 +2,7 @@
 title: "Restaurant Review--El Paraiso, Durham *CLOSED*"
 date: "2009-06-18"
 categories:
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags:
   - "agua-fresca"

@@ -2,7 +2,7 @@
 title: "North Carolina Literary Festival"
 date: "2009-09-13"
 categories: 
-  - "writing"
+  - "announcements"
 tags: 
   - "ann-prospero"
   - "author-panels"

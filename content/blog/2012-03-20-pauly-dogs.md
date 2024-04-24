@@ -2,8 +2,8 @@
 title: "Pauly Dogs"
 date: "2012-03-20"
 categories: 
-  - "food-trucks-and-carts"
-  - "ice-cream-bakery-food-truck"
+  - "food-trucks"
+  
 tags: 
   - "bryan-center"
   - "bryan-center-plaza"

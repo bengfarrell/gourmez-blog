@@ -2,10 +2,10 @@
 title: "KickAss Britchen Red"
 date: "2018-10-19"
 categories:
-  - "cabernet-sauvignon"
-  - "other-red-blends"
-  - "zinfandel"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
+  - "wine"
+  - "wine"
   - "wine"
 tags:
   - "aronhill-vineyards"

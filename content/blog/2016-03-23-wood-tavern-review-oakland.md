@@ -2,10 +2,10 @@
 title: "Wood Tavern"
 date: "2016-03-23"
 categories: 
-  - "crement-dalsace"
-  - "oakland-restaurant-reviews"
+  - "wine"
   - "restaurants"
-  - "rose-review"
+  - "restaurants"
+  - "wine"
 tags: 
   - "american-food"
   - "bistro"

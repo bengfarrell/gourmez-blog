@@ -2,8 +2,8 @@
 title: "St. Somewhere Petit Verdot 2010"
 date: "2012-08-24"
 categories: 
-  - "petit-verdot"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
   - "wine"
 tags: 
   - "2010"

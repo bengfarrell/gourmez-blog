@@ -2,7 +2,7 @@
 title: "Izalco Catering"
 date: "2014-06-05"
 categories: 
-  - "san-ramon-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "catering"

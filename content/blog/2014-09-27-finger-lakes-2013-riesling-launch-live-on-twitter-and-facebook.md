@@ -2,11 +2,11 @@
 title: "Finger Lakes 2013 Riesling Launch--Live! On Twitter and Facebook"
 date: "2014-09-27"
 categories: 
-  - "riesling"
-  - "schloss-biebrech-sekt"
-  - "white-wine-reviews"
   - "wine"
-  - "wine-bloggers-conference-2015"
+  - "wine"
+  - "wine"
+  - "wine"
+  - "events"
 tags: 
   - "2013"
   - "buitenverwachting-rhine"

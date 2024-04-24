@@ -2,12 +2,12 @@
 title: "Taste Carolina Tours TriFoodie Tweetup"
 date: "2011-05-31"
 categories: 
-  - "raleigh-restaurant-reviews"
+  - "restaurants"
   - "events"
-  - "product-reviews"
+  
   - "restaurants"
   - "sake"
-  - "travel-product-review"
+  
   - "wine"
 tags: 
   - "18-seaboard"

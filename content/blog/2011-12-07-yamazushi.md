@@ -2,7 +2,7 @@
 title: "Yamazushi"
 date: "2011-12-07"
 categories: 
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "ceramics"

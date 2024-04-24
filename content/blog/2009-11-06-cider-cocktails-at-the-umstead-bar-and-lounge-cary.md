@@ -3,7 +3,7 @@ title: "Cider Cocktails at The Umstead Bar and Lounge (Cary)"
 date: "2009-11-06"
 categories: 
   - "bars"
-  - "bars-in-cary-nc"
+  - "bars"
 tags: 
   - "apple-cider-cocktails"
   - "bulleit-bourbon"

@@ -3,7 +3,7 @@ title: "The LoMo Market"
 date: "2012-06-01"
 categories:
   - "events"
-  - "food-product-review"
+  
   - "product-reviews"
 tags:
   - "cottle-organics"

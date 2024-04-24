@@ -2,7 +2,7 @@
 title: "Crunchmaster Crackers Review"
 date: "2015-10-12"
 categories:
-  - "food-product-review"
+  
   - "product-reviews"
 tags:
   - "7-ancient-grains"
@@ -13,7 +13,7 @@ tags:
   - "low-calorie"
   - "multi-grain-crackers"
   - "multigrain"
-  - "product-review"
+  - "product-reviews"
   - "review"
   - "roasted-garlic"
   - "roasted-vegetable"

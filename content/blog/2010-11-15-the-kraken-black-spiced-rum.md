@@ -2,7 +2,7 @@
 title: "The Kraken Black Spiced Rum"
 date: "2010-11-15"
 categories:
-  - "rum-review"
+  - "spirits"
 tags:
   - "black-rum"
   - "dr-bamboo"

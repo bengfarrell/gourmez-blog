@@ -2,8 +2,8 @@
 title: "Behind My Last Localwise Post - Mission Ice Cream!"
 date: "2017-01-25"
 categories:
-  - "san-francisco-restaurant-review"
-  - "ice-cream-bakery-food-truck"
+  - "restaurants"
+  
   - "ice-cream-parlors"
   - "restaurants"
 tags:

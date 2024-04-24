@@ -3,7 +3,7 @@ title: "TOPO Piedmont Gin"
 date: "2013-10-17"
 categories: 
   - "recipes"
-  - "gin-reviews"
+  - "spirits"
   - "spirits"
 tags: 
   - "allspice"

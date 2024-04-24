@@ -2,7 +2,7 @@
 title: "KoMo KoMo Afternoon Tea"
 date: "2012-10-15"
 categories: 
-  - "cary-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "afternoon-tea"

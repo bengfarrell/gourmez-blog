@@ -2,9 +2,9 @@
 title: "Rene Barbier Mediterranean Red"
 date: "2007-04-26"
 categories: 
-  - "merlot"
-  - "red-wine-review"
-  - "tempranillo"
+  - "wine"
+  - "wine"
+  - "wine"
 tags: 
   - "rene-barbier-mediterranean-red"
 ---

@@ -3,7 +3,7 @@ title: "Cocktail Review--The Bee Line, The Hive, Downtown Raleigh"
 date: "2009-08-10"
 categories:
   - "bars"
-  - "bars-in-raleigh-nc"
+  - "bars"
 tags:
   - "muddled-strawberries"
   - "raleigh-bars"

@@ -3,7 +3,7 @@ title: "Cocktail Review--Flirtini, West 94th Street Pub, Durham"
 date: "2009-04-30"
 categories:
   - "bars"
-  - "bars-in-durham-nc"
+  - "bars"
 tags:
   - "creme-de-banane"
   - "durham-cocktails"

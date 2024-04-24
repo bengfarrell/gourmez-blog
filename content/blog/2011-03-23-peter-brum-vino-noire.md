@@ -2,8 +2,8 @@
 title: "Peter Brum Vino Noire"
 date: "2011-03-23"
 categories: 
-  - "qualitaswein"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
 tags: 
   - "coffee"
   - "peter-brum"

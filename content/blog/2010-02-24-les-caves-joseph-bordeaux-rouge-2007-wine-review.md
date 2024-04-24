@@ -2,7 +2,7 @@
 title: "Les Caves Joseph Bordeaux Rouge 2007---Wine Review"
 date: "2010-02-24"
 categories: 
-  - "red-bordeaux"
+  - "wine"
 tags: 
   - "2007-vintage"
   - "cherry"

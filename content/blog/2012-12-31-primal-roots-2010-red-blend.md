@@ -2,8 +2,8 @@
 title: "Primal Roots 2010 Red Blend"
 date: "2012-12-31"
 categories: 
-  - "other-red-blends"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
   - "wine"
 tags: 
   - "2010"

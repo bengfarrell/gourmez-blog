@@ -3,9 +3,9 @@ title: "Nonfiction Bragging: WRAL Out &amp; About Review of Southern Rail"
 date: "2012-03-15"
 categories: 
   - "announcements"
-  - "dining-in-carrboro-nc"
   - "restaurants"
-  - "writing"
+  - "restaurants"
+  - "announcements"
 tags: 
   - "drunk-food"
   - "nonfiction-bragging"

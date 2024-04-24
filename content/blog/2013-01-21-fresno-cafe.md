@@ -2,7 +2,7 @@
 title: "Fresno Cafe"
 date: "2013-01-21"
 categories: 
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "butternut-squash-soup"

@@ -3,8 +3,8 @@ title: "Lemontini @ the Oxford"
 date: "2013-05-24"
 categories: 
   - "bars"
-  - "bars-in-raleigh-nc"
-  - "champagne"
+  - "bars"
+  - "wine"
 tags: 
   - "absolut-citron"
   - "cocktail"

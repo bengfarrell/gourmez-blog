@@ -2,7 +2,7 @@
 title: "Mac &amp; Cheese Night at Mission Cheese"
 date: "2014-06-03"
 categories:
-  - "san-francisco-restaurant-review"
+  - "restaurants"
   - "restaurants"
 tags:
   - "bay-area"

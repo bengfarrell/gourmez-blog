@@ -2,8 +2,8 @@
 title: "Straw Valley Café (Durham)"
 date: "2012-04-18"
 categories: 
-  - "coffee-shop"
-  - "durham-coffee-shop-reviews"
+  - "coffee-shops"
+  - "coffee-shops"
   - "sake"
   - "wine"
 tags: 

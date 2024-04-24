@@ -2,7 +2,7 @@
 title: "Triangle Foodie News"
 date: "2011-02-14"
 categories: 
-  - "coffee-shop"
+  - "coffee-shops"
   - "events"
   - "restaurants"
 tags: 

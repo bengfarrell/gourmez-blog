@@ -2,7 +2,7 @@
 title: "The Big Easy (Downtown Raleigh)"
 date: "2007-04-27"
 categories:
-  - "raleigh-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags:
   - "downtown-raleigh-dining"

@@ -2,8 +2,8 @@
 title: "Pickberry Vineyard Merlot 2013"
 date: "2015-07-08"
 categories: 
-  - "merlot"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
   - "wine"
 tags: 
   - "2013"

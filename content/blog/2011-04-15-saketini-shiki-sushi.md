@@ -3,10 +3,10 @@ title: "Saketini @ Shiki Sushi"
 date: "2011-04-15"
 categories: 
   - "bars"
-  - "bars-in-durham-nc"
+  - "bars"
   - "sake"
   - "spirits"
-  - "vodka"
+  - "spirits"
 tags: 
   - "bars"
   - "cocktails"

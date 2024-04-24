@@ -3,7 +3,7 @@ title: "Desert Pear Martini at Firebirds"
 date: "2011-08-25"
 categories: 
   - "bars"
-  - "bars-in-durham-nc"
+  - "bars"
 tags: 
   - "apple"
   - "belvedere-citrus-vodka"

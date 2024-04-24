@@ -2,7 +2,7 @@
 title: "Corner Creek Reserve Bourbon Whiskey"
 date: "2012-04-02"
 categories: 
-  - "bourbon"
+  - "spirits"
 tags: 
   - "agave"
   - "bardstown"

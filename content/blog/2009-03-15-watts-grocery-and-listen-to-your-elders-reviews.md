@@ -2,7 +2,7 @@
 title: "Watts Grocery and Listen to Your Elders Reviews"
 date: "2009-03-15"
 categories:
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags:
   - "cocktails-triangle"

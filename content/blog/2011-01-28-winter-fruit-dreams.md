@@ -3,8 +3,8 @@ title: "Winter Fruit Dreams"
 date: "2011-01-28"
 categories: 
   - "recipes"
-  - "liqueur-reviews"
-  - "rum-review"
+  - "spirits"
+  - "spirits"
 tags: 
   - "bacardi"
   - "banana-liquor"

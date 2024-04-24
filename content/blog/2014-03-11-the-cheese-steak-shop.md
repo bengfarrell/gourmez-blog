@@ -2,7 +2,7 @@
 title: "The Cheese Steak Shop"
 date: "2014-03-11"
 categories: 
-  - "castro-valley-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "american-cheese"

@@ -4,7 +4,7 @@ date: "2016-10-06"
 categories: 
   - "bars"
   - "bars"
-  - "tequila"
+  - "spirits"
 tags: 
   - "bars"
   - "clubs"

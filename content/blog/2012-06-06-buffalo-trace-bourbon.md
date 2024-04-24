@@ -2,7 +2,7 @@
 title: "Buffalo Trace Bourbon"
 date: "2012-06-06"
 categories: 
-  - "bourbon"
+  - "spirits"
 tags: 
   - "allspice"
   - "bourbon-reviews"

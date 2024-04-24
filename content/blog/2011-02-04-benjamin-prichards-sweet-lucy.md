@@ -2,7 +2,7 @@
 title: "Benjamin Prichard's Sweet Lucy"
 date: "2011-02-04"
 categories: 
-  - "bourbon"
+  - "spirits"
 tags: 
   - "amaretto"
   - "benjamin-prichards-sweet-lucy"

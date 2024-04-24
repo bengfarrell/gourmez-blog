@@ -2,7 +2,7 @@
 title: "Coffee Fest Atlanta: America's Best Espresso Competition"
 date: "2015-03-19"
 categories:
-  - "coffee-shop"
+  - "coffee-shops"
   - "events"
 tags:
   - "americas-best-espresso"

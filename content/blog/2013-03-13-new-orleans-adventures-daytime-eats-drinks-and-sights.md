@@ -2,10 +2,10 @@
 title: "New Orleans Adventures: Daytime Eats, Drinks, and Sights"
 date: "2013-03-13"
 categories:
-  - "new-orleans-bar-review"
-  - "new-orleans-restaurant-review"
+  - "bars"
   - "restaurants"
-  - "new-orleans-travel"
+  - "restaurants"
+  - "travel-guides"
 tags:
   - "big-easy"
   - "bourbon-house"

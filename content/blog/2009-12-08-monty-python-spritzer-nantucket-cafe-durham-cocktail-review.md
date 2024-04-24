@@ -3,8 +3,8 @@ title: "Monty Python Spritzer @ Nantucket Cafe (Durham) -- Cocktail Review"
 date: "2009-12-08"
 categories:
   - "bars"
-  - "bars-in-durham-nc"
-  - "prosecco"
+  - "bars"
+  - "wine"
 tags:
   - "cocktail-review"
   - "durham-cocktail"

@@ -2,12 +2,12 @@
 title: "Jujube's Semler Wine Dinner"
 date: "2010-04-15"
 categories: 
-  - "cabernet-sauvignon"
-  - "dining-chapel-hill-nc"
-  - "pinot-noir"
+  - "wine"
   - "restaurants"
-  - "sauvignon-blanc"
-  - "shiraz"
+  - "wine"
+  - "restaurants"
+  - "wine"
+  - "wine"
 tags: 
   - "chapel-hill"
   - "crab-salad-roll"

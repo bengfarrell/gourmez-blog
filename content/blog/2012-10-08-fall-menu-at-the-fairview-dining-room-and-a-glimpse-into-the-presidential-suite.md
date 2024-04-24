@@ -2,11 +2,11 @@
 title: "Fall Menu at the Fairview Dining Room (and a glimpse into the presidential suite!)"
 date: "2012-10-08"
 categories:
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "events"
   - "restaurants"
-  - "durham-north-carolina-travel"
-  - "travel-product-review"
+  - "travel-guides"
+  
 tags:
   - "artic-char"
   - "cehddar-biscuits"

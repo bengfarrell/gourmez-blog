@@ -2,7 +2,7 @@
 title: "Curry Up Now!"
 date: "2014-06-19"
 categories: 
-  - "san-francisco-restaurant-review"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "cheap-eats"

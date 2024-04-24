@@ -2,7 +2,7 @@
 title: "Golden Garlic"
 date: "2016-07-26"
 categories: 
-  - "dining-in-san-jose"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "affordable"

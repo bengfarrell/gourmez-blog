@@ -3,10 +3,10 @@ title: "Tokyo Punch @ Shiki Sushi, Durham"
 date: "2011-03-28"
 categories: 
   - "bars"
-  - "bars-in-durham-nc"
-  - "brandy"
+  - "bars"
   - "spirits"
-  - "vodka"
+  - "spirits"
+  - "spirits"
 tags: 
   - "bars"
   - "cocktails"

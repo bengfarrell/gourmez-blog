@@ -3,7 +3,7 @@ title: "La Leche @ Dos Perros (Durham)"
 date: "2010-07-27"
 categories:
   - "bars"
-  - "bars-in-durham-nc"
+  - "bars"
 tags:
   - "bourbon-punch"
   - "cocktail"

@@ -2,7 +2,7 @@
 title: "Handy Kitchen, Durham"
 date: "2010-05-17"
 categories:
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags:
   - "durham-chinese"

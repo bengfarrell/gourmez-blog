@@ -2,8 +2,8 @@
 title: "Crowdpleazin 2013"
 date: "2015-02-10"
 categories: 
-  - "zinfandel"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
 tags: 
   - "2013"
   - "angels"

@@ -3,7 +3,7 @@ title: "Caipirinha @ Calavera"
 date: "2013-01-09"
 categories: 
   - "bars"
-  - "bars-in-raleigh-nc"
+  - "bars"
 tags: 
   - "brazil"
   - "cachaca"

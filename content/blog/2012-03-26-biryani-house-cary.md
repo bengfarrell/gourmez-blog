@@ -2,7 +2,7 @@
 title: "Biryani House"
 date: "2012-03-26"
 categories: 
-  - "cary-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "affordable"

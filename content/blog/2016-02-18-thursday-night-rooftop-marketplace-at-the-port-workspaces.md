@@ -2,10 +2,10 @@
 title: "Thursday Night Rooftop Marketplace at the Port Workspaces"
 date: "2016-02-18"
 categories: 
-  - "oakland-restaurant-reviews"
+  - "restaurants"
   - "events"
-  - "food-trucks-and-carts"
-  - "ice-cream-bakery-food-truck"
+  - "food-trucks"
+  
   - "restaurants"
 tags: 
   - "babasoup"

@@ -2,8 +2,8 @@
 title: "Sundance Sauvignon Blanc 2008"
 date: "2010-03-15"
 categories:
-  - "sauvignon-blanc"
-  - "white-wine-reviews"
+  - "wine"
+  - "wine"
 tags:
   - "2008-vintage"
   - "chile-wine"

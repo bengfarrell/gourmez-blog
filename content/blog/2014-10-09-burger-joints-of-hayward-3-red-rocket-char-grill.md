@@ -2,7 +2,7 @@
 title: "Burger Joints of Hayward #3: Red Rocket Char Grill"
 date: "2014-10-09"
 categories: 
-  - "hayward-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "american-cheese"

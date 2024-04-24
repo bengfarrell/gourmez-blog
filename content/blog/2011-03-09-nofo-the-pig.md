@@ -2,7 +2,7 @@
 title: "NOFO @ the Pig"
 date: "2011-03-09"
 categories: 
-  - "raleigh-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "bloody-mary"

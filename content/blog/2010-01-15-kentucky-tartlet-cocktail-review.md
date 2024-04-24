@@ -2,7 +2,7 @@
 title: "Kentucky Tartlet -- Cocktail Review"
 date: "2010-01-15"
 categories:
-  - "bourbon"
+  - "spirits"
   - "recipes"
 tags:
   - "ancient-age"

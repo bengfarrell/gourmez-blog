@@ -2,8 +2,8 @@
 title: "Nachtgold Eiswein 2004"
 date: "2007-04-27"
 categories: 
-  - "dessert-wine-reviews"
-  - "ice-wine"
+  - "wine"
+  - "wine"
 tags: 
   - "2004"
   - "eiswein"

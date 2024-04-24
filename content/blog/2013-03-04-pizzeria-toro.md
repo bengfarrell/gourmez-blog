@@ -2,9 +2,9 @@
 title: "Pizzeria Toro"
 date: "2013-03-04"
 categories: 
-  - "durham-restaurant-reviews"
   - "restaurants"
-  - "rye"
+  - "restaurants"
+  - "spirits"
 tags: 
   - "blenheins-ginger-ale"
   - "brick-oven"

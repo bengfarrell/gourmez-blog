@@ -2,7 +2,7 @@
 title: "Cafe Meridian"
 date: "2010-07-06"
 categories:
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags:
   - "big-burrito"

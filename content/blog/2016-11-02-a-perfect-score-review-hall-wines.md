@@ -2,10 +2,10 @@
 title: "“A Perfect Score” Book Review"
 date: "2016-11-02"
 categories:
-  - "food-product-review"
+  
   - "product-reviews"
-  - "red-wine-review"
-  - "writing"
+  - "wine"
+  - "announcements"
 tags:
   - "a-perfect-score"
   - "book"

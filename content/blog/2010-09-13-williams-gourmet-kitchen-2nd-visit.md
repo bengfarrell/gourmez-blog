@@ -2,7 +2,7 @@
 title: "William's Gourmet Kitchen, 2nd visit"
 date: "2010-09-13"
 categories:
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags:
   - "cheeseburger"

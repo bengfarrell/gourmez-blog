@@ -2,7 +2,7 @@
 title: "Asena Restaurant"
 date: "2014-07-03"
 categories: 
-  - "alameda-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "alameda"

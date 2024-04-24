@@ -2,7 +2,7 @@
 title: "The Fearrington House Restaurant (Pittsboro)"
 date: "2010-05-19"
 categories: 
-  - "dining-in-pittsboro-nc"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "banana-pudding"

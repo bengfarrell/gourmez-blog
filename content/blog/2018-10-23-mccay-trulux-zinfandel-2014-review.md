@@ -2,8 +2,8 @@
 title: "McCay Trulux Zinfandel 2014"
 date: "2018-10-23"
 categories:
-  - "zinfandel"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
   - "wine"
 tags:
   - "mccay-cellars"

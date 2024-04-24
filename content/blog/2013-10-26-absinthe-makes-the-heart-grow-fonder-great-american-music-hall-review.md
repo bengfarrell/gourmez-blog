@@ -4,9 +4,9 @@ date: "2013-10-26"
 categories: 
   - "spirits"
   - "bars"
-  - "bars-in-san-francisco"
-  - "champagne"
-  - "gin-reviews"
+  - "bars"
+  - "wine"
+  - "spirits"
   - "spirits"
 tags: 
   - "abinsthe-makes-the-heart-grow-fonder"

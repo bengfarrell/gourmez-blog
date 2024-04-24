@@ -2,10 +2,10 @@
 title: "Harney Lane Wines"
 date: "2019-03-06"
 categories:
-  - "chardonnay"
-  - "zinfandel"
-  - "red-wine-review"
-  - "white-wine-reviews"
+  - "wine"
+  - "wine"
+  - "wine"
+  - "wine"
 tags:
   - "chardonnay"
   - "harney-lane"

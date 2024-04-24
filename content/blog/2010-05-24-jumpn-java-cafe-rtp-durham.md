@@ -2,8 +2,8 @@
 title: "Jump'n Java Cafe (RTP, Durham)"
 date: "2010-05-24"
 categories:
-  - "coffee-shop"
-  - "durham-coffee-shop-reviews"
+  - "coffee-shops"
+  - "coffee-shops"
   - "restaurants"
 tags:
   - "artichoke-hearts"

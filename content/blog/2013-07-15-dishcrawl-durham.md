@@ -2,11 +2,11 @@
 title: "Dishcrawl Durham"
 date: "2013-07-15"
 categories:
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "events"
   - "restaurants"
-  - "durham-north-carolina-travel"
-  - "travel-product-review"
+  - "travel-guides"
+  
 tags:
   - "american-tobacco-district"
   - "avocado"

@@ -2,9 +2,9 @@
 title: "The Meat House (Chapel Hill) *CLOSED*"
 date: "2011-06-24"
 categories: 
-  - "butchers"
-  - "food-product-review"
-  - "ice-cream-bakery-food-truck"
+  - "other-businesses"
+  
+  
   - "product-reviews"
 tags: 
   - "aged-steak"

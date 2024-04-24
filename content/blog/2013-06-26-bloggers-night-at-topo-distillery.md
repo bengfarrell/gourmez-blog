@@ -4,10 +4,10 @@ date: "2013-06-26"
 categories:
   - "distillery"
   - "events"
-  - "gin-reviews"
-  - "travel-product-review"
-  - "vodka"
-  - "whiskey-whisky-review"
+  - "spirits"
+  
+  - "spirits"
+  - "spirits"
 tags:
   - "aged-whiskey"
   - "angels-share"

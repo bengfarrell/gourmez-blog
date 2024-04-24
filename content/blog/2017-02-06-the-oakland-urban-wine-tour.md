@@ -3,10 +3,10 @@ title: "The Oakland Urban Wine Tour"
 date: "2017-02-06"
 categories:
   - "tasting-rooms"
-  - "food-product-review"
-  - "red-wine-review"
-  - "tasting-rooms-in-oakland-ca"
-  - "travel-guide-for-oakland"
+  
+  - "wine"
+  - "tasting-rooms"
+  - "travel-guides"
   - "wine"
 tags:
   - "brix-chicks"

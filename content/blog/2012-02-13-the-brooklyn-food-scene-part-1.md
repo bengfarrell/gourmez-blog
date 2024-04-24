@@ -2,10 +2,10 @@
 title: "The Brooklyn Food Scene Part 1"
 date: "2012-02-13"
 categories:
-  - "coffee-shop"
-  - "brooklyn-restaurant-reviews"
+  - "coffee-shops"
   - "restaurants"
-  - "brooklyn-travel"
+  - "restaurants"
+  - "travel-guides"
 tags:
   - "arling"
   - "brooklyn"

@@ -2,10 +2,10 @@
 title: "Stanley Park"
 date: "2016-01-15"
 categories:
-  - "dining-vancouver-canada"
   - "restaurants"
-  - "travel-guide-for-vancouver"
-  - "travel-product-review"
+  - "restaurants"
+  - "travel-guides"
+  
 tags:
   - "burrard-inlet"
   - "canada"

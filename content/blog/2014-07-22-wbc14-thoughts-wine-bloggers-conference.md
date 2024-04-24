@@ -4,8 +4,8 @@ date: "2014-07-22"
 categories:
   - "events"
   - "wine"
-  - "wine-bloggers-conference-2014-buellton"
-  - "writing"
+  - "events"
+  - "announcements"
 tags:
   - "buellton"
   - "casual-writer"

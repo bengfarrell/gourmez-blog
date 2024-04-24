@@ -2,8 +2,8 @@
 title: "Lindemans' Bin 75 Riesling 2008 -- Wine Review"
 date: "2010-01-08"
 categories:
-  - "riesling"
-  - "white-wine-reviews"
+  - "wine"
+  - "wine"
 tags:
   - "2008"
   - "acidity"

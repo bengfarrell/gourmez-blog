@@ -2,7 +2,7 @@
 title: "Southern Fast Food Series #4: Biscuitville---Restaurant Review"
 date: "2010-03-18"
 categories:
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags:
   - "biscuit-sandwich"

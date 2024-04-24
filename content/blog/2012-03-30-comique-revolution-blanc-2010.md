@@ -2,8 +2,8 @@
 title: "Comique Revolution Blanc 2010"
 date: "2012-03-30"
 categories: 
-  - "white-wine-blends"
-  - "white-wine-reviews"
+  - "wine"
+  - "wine"
 tags: 
   - "2010"
   - "butter-cream"

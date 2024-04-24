@@ -2,8 +2,8 @@
 title: "Cinco Joses Old Vines Grenache 2008"
 date: "2011-09-21"
 categories: 
-  - "garnacha"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
 tags: 
   - "2008"
   - "cinco-joses-old-vines-grenache"

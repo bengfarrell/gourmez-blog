@@ -2,7 +2,7 @@
 title: "Outdoors Dining Spots---The Carpe Durham List"
 date: "2010-03-23"
 categories: 
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "carpe-durham"

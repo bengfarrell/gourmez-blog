@@ -2,7 +2,7 @@
 title: "Beasley’s Chicken + Honey"
 date: "2011-09-26"
 categories: 
-  - "raleigh-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "ashley-christiansen"

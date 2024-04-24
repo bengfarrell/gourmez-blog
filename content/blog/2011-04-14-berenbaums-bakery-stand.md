@@ -2,8 +2,8 @@
 title: "Berenbaum's Bakery Stand"
 date: "2011-04-14"
 categories: 
-  - "food-trucks-and-carts"
-  - "ice-cream-bakery-food-truck"
+  - "food-trucks"
+  - "bakeries"
 tags: 
   - "berenbaums-bakery"
   - "carpe-durham"

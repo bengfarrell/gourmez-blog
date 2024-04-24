@@ -3,7 +3,7 @@ title: "Tartine Bakery"
 date: "2014-02-04"
 categories: 
   - "bakeries"
-  - "ice-cream-bakery-food-truck"
+  
 tags: 
   - "bakery"
   - "biscotti"

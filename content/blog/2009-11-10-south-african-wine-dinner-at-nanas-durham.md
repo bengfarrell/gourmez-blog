@@ -2,7 +2,7 @@
 title: "South African Wine Dinner at Nana's (Durham)"
 date: "2009-11-10"
 categories:
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags:
   - "buitenverwachting-rhine-riesling-2008"

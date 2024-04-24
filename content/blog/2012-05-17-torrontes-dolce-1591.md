@@ -2,9 +2,9 @@
 title: "Torrontes Dolce 1591"
 date: "2012-05-17"
 categories: 
-  - "dessert-wine-reviews"
-  - "sparkling-wine-review"
-  - "torrontes"
+  - "wine"
+  - "wine"
+  - "wine"
 tags: 
   - "1591"
   - "argentina-wines"

@@ -2,7 +2,7 @@
 title: "[One] Restaurant, Chapel Hill"
 date: "2010-08-03"
 categories: 
-  - "dining-chapel-hill-nc"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "one-one-restaurant"

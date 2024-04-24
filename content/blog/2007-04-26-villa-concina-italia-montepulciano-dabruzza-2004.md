@@ -2,8 +2,8 @@
 title: "Villa Concina-Italia Montepulciano d'Abruzza 2004"
 date: "2007-04-26"
 categories: 
-  - "montepulciano-dabruzza"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
   - "wine"
 tags: 
   - "2004"

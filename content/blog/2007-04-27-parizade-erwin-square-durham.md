@@ -2,7 +2,7 @@
 title: "Parizade (Erwin Square, Durham)"
 date: "2007-04-27"
 categories:
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags:
   - "durham-dining"

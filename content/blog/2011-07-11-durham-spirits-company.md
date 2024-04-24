@@ -2,9 +2,9 @@
 title: "Durham Spirits Company"
 date: "2011-07-11"
 categories: 
-  - "beverage-product-review"
+  - "other-businesses"
   - "events"
-  - "food-product-review"
+  
   - "product-reviews"
 tags: 
   - "antiques"

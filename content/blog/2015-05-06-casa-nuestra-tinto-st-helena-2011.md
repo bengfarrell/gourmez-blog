@@ -2,8 +2,8 @@
 title: "Casa Nuestra Tinto St. Helena 2011"
 date: "2015-05-06"
 categories: 
-  - "other-red-blends"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
   - "wine"
 tags: 
   - "2011"

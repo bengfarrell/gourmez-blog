@@ -4,12 +4,12 @@ date: "2014-09-30"
 categories:
   - "bakeries"
   - "bars"
-  - "bars-in-raleigh-nc"
-  - "breweries-in-raleigh-nc"
-  - "coffee-shop"
-  - "raleigh-coffee-shop-reviews"
-  - "raleigh-restaurant-reviews"
-  - "ice-cream-bakery-food-truck"
+  - "bars"
+  - "breweries"
+  - "coffee-shops"
+  - "coffee-shops"
+  - "restaurants"
+  
   - "restaurants"
 tags:
   - "ashley-christiansen"

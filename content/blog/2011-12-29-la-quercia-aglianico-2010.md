@@ -3,7 +3,7 @@ title: "La Quercia Aglianico 2010"
 date: "2011-12-29"
 categories: 
   - "wine"
-  - "red-wine-review"
+  - "wine"
 ---
 
 **La Quercia Aglianico 2010** Puglia, Italy

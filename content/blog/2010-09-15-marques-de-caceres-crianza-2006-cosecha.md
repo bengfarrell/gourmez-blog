@@ -2,9 +2,9 @@
 title: "Marqués de Cáceres Crianza 2006 Cosecha"
 date: "2010-09-15"
 categories:
-  - "garnacha"
-  - "red-wine-review"
-  - "tempranillo"
+  - "wine"
+  - "wine"
+  - "wine"
 tags:
   - "2006-vintage"
   - "beachside-resident"

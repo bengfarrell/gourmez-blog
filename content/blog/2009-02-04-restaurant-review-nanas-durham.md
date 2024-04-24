@@ -2,7 +2,7 @@
 title: "Restaurant Review--Nana's, Durham"
 date: "2009-02-04"
 categories: 
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 ---
 

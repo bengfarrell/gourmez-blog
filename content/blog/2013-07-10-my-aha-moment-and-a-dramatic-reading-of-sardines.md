@@ -3,7 +3,7 @@ title: "My Aha Moment and a dramatic reading of \"Sardines\""
 date: "2013-07-10"
 categories:
   - "announcements"
-  - "writing"
+  - "announcements"
 tags:
   - "cannery-row"
   - "fourth-grade"
@@ -15,7 +15,7 @@ tags:
   - "poem"
   - "raleigh"
   - "sardines"
-  - "writing"
+  - "announcements"
 ---
 
 A few weeks back, I recorded my aha moment. How does one record an aha moment? Funny you should ask, because I didn't know either until the aha moment team asked me to come in and do a little video session with them for their national campaign. The "they" in all this is Mutual of Omaha, and "my aha moment" is an ad campaign they've been running for the past couple of years. It's a clever way to do promotions--a team of videographers tours the country and invites locals to come into their Airstream and share the aha moments that have set them down whatever path they are pursuing, whether charity work or a career.

@@ -3,7 +3,7 @@ title: "Raspberry Veranda at Parizade"
 date: "2011-05-10"
 categories: 
   - "bars"
-  - "bars-in-durham-nc"
+  - "bars"
 tags: 
   - "chambord"
   - "cocktail"

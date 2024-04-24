@@ -3,7 +3,7 @@ title: "Sugar High Dessert Dispensary"
 date: "2014-03-25"
 categories: 
   - "bakeries"
-  - "ice-cream-bakery-food-truck"
+  
 tags: 
   - "bakery"
   - "banana"

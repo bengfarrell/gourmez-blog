@@ -3,7 +3,7 @@ title: "Burly Beverages Shrub and Soda Syrups"
 date: "2020-07-06"
 categories:
   - "recipes"
-  - "ice-cream-bakery-food-truck"
+  
   - "product-reviews"
 tags:
   - "burly-beverages"

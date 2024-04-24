@@ -2,8 +2,8 @@
 title: "Fat Grape Winery 2010 Merlot"
 date: "2014-01-21"
 categories: 
-  - "merlot"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
   - "wine"
 tags: 
   - "2010"

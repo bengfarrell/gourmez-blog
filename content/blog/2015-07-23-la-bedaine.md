@@ -3,7 +3,7 @@ title: "La Bedaine"
 date: "2015-07-23"
 categories: 
   - "bakeries"
-  - "ice-cream-bakery-food-truck"
+  
 tags: 
   - "albany"
   - "apple-almond-tart"

@@ -3,12 +3,12 @@ title: "Pairing Suggestions for Indaba Wines"
 date: "2015-09-22"
 categories: 
   - "announcements"
-  - "chenin-blanc"
-  - "food-product-review"
-  - "other-red-blends"
+  - "wine"
+  
+  - "wine"
   - "product-reviews"
-  - "red-wine-review"
-  - "white-wine-reviews"
+  - "wine"
+  - "wine"
   - "wine"
 tags: 
   - "cape-classics"

@@ -3,7 +3,7 @@ title: "Brotzeit Lokal"
 date: "2016-05-05"
 categories:
   - "cider"
-  - "oakland-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags:
   - "aspalls-cider"

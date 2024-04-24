@@ -2,7 +2,7 @@
 title: "Lunar New Year Celebration at BK’s Bistro"
 date: "2014-03-04"
 categories:
-  - "fremont-restaurant-reviews"
+  - "restaurants"
   - "events"
   - "restaurants"
 tags:

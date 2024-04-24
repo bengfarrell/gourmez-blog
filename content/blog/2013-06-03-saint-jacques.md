@@ -2,7 +2,7 @@
 title: "Saint Jacques"
 date: "2013-06-03"
 categories: 
-  - "raleigh-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "amuse-bouche"

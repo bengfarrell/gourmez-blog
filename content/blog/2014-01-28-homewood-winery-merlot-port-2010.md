@@ -2,8 +2,8 @@
 title: "Homewood Winery Merlot Port 2010"
 date: "2014-01-28"
 categories: 
-  - "fortified-wine"
-  - "port-fortified-wine"
+  - "wine"
+  - "wine"
   - "wine"
 tags: 
   - "2010"

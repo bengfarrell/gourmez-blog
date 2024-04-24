@@ -2,7 +2,7 @@
 title: "Yelp's Mathletes vs. Athletes Party"
 date: "2011-05-09"
 categories: 
-  - "raleigh-restaurant-reviews"
+  - "restaurants"
   - "events"
   - "restaurants"
 tags: 

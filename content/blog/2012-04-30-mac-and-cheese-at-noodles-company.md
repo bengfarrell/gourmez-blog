@@ -2,7 +2,7 @@
 title: "Mac and Cheese at Noodles &amp; Company"
 date: "2012-04-30"
 categories: 
-  - "raleigh-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "american"

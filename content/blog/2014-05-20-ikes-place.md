@@ -2,7 +2,7 @@
 title: "Ike's Place"
 date: "2014-05-20"
 categories:
-  - "danville-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags:
   - "bay-area"

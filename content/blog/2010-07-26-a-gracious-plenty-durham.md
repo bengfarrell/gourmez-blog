@@ -2,7 +2,7 @@
 title: "A Gracious Plenty (Durham) *CLOSED*"
 date: "2010-07-26"
 categories: 
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "a-gracious-plenty"

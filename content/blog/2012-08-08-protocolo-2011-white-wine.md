@@ -2,8 +2,8 @@
 title: "Protocolo 2011 White Wine"
 date: "2012-08-08"
 categories: 
-  - "white-tempranillo"
-  - "white-wine-reviews"
+  - "wine"
+  - "wine"
   - "wine"
 tags: 
   - "2011"

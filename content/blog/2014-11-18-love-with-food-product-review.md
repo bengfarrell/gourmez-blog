@@ -2,7 +2,7 @@
 title: "Love With Food Product Review"
 date: "2014-11-18"
 categories:
-  - "food-product-review"
+  
   - "product-reviews"
 tags:
   - "180-snacks"
@@ -15,7 +15,7 @@ tags:
   - "marinara-pasta-chips"
   - "nut-free"
   - "nutty-rice-bites"
-  - "product-review"
+  - "product-reviews"
   - "review"
   - "revolution-tea"
   - "sampler"

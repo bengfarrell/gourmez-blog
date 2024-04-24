@@ -2,7 +2,7 @@
 title: "High Peaks Kitchen"
 date: "2016-01-04"
 categories: 
-  - "oakland-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "chicken"

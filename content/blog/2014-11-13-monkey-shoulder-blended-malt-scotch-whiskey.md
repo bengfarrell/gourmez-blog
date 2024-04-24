@@ -2,7 +2,7 @@
 title: "Monkey Shoulder Blended Malt Scotch Whiskey"
 date: "2014-11-13"
 categories: 
-  - "whiskey-whisky-review"
+  - "spirits"
 tags: 
   - "apricot"
   - "blended"

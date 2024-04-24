@@ -2,7 +2,7 @@
 title: "Nelsons (Cameron Village, Raleigh) *CLOSED*"
 date: "2007-04-27"
 categories:
-  - "raleigh-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags:
   - "cameron-village"

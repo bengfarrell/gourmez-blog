@@ -2,7 +2,7 @@
 title: "ViPova Cannabidiol Tea"
 date: "2015-10-20"
 categories: 
-  - "beverage-product-review"
+  
   - "product-reviews"
 tags: 
   - "black-tea"
@@ -13,7 +13,7 @@ tags:
   - "hemp"
   - "marijuana"
   - "odor"
-  - "product-review"
+  - "product-reviews"
   - "smell"
   - "tannins"
   - "tea"

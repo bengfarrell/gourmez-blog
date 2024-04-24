@@ -2,8 +2,8 @@
 title: "Quarles Harris Ruby Porto"
 date: "2011-01-03"
 categories: 
-  - "fortified-wine"
-  - "port-fortified-wine"
+  - "wine"
+  - "wine"
 tags: 
   - "boston-dc-san-fran-wine-blog"
   - "brown-sugar"

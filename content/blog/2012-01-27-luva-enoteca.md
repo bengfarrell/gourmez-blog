@@ -2,7 +2,7 @@
 title: "L’Uva Enoteca"
 date: "2012-01-27"
 categories: 
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "arugula"

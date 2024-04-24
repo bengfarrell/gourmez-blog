@@ -2,7 +2,7 @@
 title: "Restaurant Review--Rue Cler, Downtown Durham"
 date: "2009-05-29"
 categories:
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags:
   - "beignet"

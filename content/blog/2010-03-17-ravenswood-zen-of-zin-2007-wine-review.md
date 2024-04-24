@@ -2,7 +2,7 @@
 title: "Ravenswood Zen of Zin 2007---Wine Review"
 date: "2010-03-17"
 categories:
-  - "red-wine-review"
+  - "wine"
 tags:
   - "2007-vintage"
   - "a-good-time-with-wine"

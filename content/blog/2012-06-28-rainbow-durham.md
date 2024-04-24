@@ -2,7 +2,7 @@
 title: "Rainbow"
 date: "2012-06-28"
 categories: 
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "boba"

@@ -2,8 +2,8 @@
 title: "Condesa de Sarabella Viura 2008 -- Wine Review"
 date: "2009-12-04"
 categories:
-  - "macabeo-viura"
-  - "white-wine-reviews"
+  - "wine"
+  - "wine"
 tags:
   - "apple-nose"
   - "condesa-de-sarabella-viura-2008"

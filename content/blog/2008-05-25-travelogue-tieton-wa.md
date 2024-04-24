@@ -2,7 +2,7 @@
 title: "Travelogue:  Tieton, WA"
 date: "2008-05-25"
 categories: 
-  - "tieton-travel"
+  - "travel-guides"
 ---
 
 Written 5/12/2008

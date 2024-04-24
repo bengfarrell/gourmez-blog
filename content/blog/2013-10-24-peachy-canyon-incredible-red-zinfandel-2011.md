@@ -2,8 +2,8 @@
 title: "Peachy Canyon Incredible Red Zinfandel 2011"
 date: "2013-10-24"
 categories: 
-  - "zinfandel"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
 tags: 
   - "2011"
   - "cedar"

@@ -2,7 +2,7 @@
 title: "Horizon 2004 Carolina Comfort"
 date: "2007-04-27"
 categories:
-  - "dessert-wine-reviews"
+  - "wine"
 tags:
   - "2004"
   - "carolina-comfort"

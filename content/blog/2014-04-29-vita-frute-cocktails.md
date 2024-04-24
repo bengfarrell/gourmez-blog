@@ -2,9 +2,9 @@
 title: "Vita Frute Cocktails"
 date: "2014-04-29"
 categories: 
-  - "beverage-product-review"
+  
   - "recipes"
-  - "other-spirits"
+  - "spirits"
   - "product-reviews"
   - "spirits"
 tags: 

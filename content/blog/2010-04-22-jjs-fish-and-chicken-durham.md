@@ -2,7 +2,7 @@
 title: "JJ's Fish and Chicken (Durham)"
 date: "2010-04-22"
 categories:
-  - "raleigh-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags:
   - "coleslaw"

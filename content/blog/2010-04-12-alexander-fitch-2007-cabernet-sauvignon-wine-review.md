@@ -2,8 +2,8 @@
 title: "Alexander &amp; Fitch 2007 Cabernet Sauvignon---Wine Review"
 date: "2010-04-12"
 categories:
-  - "cabernet-sauvignon"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
   - "wine"
 tags:
   - "2007-vintage"

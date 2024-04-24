@@ -2,8 +2,8 @@
 title: "Bandit Wines Cabernet Sauvignon"
 date: "2015-03-17"
 categories: 
-  - "cabernet-sauvignon"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
   - "wine"
 tags: 
   - "bandit"

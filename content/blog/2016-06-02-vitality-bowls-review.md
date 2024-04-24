@@ -2,8 +2,8 @@
 title: "Vitality Bowls"
 date: "2016-06-02"
 categories: 
-  - "dining-in-walnut-creek"
-  - "food-product-review"
+  - "restaurants"
+  
   - "product-reviews"
   - "restaurants"
 tags: 

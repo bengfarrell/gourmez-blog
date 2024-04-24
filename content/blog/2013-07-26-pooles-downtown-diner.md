@@ -2,7 +2,7 @@
 title: "Poole's Downtown Diner"
 date: "2013-07-26"
 categories: 
-  - "raleigh-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "ashley-christiansen"

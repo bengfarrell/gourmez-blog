@@ -2,8 +2,8 @@
 title: "Graham’s Six Grapes Reserve Port"
 date: "2017-02-24"
 categories:
-  - "fortified-wine"
-  - "port-fortified-wine"
+  - "wine"
+  - "wine"
   - "wine"
 tags:
   - "douro"

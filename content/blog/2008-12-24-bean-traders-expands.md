@@ -2,8 +2,8 @@
 title: "Bean Traders Expands!"
 date: "2008-12-24"
 categories: 
-  - "coffee-shop"
-  - "durham-coffee-shop-reviews"
+  - "coffee-shops"
+  - "coffee-shops"
   - "events"
 ---
 

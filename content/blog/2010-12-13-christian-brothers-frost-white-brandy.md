@@ -2,7 +2,7 @@
 title: "Christian Brothers Frost White Brandy"
 date: "2010-12-13"
 categories:
-  - "brandy"
+  - "spirits"
 tags:
   - "christian-brothers"
   - "cocktails-only"

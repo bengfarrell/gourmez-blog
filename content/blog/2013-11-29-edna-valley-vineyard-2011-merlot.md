@@ -2,8 +2,8 @@
 title: "Edna Valley Vineyard 2011 Merlot"
 date: "2013-11-29"
 categories: 
-  - "merlot"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
   - "wine"
 tags: 
   - "2011"

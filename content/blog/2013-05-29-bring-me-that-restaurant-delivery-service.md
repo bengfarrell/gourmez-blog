@@ -2,7 +2,7 @@
 title: "Bring Me That Restaurant Delivery Service"
 date: "2013-05-29"
 categories:
-  - "food-product-review"
+  
   - "product-reviews"
 tags:
   - "asian-kitchen"

@@ -2,8 +2,8 @@
 title: "Lazy Bones Cabernet Franc 2009"
 date: "2011-02-02"
 categories: 
-  - "cabernet-franc"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
 tags: 
   - "2009"
   - "cabernet-franc"

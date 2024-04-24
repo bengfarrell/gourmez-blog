@@ -2,8 +2,8 @@
 title: "Martine Galhoune Moulin 2010 Pinot Noir"
 date: "2011-11-09"
 categories: 
-  - "pinot-noir"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
   - "wine"
 tags: 
   - "2010-vintage"

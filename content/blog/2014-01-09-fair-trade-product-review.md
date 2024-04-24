@@ -2,8 +2,8 @@
 title: "Fair Trade Product Review"
 date: "2014-01-09"
 categories: 
-  - "beverage-product-review"
-  - "food-product-review"
+  
+  
   - "product-reviews"
 tags: 
   - "archer-farms-coffee"
@@ -22,7 +22,7 @@ tags:
   - "make-a-stand"
   - "perk"
   - "prana"
-  - "product-review"
+  - "product-reviews"
   - "snacking-chocolate"
   - "target"
   - "tierra-del-sol"

@@ -2,7 +2,7 @@
 title: "A Brunch at Son and Garden and Peek at the Secret Bar"
 date: "2020-04-04"
 categories:
-  - "san-francisco-restaurant-review"
+  - "restaurants"
 tags:
   - "brunch"
   - "restaurant-review"

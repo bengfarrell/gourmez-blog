@@ -2,7 +2,7 @@
 title: "Kinston, NC, Blogging: Chef and the Farmer"
 date: "2013-04-10"
 categories:
-  - "kinston-nc-restaurant-review"
+  - "restaurants"
   - "restaurants"
 tags:
   - "benjamin-knight"

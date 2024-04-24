@@ -4,8 +4,8 @@ date: "2009-02-19"
 categories:
   
   - "bars"
-  - "breweries-in-raleigh-nc"
-  - "raleigh-restaurant-reviews"
+  
+  - "restaurants"
   - "restaurants"
 tags:
   - "99-bottles"

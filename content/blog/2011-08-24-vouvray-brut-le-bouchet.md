@@ -2,10 +2,10 @@
 title: "Vouvray Brut Le Bouchet"
 date: "2011-08-24"
 categories: 
-  - "champagne"
-  - "chenin-blanc"
-  - "sparkling-wine-review"
-  - "vouvray"
+  - "wine"
+  - "wine"
+  - "wine"
+  - "wine"
 tags: 
   - "almond"
   - "brut"

@@ -3,7 +3,7 @@ title: "Golden Era @ Foundation"
 date: "2011-12-30"
 categories: 
   - "bars"
-  - "bars-in-raleigh-nc"
+  - "bars"
   - "cider"
 tags: 
   - "bitters"

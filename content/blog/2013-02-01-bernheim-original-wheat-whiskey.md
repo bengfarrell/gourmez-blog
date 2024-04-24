@@ -2,9 +2,9 @@
 title: "Bernheim Original Wheat Whiskey"
 date: "2013-02-01"
 categories: 
-  - "bourbon"
   - "spirits"
-  - "whiskey-whisky-review"
+  - "spirits"
+  - "spirits"
 tags: 
   - "bernheim"
   - "honey"

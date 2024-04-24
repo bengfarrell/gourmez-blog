@@ -2,7 +2,7 @@
 title: "Susan Alexander Truffled Popcorn"
 date: "2015-02-03"
 categories: 
-  - "food-product-review"
+  
   - "product-reviews"
 tags: 
   - "popcorn"

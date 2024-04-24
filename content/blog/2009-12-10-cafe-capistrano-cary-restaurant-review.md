@@ -2,7 +2,7 @@
 title: "Cafe Capistrano (Cary) -- Restaurant Review *CLOSED*"
 date: "2009-12-10"
 categories: 
-  - "cary-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "black-beans"

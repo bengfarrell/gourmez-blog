@@ -2,7 +2,7 @@
 title: "Infuse Your Meal at the Infusion Lounge When You Visit San Francisco"
 date: "2015-11-16"
 categories:
-  - "san-francisco-restaurant-review"
+  - "restaurants"
   - "restaurants"
 tags:
   - "asian-fusion"

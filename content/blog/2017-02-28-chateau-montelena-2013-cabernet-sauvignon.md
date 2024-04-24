@@ -2,8 +2,8 @@
 title: "Chateau Montelena 2013 Cabernet Sauvignon"
 date: "2017-02-28"
 categories: 
-  - "cabernet-sauvignon"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
   - "wine"
 tags: 
   - "cab-sav"

@@ -2,8 +2,8 @@
 title: "Jacob's Creek Reserve Shiraz 2004"
 date: "2007-04-26"
 categories: 
-  - "red-wine-review"
-  - "shiraz"
+  - "wine"
+  - "wine"
   - "wine"
 tags: 
   - "2004"

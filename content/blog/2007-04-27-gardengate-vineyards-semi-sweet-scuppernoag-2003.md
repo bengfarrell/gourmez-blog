@@ -2,7 +2,7 @@
 title: "GardenGate Vineyards Semi-Sweet Scuppernoag 2003"
 date: "2007-04-27"
 categories:
-  - "dessert-wine-reviews"
+  - "wine"
 tags:
   - "2003"
   - "gardengate-vineyards"

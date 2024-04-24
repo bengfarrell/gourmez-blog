@@ -2,7 +2,7 @@
 title: "The Crow's Nest"
 date: "2014-05-06"
 categories: 
-  - "santa-cruz-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "college-dreams"

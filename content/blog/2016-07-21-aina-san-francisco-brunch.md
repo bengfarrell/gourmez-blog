@@ -2,7 +2,7 @@
 title: "'āina"
 date: "2016-07-21"
 categories: 
-  - "san-francisco-restaurant-review"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "aina"

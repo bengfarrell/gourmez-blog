@@ -3,7 +3,7 @@ title: "Espresso Martini at Broad Street"
 date: "2012-01-13"
 categories: 
   - "bars"
-  - "bars-in-durham-nc"
+  - "bars"
 tags: 
   - "alcohol"
   - "baileys-chambord"

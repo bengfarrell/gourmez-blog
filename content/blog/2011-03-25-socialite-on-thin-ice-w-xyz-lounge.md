@@ -3,7 +3,7 @@ title: "Socialite on Thin Ice, W XYZ Lounge"
 date: "2011-03-25"
 categories: 
   - "bars"
-  - "bars-chapel-hill-nc"
+  - "bars"
 tags: 
   - "aloft"
   - "chapel-hill"

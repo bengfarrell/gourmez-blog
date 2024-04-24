@@ -3,9 +3,9 @@ title: "Cold-Brewed Iced Coffee"
 date: "2010-07-26"
 categories: 
   - "announcements"
-  - "coffee-shop"
-  - "recipes-2"
-  - "writing"
+  - "coffee-shops"
+  - "recipes"
+  - "announcements"
 tags: 
   - "coffee"
   - "cold-brewed-coffee"

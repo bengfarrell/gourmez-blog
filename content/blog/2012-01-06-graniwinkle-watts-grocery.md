@@ -3,8 +3,8 @@ title: "Graniwinkle @ Watts Grocery"
 date: "2012-01-06"
 categories: 
   - "bars"
-  - "bars-in-durham-nc"
-  - "brandy"
+  - "bars"
+  - "spirits"
   - "cider"
 tags: 
   - "apple-cider"

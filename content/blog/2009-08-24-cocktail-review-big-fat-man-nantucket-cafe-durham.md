@@ -2,7 +2,7 @@
 title: "Cocktail Review--Big Fat Man, Nantucket Cafe, Durham"
 date: "2009-08-24"
 categories:
-  - "bars-in-durham-nc"
+  - "bars"
 tags:
   - "big-fat-man-cocktail"
   - "bourbon-manhattan"

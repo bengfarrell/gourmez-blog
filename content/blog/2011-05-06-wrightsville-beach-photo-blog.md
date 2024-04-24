@@ -2,7 +2,7 @@
 title: "Wrightsville Beach Photo Blog"
 date: "2011-05-06"
 categories:
-  - "wrightsville-beach-travel"
+  - "travel-guides"
 tags:
   - "boardwalk"
   - "britts-donut-shop"

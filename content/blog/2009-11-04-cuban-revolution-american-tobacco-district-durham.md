@@ -2,7 +2,7 @@
 title: "Cuban Revolution, American Tobacco District (Durham)"
 date: "2009-11-04"
 categories:
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags:
   - "american-tobacco-district-restaurant"

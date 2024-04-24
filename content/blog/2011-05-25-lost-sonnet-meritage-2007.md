@@ -2,8 +2,8 @@
 title: "Lost Sonnet Meritage 2007"
 date: "2011-05-25"
 categories: 
-  - "meritage"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
   - "wine"
 tags: 
   - "2007"

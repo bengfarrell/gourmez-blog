@@ -2,8 +2,8 @@
 title: "Wine Review--Turning Leaf Pinot Noir 2007"
 date: "2009-10-23"
 categories: 
-  - "pinot-noir"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
 tags: 
   - "anne-of-green-gables"
   - "cherry-cordial"

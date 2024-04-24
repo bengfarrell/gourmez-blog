@@ -2,9 +2,9 @@
 title: "Wilmoore Cafe *CLOSED*"
 date: "2012-06-11"
 categories: 
-  - "coffee-shop"
-  - "raleigh-coffee-shop-reviews"
-  - "raleigh-restaurant-reviews"
+  - "coffee-shops"
+  - "coffee-shops"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "allergy"

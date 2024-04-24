@@ -2,7 +2,7 @@
 title: "Kiuchi Yuzu Wine---Wine Review"
 date: "2010-04-21"
 categories: 
-  - "dessert-wine-reviews"
+  - "wine"
 tags: 
   - "dessert-wines"
   - "japanese-wine"

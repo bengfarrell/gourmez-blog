@@ -2,8 +2,8 @@
 title: "Schloss Biebrech Sekt -- Wine Review"
 date: "2009-11-06"
 categories: 
-  - "schloss-biebrech-sekt"
-  - "sparkling-wine-review"
+  - "wine"
+  - "wine"
 tags: 
   - "floral-notes"
   - "german-sparkling-wine"

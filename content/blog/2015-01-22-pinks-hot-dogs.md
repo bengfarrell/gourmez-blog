@@ -2,7 +2,7 @@
 title: "Pink's Hot Dogs"
 date: "2015-01-22"
 categories:
-  - "los-angeles-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags:
   - "celebrities"

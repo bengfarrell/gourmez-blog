@@ -3,9 +3,9 @@ title: "Oak Farm Vineyards Winery Expansion!"
 date: "2014-09-26"
 categories:
   - "events"
-  - "tasting-rooms-in-lodi-ca"
-  - "lodi-travel"
-  - "travel-product-review"
+  - "tasting-rooms"
+  - "travel-guides"
+  
   - "wine"
 tags:
   - "central-california"

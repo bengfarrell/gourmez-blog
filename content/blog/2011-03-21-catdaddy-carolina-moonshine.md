@@ -2,7 +2,7 @@
 title: "Catdaddy Carolina Moonshine"
 date: "2011-03-21"
 categories: 
-  - "moonshine-reviews"
+  - "spirits"
 tags: 
   - "american-craft-spirits"
   - "bourbon-blog"

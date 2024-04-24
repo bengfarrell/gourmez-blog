@@ -2,8 +2,8 @@
 title: "Casa La Joya Reserve Cabernet Sauvignon 2002"
 date: "2007-04-26"
 categories: 
-  - "cabernet-sauvignon"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
   - "wine"
 tags: 
   - "2002"

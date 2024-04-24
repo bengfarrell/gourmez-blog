@@ -2,7 +2,7 @@
 title: "Green Chartreuse, a sipping."
 date: "2010-08-13"
 categories: 
-  - "liqueur-reviews"
+  - "spirits"
   - "spirits"
 tags: 
   - "bars"

@@ -2,14 +2,14 @@
 title: "7th Annual Sustainable Contra Costa Gala"
 date: "2015-10-01"
 categories:
-  - "chardonnay-rose"
-  - "dining-in-concord"
+  - "wine"
+  - "restaurants"
   - "events"
-  - "food-product-review"
-  - "port-fortified-wine"
-  - "zinfandel"
-  - "red-wine-review"
-  - "rose-review"
+  
+  - "wine"
+  - "wine"
+  - "wine"
+  - "wine"
   - "wine"
 tags:
   - "awards"

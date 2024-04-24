@@ -2,7 +2,7 @@
 title: "Scratch"
 date: "2016-07-12"
 categories: 
-  - "dining-in-mountain-view"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "bay-area"

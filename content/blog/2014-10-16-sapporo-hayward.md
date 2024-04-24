@@ -2,7 +2,7 @@
 title: "Sapporo"
 date: "2014-10-16"
 categories:
-  - "hayward-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags:
   - "avocado"

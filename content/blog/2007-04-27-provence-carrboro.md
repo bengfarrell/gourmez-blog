@@ -2,7 +2,7 @@
 title: "Provence (Carrboro)"
 date: "2007-04-27"
 categories:
-  - "dining-in-carrboro-nc"
+  - "restaurants"
   - "restaurants"
 tags:
   - "carrboro"

@@ -2,8 +2,8 @@
 title: "Stellarcon 2011 and High Point, NC"
 date: "2011-04-05"
 categories:
-  - "high-point-nc-travel"
-  - "writing"
+  - "travel-guides"
+  - "announcements"
 tags:
   - "buildings"
   - "costumes"

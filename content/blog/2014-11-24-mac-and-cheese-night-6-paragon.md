@@ -2,7 +2,7 @@
 title: "Mac and Cheese Night #6: Paragon"
 date: "2014-11-24"
 categories: 
-  - "san-francisco-restaurant-review"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "apple-sangria"

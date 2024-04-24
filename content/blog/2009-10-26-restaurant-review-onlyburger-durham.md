@@ -2,7 +2,7 @@
 title: "Restaurant Review--OnlyBurger (Durham)"
 date: "2009-10-26"
 categories: 
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "butter-toasted-buns"

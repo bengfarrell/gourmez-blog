@@ -2,7 +2,7 @@
 title: "Mac &amp; Cheese Night #7 at Farmerbrown"
 date: "2015-02-05"
 categories: 
-  - "san-francisco-restaurant-review"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "baby-back-ribs"

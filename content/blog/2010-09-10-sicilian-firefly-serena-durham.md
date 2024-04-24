@@ -3,7 +3,7 @@ title: "Sicilian Firefly @ Serena"
 date: "2010-09-10"
 categories: 
   - "bars"
-  - "bars-in-durham-nc"
+  - "bars"
 tags: 
   - "banana-schnapps"
   - "cocktail"

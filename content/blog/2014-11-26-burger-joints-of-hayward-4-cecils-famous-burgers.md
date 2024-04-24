@@ -2,7 +2,7 @@
 title: "Burger Joints of Hayward #4: Cecil's Famous Burgers"
 date: "2014-11-26"
 categories: 
-  - "hayward-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "american-cheese"

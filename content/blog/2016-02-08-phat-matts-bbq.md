@@ -2,7 +2,7 @@
 title: "Phat Matt's BBQ"
 date: "2016-02-08"
 categories: 
-  - "oakland-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "bbq"

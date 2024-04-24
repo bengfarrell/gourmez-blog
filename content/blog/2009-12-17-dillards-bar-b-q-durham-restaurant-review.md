@@ -2,7 +2,7 @@
 title: "Dillard's Bar-B-Q (Durham) -- Restaurant Review"
 date: "2009-12-17"
 categories:
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags:
   - "candied-yams"

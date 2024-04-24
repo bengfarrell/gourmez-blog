@@ -3,7 +3,7 @@ title: "The Alex Martini (George's Garage, Durham) *CLOSED*"
 date: "2007-04-26"
 categories:
   - "bars"
-  - "bars-in-durham-nc"
+  - "bars"
 tags:
   - "durham-cocktails"
   - "georges-garage"

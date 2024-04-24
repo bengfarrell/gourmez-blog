@@ -2,7 +2,7 @@
 title: "Carmen's Cuban Cafe"
 date: "2012-05-21"
 categories: 
-  - "morrisville-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "cafe-con-leche"

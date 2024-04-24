@@ -2,7 +2,7 @@
 title: "Tres Generaciones Plata"
 date: "2011-01-31"
 categories: 
-  - "tequila"
+  - "spirits"
 tags: 
   - "buttery"
   - "cocktail-enthusiast"

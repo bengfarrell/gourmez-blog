@@ -3,7 +3,7 @@ title: "All is Fair (Revolution, Downtown Durham)---Cocktail Review"
 date: "2010-04-14"
 categories: 
   - "bars"
-  - "bars-in-durham-nc"
+  - "bars"
   - "events"
 tags: 
   - "all-is-fair"

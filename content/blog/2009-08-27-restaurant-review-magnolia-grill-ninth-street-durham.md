@@ -2,7 +2,7 @@
 title: "Restaurant Review--Magnolia Grill, Ninth Street, Durham"
 date: "2009-08-27"
 categories:
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags:
   - "durham-restaurants"

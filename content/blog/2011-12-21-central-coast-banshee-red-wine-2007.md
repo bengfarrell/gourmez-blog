@@ -2,8 +2,8 @@
 title: "Central Coast Banshee Red Wine 2007"
 date: "2011-12-21"
 categories: 
-  - "other-red-blends"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
 ---
 
 **Central Coast Banshee Red Wine 2007**

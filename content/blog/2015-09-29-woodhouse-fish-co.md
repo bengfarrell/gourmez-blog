@@ -2,7 +2,7 @@
 title: "Woodhouse Fish Co."
 date: "2015-09-29"
 categories: 
-  - "san-francisco-restaurant-review"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "artichoke"

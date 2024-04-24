@@ -2,8 +2,8 @@
 title: "Wine Review--Abrazo Syrah 2007"
 date: "2009-08-05"
 categories: 
-  - "red-wine-review"
-  - "shiraz"
+  - "wine"
+  - "wine"
   - "wine"
 tags: 
   - "abrazo-del-toro"

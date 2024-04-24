@@ -3,8 +3,8 @@ title: "Hummingbird Bakery"
 date: "2013-01-25"
 categories: 
   - "bakeries"
-  - "durham-restaurant-reviews"
-  - "ice-cream-bakery-food-truck"
+  - "restaurants"
+  
   - "restaurants"
 tags: 
   - "almond-joy-cupcake"

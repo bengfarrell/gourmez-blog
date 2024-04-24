@@ -2,9 +2,9 @@
 title: "Experience the Phantom Wine Story in Your Glass and On Your Phone"
 date: "2019-12-18"
 categories:
-  - "chardonnay"
-  - "red-wine-review"
-  - "white-wine-reviews"
+  - "wine"
+  - "wine"
+  - "wine"
   - "wine"
 tags:
   - "app"

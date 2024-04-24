@@ -2,7 +2,7 @@
 title: "The Bloody Brunch (Motorco and Ko Kyu BBQ)"
 date: "2011-06-14"
 categories: 
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "events"
   - "restaurants"
 tags: 

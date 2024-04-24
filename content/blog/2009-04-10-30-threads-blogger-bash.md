@@ -4,7 +4,7 @@ date: "2009-04-10"
 categories: 
   - "announcements"
   - "events"
-  - "writing"
+  - "announcements"
 tags: 
   - "30-threads-blogger-bash"
   - "dpac"

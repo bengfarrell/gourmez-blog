@@ -2,8 +2,8 @@
 title: "Martellozzo Prosecco---Wine Review"
 date: "2010-03-22"
 categories: 
-  - "prosecco"
-  - "sparkling-wine-review"
+  - "wine"
+  - "wine"
 tags: 
   - "bubbly"
   - "cork"

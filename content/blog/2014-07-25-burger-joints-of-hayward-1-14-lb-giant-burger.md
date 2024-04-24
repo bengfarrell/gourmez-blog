@@ -2,7 +2,7 @@
 title: "Burger Joints of Hayward #1—1/4 Lb. Giant Burger"
 date: "2014-07-25"
 categories:
-  - "hayward-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags:
   - "14-lb"

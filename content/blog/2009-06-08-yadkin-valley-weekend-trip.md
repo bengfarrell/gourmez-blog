@@ -2,8 +2,8 @@
 title: "Yadkin Valley Weekend Trip"
 date: "2009-06-08"
 categories: 
-  - "tasting-rooms-in-the-yadkin-valley-nc"
-  - "travel-guide-to-the-yadkin-valley-nc"
+  - "tasting-rooms"
+  - "travel-guides"
 tags: 
   - "buck-shoals-vineyard"
   - "elkin-creek-vineyard"

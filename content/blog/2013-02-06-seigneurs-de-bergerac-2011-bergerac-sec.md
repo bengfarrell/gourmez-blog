@@ -2,9 +2,9 @@
 title: "Seigneurs de Bergerac 2011 Bergerac Sec"
 date: "2013-02-06"
 categories: 
-  - "bergerac-sec"
-  - "dessert-wine-reviews"
-  - "white-wine-reviews"
+  - "wine"
+  - "wine"
+  - "wine"
   - "wine"
 tags: 
   - "2011"

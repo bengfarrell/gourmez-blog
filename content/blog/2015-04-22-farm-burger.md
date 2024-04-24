@@ -2,7 +2,7 @@
 title: "Farm Burger"
 date: "2015-04-22"
 categories:
-  - "berkeley-restaurant-review"
+  - "restaurants"
   - "restaurants"
 tags:
   - "berkeley"

@@ -2,8 +2,8 @@
 title: "Kingfish Cabernet Sauvignon 2005"
 date: "2007-04-26"
 categories: 
-  - "cabernet-sauvignon"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
 tags: 
   - "2005"
   - "kingfish"

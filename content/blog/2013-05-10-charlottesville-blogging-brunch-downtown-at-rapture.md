@@ -2,8 +2,8 @@
 title: "Charlottesville Blogging: Brunch Downtown at Rapture"
 date: "2013-05-10"
 categories:
-  - "charlottesville-virginia-bar-reviews"
-  - "charlottesville-virginia-restaurant-reviews"
+  - "bars"
+  - "restaurants"
   - "restaurants"
   - "spirits"
 tags:

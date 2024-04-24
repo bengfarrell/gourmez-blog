@@ -2,7 +2,7 @@
 title: "Unaabi Grill"
 date: "2011-04-04"
 categories: 
-  - "cary-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "afghan"

@@ -2,8 +2,8 @@
 title: "Red Diamond Shiraz 2009"
 date: "2013-02-19"
 categories: 
-  - "red-wine-review"
-  - "shiraz"
+  - "wine"
+  - "wine"
   - "wine"
 tags: 
   - "anise"

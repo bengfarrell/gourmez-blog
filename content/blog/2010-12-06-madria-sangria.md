@@ -2,8 +2,8 @@
 title: "Madria Sangria"
 date: "2010-12-06"
 categories:
-  - "other-red-blends"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
 tags:
   - "bottled-sangria"
   - "citrus"

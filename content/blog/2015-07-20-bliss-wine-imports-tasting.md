@@ -2,11 +2,11 @@
 title: "Bliss Wine Imports Tasting"
 date: "2015-07-20"
 categories:
-  - "colheita"
-  - "red-wine-review"
-  - "tempranillo"
-  - "verderon"
-  - "white-wine-reviews"
+  - "wine"
+  - "wine"
+  - "wine"
+  - "wine"
+  - "wine"
   - "wine"
 tags:
   - "alleah-friedrichs"

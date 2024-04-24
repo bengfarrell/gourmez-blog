@@ -2,7 +2,7 @@
 title: "Tyler's Restaurant and Tap Room--Downtown Carrboro"
 date: "2009-02-13"
 categories:
-  - "dining-in-carrboro-nc"
+  - "restaurants"
   - "restaurants"
 tags:
   - "carrboro-restaurants"

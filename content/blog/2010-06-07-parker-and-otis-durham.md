@@ -2,7 +2,7 @@
 title: "Parker and Otis (Durham)"
 date: "2010-06-07"
 categories:
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags:
   - "baked-goods"

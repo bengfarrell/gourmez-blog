@@ -2,15 +2,15 @@
 title: "Jujube's Bubbly Recession Wine Dinner"
 date: "2010-12-15"
 categories:
-  - "cava"
-  - "cava-rose"
-  - "dining-chapel-hill-nc"
-  - "events"
-  - "moscato-dasti"
-  - "prosecco"
+  - "wine"
+  
   - "restaurants"
-  - "rose-review"
-  - "sparkling-wine-review"
+  - "events"
+  - "wine"
+  - "wine"
+  - "restaurants"
+  - "wine"
+  - "wine"
 tags:
   - "adami-garbel-13"
   - "aria"

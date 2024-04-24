@@ -2,8 +2,8 @@
 title: "Zing Cafe in Berkeley"
 date: "2016-10-14"
 categories: 
-  - "coffee-shop"
-  - "coffee-in-berkeley"
+  - "coffee-shops"
+  - "coffee-shops"
 tags: 
   - "ashby"
   - "ashby-station"

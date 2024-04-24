@@ -2,11 +2,11 @@
 title: "A Day in Yakima"
 date: "2013-01-04"
 categories:
-  - "coffee-shop"
+  - "coffee-shops"
   - "coffee-shops-in-yakima-wa"
-  - "dining-in-yakima-wa"
   - "restaurants"
-  - "yakima-travel"
+  - "restaurants"
+  - "travel-guides"
 tags:
   - "ahoy-fish-and-chips"
   - "akin-center"

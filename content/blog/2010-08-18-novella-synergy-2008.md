@@ -2,8 +2,8 @@
 title: "Novella Synergy 2008"
 date: "2010-08-18"
 categories:
-  - "other-red-blends"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
 tags:
   - "2008"
   - "de-cantation"

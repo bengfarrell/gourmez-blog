@@ -2,8 +2,8 @@
 title: "Farmhand/Firsthand Foods Sausage Wagon"
 date: "2011-02-15"
 categories:
-  - "food-trucks-and-carts"
-  - "ice-cream-bakery-food-truck"
+  - "food-trucks"
+  
 tags:
   - "3-cups"
   - "farmhand-foods"

@@ -2,8 +2,8 @@
 title: "Wine Review--Dellatorri Chianti 2007"
 date: "2009-07-17"
 categories:
-  - "chianti"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
   - "wine"
 tags:
   - "cherry"

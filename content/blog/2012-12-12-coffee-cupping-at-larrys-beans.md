@@ -2,8 +2,8 @@
 title: "Coffee Cupping at Larry’s Beans"
 date: "2012-12-12"
 categories:
-  - "coffee-shop"
-  - "raleigh-coffee-shop-reviews"
+  - "coffee-shops"
+  - "coffee-shops"
   - "events"
 tags:
   - "abela-geluke"

@@ -2,9 +2,9 @@
 title: "Sweetly Raw Desserts: Chocolate Gingerbread Brownies and Almond Pear Cream Tart Recipes"
 date: "2015-06-10"
 categories:
-  - "food-product-review"
+  
   - "product-reviews"
-  - "recipes-2"
+  - "recipes"
 tags:
   - "almond"
   - "cashews"

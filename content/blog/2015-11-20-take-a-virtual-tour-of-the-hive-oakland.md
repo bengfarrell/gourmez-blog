@@ -3,11 +3,11 @@ title: "Take a Virtual Tour of Oakland's the Hive in time for Firebrand's Grand 
 date: "2015-11-20"
 categories:
   - "bars"
-  - "bars-in-oakland"
-  - "breweries-in-oakland-ca"
-  - "coffee-shop"
-  - "oakland-coffee-shop-reviews"
-  - "oakland-restaurant-reviews"
+  - "bars"
+  - "breweries"
+  - "coffee-shops"
+  - "coffee-shops"
+  - "restaurants"
   - "restaurants"
 tags:
   - "alison-roessler"

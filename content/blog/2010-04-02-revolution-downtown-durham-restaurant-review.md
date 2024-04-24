@@ -2,7 +2,7 @@
 title: "Revolution (Downtown Durham)---Restaurant Review"
 date: "2010-04-02"
 categories:
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags:
   - "durham-restaurants"

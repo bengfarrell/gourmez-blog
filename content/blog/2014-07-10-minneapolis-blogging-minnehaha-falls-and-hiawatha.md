@@ -2,9 +2,9 @@
 title: "Minneapolis Blogging: Minnehaha Falls and Hiawatha"
 date: "2014-07-10"
 categories:
-  - "minneapolis-dining"
   - "restaurants"
-  - "minneapolis-travel"
+  - "restaurants"
+  - "travel-guides"
 tags:
   - "beer-review"
   - "day-trip"

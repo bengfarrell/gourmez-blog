@@ -3,7 +3,7 @@ title: "Review Bragging - New WRAL Post"
 date: "2013-04-15"
 categories: 
   - "announcements"
-  - "durham-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "beans"

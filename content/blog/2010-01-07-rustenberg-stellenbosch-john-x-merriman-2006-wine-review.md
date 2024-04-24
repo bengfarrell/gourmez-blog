@@ -2,8 +2,8 @@
 title: "Rustenberg Stellenbosch John X Merriman 2006 -- Wine Review"
 date: "2010-01-07"
 categories:
-  - "red-bordeaux"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
   - "wine"
 tags:
   - "big-bold-wine"

@@ -3,8 +3,8 @@ title: "Kinston, NC, Blogging: Mother Earth Brewing"
 date: "2013-04-01"
 categories:
   - "breweries"
-  - "breweries-in-kinston-nc"
-  - "kinston-north-carolina-travel"
+  - "breweries"
+  - "travel-guides"
 tags:
   - "beer"
   - "brewery"

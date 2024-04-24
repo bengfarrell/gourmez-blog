@@ -2,8 +2,8 @@
 title: "Bean &amp; Barrel"
 date: "2010-08-19"
 categories:
-  - "coffee-shop"
-  - "chapel-hill-coffee-shop-reviews"
+  - "coffee-shops"
+  - "coffee-shops"
 tags:
   - "bar"
   - "bean-barrel"

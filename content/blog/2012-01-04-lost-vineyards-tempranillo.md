@@ -2,8 +2,8 @@
 title: "Lost Vineyards Tempranillo"
 date: "2012-01-04"
 categories: 
-  - "red-wine-review"
-  - "tempranillo"
+  - "wine"
+  - "wine"
   - "wine"
 tags: 
   - "blog"

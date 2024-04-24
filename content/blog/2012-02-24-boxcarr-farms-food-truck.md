@@ -2,9 +2,9 @@
 title: "Boxcarr Farms Food Truck"
 date: "2012-02-24"
 categories: 
-  - "durham-restaurant-reviews"
-  - "food-trucks-and-carts"
-  - "ice-cream-bakery-food-truck"
+  - "restaurants"
+  - "food-trucks"
+  
   - "restaurants"
 tags: 
   - "boxcarr-farms"

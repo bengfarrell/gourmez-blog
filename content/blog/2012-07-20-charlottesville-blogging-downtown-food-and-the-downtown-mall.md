@@ -2,11 +2,11 @@
 title: "Charlottesville Blogging: Downtown Food and the Downtown Mall"
 date: "2012-07-20"
 categories:
-  - "charlottesville-virginia-bar-reviews"
-  - "coffee-shop"
-  - "charlottesville-virginia-restaurant-reviews"
+  - "bars"
+  - "coffee-shops"
   - "restaurants"
-  - "charlottesville-virginia-travel"
+  - "restaurants"
+  - "travel-guides"
 tags:
   - "amphitheater"
   - "cafe-cubano"

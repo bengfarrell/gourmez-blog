@@ -2,7 +2,7 @@
 title: "Triangle Foodie Happenings"
 date: "2013-07-08"
 categories: 
-  - "coffee-shop"
+  - "coffee-shops"
   - "events"
   - "restaurants"
 tags: 

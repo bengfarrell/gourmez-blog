@@ -2,7 +2,7 @@
 title: "Tomasello Blackberry Wine"
 date: "2007-04-27"
 categories:
-  - "dessert-wine-reviews"
+  - "wine"
 tags:
   - "blackberry-wine"
   - "tomasello"

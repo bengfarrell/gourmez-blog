@@ -2,9 +2,9 @@
 title: "Terrenal Tempranillo and Garnacha 2009"
 date: "2011-05-04"
 categories: 
-  - "garnacha"
-  - "red-wine-review"
-  - "tempranillo"
+  - "wine"
+  - "wine"
+  - "wine"
 tags: 
   - "2009"
   - "cheap-wine-finder"

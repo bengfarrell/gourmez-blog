@@ -2,8 +2,8 @@
 title: "Maniña Cabernet Sauvignon 2011"
 date: "2012-04-25"
 categories: 
-  - "cabernet-sauvignon"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
   - "wine"
 tags: 
   - "berry"

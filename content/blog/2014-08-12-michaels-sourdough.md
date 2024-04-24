@@ -2,7 +2,7 @@
 title: "Michael's Sourdough"
 date: "2014-08-12"
 categories: 
-  - "san-rafael-restaurant-reviews"
+  - "restaurants"
   - "restaurants"
 tags: 
   - "bay-area"

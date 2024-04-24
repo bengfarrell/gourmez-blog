@@ -2,10 +2,10 @@
 title: "Counter Culture Coffee Cupping"
 date: "2013-07-17"
 categories:
-  - "coffee-shop"
-  - "durham-coffee-shop-reviews"
+  - "coffee-shops"
+  - "coffee-shops"
   - "events"
-  - "durham-north-carolina-travel"
+  - "travel-guides"
 tags:
   - "break"
   - "brightness"

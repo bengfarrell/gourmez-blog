@@ -2,9 +2,9 @@
 title: "Sunshine Energy Drink - Ginger Berry"
 date: "2016-05-24"
 categories: 
-  - "beverage-product-review"
+  
   - "recipes"
-  - "gin-reviews"
+  - "spirits"
   - "product-reviews"
 tags: 
   - "blackberry"

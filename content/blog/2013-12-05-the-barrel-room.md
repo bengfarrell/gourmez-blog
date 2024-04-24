@@ -3,7 +3,7 @@ title: "The Barrel Room"
 date: "2013-12-05"
 categories: 
   - "wine-bars"
-  - "tasting-rooms-in-san-francisco-ca"
+  - "tasting-rooms"
   - "wine"
 tags: 
   - "bar"

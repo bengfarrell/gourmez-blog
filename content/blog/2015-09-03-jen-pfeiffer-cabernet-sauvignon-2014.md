@@ -2,8 +2,8 @@
 title: "Jen Pfeiffer Cabernet Sauvignon 2014"
 date: "2015-09-03"
 categories: 
-  - "cabernet-sauvignon"
-  - "red-wine-review"
+  - "wine"
+  - "wine"
 tags: 
   - "2014"
   - "blackberry"
