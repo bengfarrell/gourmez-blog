@@ -1,11 +1,10 @@
 ---
 title: "b. a. b. c. @ Revolution"
 date: "2012-04-23"
-categories: 
-  - "bars"
+categories:
   - "bars"
   - "spirits"
-tags: 
+tags:
   - "b-a-b-c"
   - "babc"
   - "cocktail"

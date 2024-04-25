@@ -3,7 +3,6 @@ title: "Ba-Bite"
 date: "2016-04-12"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "ba-bite"
   - "beets"

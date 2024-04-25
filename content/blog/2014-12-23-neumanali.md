@@ -1,10 +1,9 @@
 ---
 title: "Neumanali"
 date: "2014-12-23"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "b-street"
   - "cheescake"
   - "dinner"

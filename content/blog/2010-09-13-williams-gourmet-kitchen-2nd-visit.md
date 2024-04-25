@@ -3,7 +3,6 @@ title: "William's Gourmet Kitchen, 2nd visit"
 date: "2010-09-13"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "cheeseburger"
   - "covered-porch"

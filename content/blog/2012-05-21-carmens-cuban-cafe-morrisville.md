@@ -1,10 +1,9 @@
 ---
 title: "Carmen's Cuban Cafe"
 date: "2012-05-21"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "cafe-con-leche"
   - "carmens"
   - "carmens-cuban-cafe"

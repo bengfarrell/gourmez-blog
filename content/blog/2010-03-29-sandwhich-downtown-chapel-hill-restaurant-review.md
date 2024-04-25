@@ -1,10 +1,9 @@
 ---
 title: "Sandwhich @ Downtown Chapel Hill---Restaurant Review"
 date: "2010-03-29"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "bmt"
   - "chapel-hill"
   - "chicken-salad-sandwich"

@@ -1,10 +1,9 @@
 ---
 title: "Burger Joints of Hayward #2: Best Burger"
 date: "2014-07-29"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "best-burger"
   - "best-burgers"
   - "burger-joints"

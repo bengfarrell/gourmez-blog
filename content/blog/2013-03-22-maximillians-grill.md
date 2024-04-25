@@ -1,10 +1,9 @@
 ---
 title: "Maximillian’s Grill"
 date: "2013-03-22"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "best-restaurants"
   - "blood-and-sand"
   - "brownie-sundae"

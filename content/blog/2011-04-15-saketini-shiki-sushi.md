@@ -1,13 +1,11 @@
 ---
 title: "Saketini @ Shiki Sushi"
 date: "2011-04-15"
-categories: 
-  - "bars"
+categories:
   - "bars"
   - "sake"
   - "spirits"
-  - "spirits"
-tags: 
+tags:
   - "bars"
   - "cocktails"
   - "creamy"

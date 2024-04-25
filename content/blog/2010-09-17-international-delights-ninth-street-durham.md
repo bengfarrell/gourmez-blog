@@ -3,7 +3,6 @@ title: "International Delights"
 date: "2010-09-17"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "durham"
   - "falafel"

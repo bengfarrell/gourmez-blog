@@ -3,7 +3,6 @@ title: "Southern Fast Food Series #1: Bojangles' -- Restaurant Review"
 date: "2009-12-22"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "bojangles"
   - "cajun-fries"

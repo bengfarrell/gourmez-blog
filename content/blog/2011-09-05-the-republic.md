@@ -1,11 +1,10 @@
 ---
 title: "The Republic"
 date: "2011-09-05"
-categories: 
-  - "bars"
+categories:
   - "bars"
   - "spirits"
-tags: 
+tags:
   - "bars"
   - "berry-diddy-martini"
   - "ciroc-red-berry"

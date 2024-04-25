@@ -1,13 +1,11 @@
 ---
 title: "Westbrae Biergarten"
 date: "2015-09-01"
-categories: 
-  - "bars"
+categories:
   - "bars"
   - "cider"
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "beer"
   - "beer-garden"
   - "berkeley"

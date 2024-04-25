@@ -1,10 +1,9 @@
 ---
 title: "Afghan Village"
 date: "2014-04-01"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "afghan"
   - "afghan-village"
   - "afghani"

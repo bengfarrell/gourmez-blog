@@ -3,7 +3,6 @@ title: "Restaurant Review--Fins, Downtown Raleigh"
 date: "2009-10-09"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "asian-fusion"
   - "banana-rum-baba"

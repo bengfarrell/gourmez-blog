@@ -1,10 +1,9 @@
 ---
 title: "Espresso Martini at Broad Street"
 date: "2012-01-13"
-categories: 
+categories:
   - "bars"
-  - "bars"
-tags: 
+tags:
   - "alcohol"
   - "baileys-chambord"
   - "broad-street"

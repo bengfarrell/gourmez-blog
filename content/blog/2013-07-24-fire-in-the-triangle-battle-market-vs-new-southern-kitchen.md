@@ -5,7 +5,6 @@ categories:
   - "events"
   - "restaurants"
   - "spirits"
-  - "spirits"
 tags:
   - "basil-gin-syrup"
   - "battle"

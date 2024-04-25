@@ -1,10 +1,9 @@
 ---
 title: "Rainbow"
 date: "2012-06-28"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "boba"
   - "brightleaf"
   - "bubble-tea"

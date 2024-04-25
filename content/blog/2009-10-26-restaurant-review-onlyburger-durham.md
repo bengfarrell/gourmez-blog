@@ -1,10 +1,9 @@
 ---
 title: "Restaurant Review--OnlyBurger (Durham)"
 date: "2009-10-26"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "butter-toasted-buns"
   - "cheap-eats-durham"
   - "hamburgers-durham"

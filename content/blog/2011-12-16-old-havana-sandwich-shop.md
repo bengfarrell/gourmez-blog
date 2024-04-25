@@ -1,10 +1,9 @@
 ---
 title: "Old Havana Sandwich Shop"
 date: "2011-12-16"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "black-beans"
   - "cafe-con-leche"
   - "coffee"

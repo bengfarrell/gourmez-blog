@@ -3,7 +3,6 @@ title: "Restaurant Review--Mez, Durham"
 date: "2009-04-25"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "jibarra"
   - "mez-durham"

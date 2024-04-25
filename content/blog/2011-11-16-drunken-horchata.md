@@ -1,10 +1,9 @@
 ---
 title: "Drunken Horchata at Dos Perros"
 date: "2011-11-16"
-categories: 
+categories:
   - "bars"
-  - "bars"
-tags: 
+tags:
   - "cocktail-review"
   - "dos-perros"
   - "downtown"

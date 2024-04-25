@@ -1,12 +1,11 @@
 ---
 title: "Six Plates Blind Tasting and Trivia *REOPENED AS BLACK TWIG CIDERY*"
 date: "2010-01-12"
-categories: 
-  - "bars"
+categories:
   - "bars"
   - "restaurants"
   - "tasting-rooms"
-tags: 
+tags:
   - "big-slow-toms-trivia"
   - "blind-tasting"
   - "connollys-irish-pub"

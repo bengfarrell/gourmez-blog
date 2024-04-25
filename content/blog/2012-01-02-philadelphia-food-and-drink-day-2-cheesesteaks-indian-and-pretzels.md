@@ -3,7 +3,6 @@ title: "Philadelphia Food and Drink, Day 2: Cheesesteaks, Indian, and Pretzels"
 date: "2012-01-02"
 categories:
   - "restaurants"
-  - "restaurants"
   - "travel-guides"
 tags:
   - "cash-only"

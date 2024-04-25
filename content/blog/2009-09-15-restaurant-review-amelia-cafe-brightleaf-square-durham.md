@@ -3,7 +3,6 @@ title: "Restaurant Review--Amelia Cafe, Brightleaf Square, Durham"
 date: "2009-09-15"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "amelia-cafe-durham"
   - "brightleaf-square-dessert"

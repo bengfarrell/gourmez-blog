@@ -4,7 +4,6 @@ date: "2010-09-14"
 categories:
   - "recipes"
   - "spirits"
-  - "spirits"
 tags:
   - "blackberry-juice"
   - "champagne-grapes"

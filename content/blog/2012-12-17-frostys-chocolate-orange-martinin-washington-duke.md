@@ -5,7 +5,6 @@ categories:
   - "announcements"
   - "recipes"
   - "restaurants"
-  - "restaurants"
 tags:
   - "bull-durham-bar"
   - "cardamom"

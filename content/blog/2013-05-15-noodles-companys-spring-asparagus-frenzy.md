@@ -3,7 +3,6 @@ title: "Noodles & Company's Spring Asparagus Frenzy!"
 date: "2013-05-15"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "asparagus"
   - "bacon"

@@ -1,10 +1,9 @@
 ---
 title: "Pecan Pie Martini (Rockfish, Durham) *CLOSED*"
 date: "2007-04-27"
-categories: 
+categories:
   - "bars"
-  - "bars"
-tags: 
+tags:
   - "durham-cocktails"
   - "pecan-pie-martini"
   - "rockfish-seafood-grill"

@@ -5,8 +5,7 @@ categories:
   - "distillery"
   - "events"
   - "spirits"
-  
-  - "spirits"
+
   - "spirits"
 tags:
   - "aged-whiskey"

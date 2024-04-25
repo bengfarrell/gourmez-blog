@@ -1,10 +1,9 @@
 ---
 title: "The R & R Coffee Cocktail at Neighborhood"
 date: "2016-03-18"
-categories: 
+categories:
   - "bars"
-  - "bars"
-tags: 
+tags:
   - "ballz-deep"
   - "beer-cocktail"
   - "cocktail"
@@ -28,7 +27,7 @@ Thus, I applaud any bar that ventures beyond the white russian and the espresso 
  
 
 > [Although this has the softness I associate with draft #wine, and I prefer my wine to make an entrance, this one wins me over with its complexity. It slips into the stable, quiet enough to leave the horses undisturbed. A deeper, more complex, merlot-like spice and fruit combination is released, with hay, dust cherry, and bay leaf. Enjoy the majesty beheld in a simple tail swish. - Hahn GSM Draft - California - 4/5 \_\_\_\_\_ #winelover #winereview #tastingnotes #tasting #CAwine #redwine](https://www.instagram.com/p/BCivKbTQQnF/)
-> 
+>
 > A photo posted by Becca Gomez Farrell (@thegourmez) on Mar 4, 2016 at 11:25am PST
 
  

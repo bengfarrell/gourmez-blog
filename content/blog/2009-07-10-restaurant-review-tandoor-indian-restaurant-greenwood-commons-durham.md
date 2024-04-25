@@ -3,7 +3,6 @@ title: "Restaurant Review--Tandoor Indian Restaurant, Greenwood Commons, Durham"
 date: "2009-07-10"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "indian-restaurant-durham"
   - "kheer"

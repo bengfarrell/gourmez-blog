@@ -1,12 +1,11 @@
 ---
 title: "Geer Street Garden"
 date: "2011-11-25"
-categories: 
-  - "restaurants"
+categories:
   - "restaurants"
   - "sake"
   - "wine"
-tags: 
+tags:
   - "beer"
   - "beer-garden"
   - "central-market"

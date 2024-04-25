@@ -3,7 +3,6 @@ title: "Hardee's (Southern Fast Food Series #4)"
 date: "2010-07-20"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "angus-burger"
   - "carls-junior"

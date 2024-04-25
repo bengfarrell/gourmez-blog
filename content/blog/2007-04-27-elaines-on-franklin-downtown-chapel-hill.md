@@ -3,7 +3,6 @@ title: "Elaine's on Franklin (Downtown Chapel Hill)"
 date: "2007-04-27"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "chapel-hill"
   - "elaines-on-franklin"

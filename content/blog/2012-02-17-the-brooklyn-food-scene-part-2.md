@@ -1,12 +1,11 @@
 ---
 title: "The Brooklyn Food Scene Part 2"
 date: "2012-02-17"
-categories: 
+categories:
   - "bars"
   - "restaurants"
-  - "restaurants"
   - "travel-guides"
-tags: 
+tags:
   - "auto-bahn-bahn"
   - "brooklyn"
   - "butterscotch-custard"

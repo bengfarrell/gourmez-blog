@@ -1,10 +1,9 @@
 ---
 title: "Spartacus"
 date: "2011-09-29"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "antipasto"
   - "avgolemono"
   - "baklava-cheesecake"

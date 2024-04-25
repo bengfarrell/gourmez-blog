@@ -1,10 +1,9 @@
 ---
 title: "Phat Matt's BBQ"
 date: "2016-02-08"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "bbq"
   - "chicken"
   - "collards"

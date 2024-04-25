@@ -3,7 +3,6 @@ title: "Azure Tea Cocktail (Azure Grill, Chapel Hill)"
 date: "2007-04-27"
 categories:
   - "bars"
-  - "bars"
   - "spirits"
 tags:
   - "azure-grill"

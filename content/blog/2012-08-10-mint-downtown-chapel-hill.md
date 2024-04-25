@@ -1,10 +1,9 @@
 ---
 title: "Mint"
 date: "2012-08-10"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "black-pepper-cauliflower"
   - "chapel-hill"
   - "dhal"

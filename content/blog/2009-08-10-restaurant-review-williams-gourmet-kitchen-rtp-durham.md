@@ -3,7 +3,6 @@ title: "Restaurant Review--William's Gourmet Kitchen, RTP, Durham"
 date: "2009-08-10"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "durham-fast-food"
   - "durham-restaurants"

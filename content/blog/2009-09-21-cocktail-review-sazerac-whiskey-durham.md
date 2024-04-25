@@ -4,7 +4,6 @@ date: "2009-09-21"
 categories:
   - "spirits"
   - "bars"
-  - "bars"
 tags:
   - "absinthe-rim"
   - "cocktail-review"

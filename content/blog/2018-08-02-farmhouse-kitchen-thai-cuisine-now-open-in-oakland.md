@@ -3,7 +3,6 @@ title: "Farmhouse Kitchen Thai Cuisine Now Open in Oakland!"
 date: "2018-08-02"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "dining"
   - "farmhouse-kitchen"

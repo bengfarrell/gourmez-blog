@@ -4,7 +4,6 @@ date: "2012-02-13"
 categories:
   - "coffee-shops"
   - "restaurants"
-  - "restaurants"
   - "travel-guides"
 tags:
   - "arling"

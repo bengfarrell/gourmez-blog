@@ -3,7 +3,6 @@ title: "TLC Martini @ the Wild Turkey Lounge"
 date: "2010-10-04"
 categories:
   - "bars"
-  - "bars"
   - "spirits"
 tags:
   - "angus-barn"

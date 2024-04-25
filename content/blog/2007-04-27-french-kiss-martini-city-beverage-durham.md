@@ -3,7 +3,6 @@ title: "French Kiss Martini (City Beverage, Durham)"
 date: "2007-04-27"
 categories:
   - "bars"
-  - "bars"
 tags:
   - "city-beverage"
   - "durham-cocktails"

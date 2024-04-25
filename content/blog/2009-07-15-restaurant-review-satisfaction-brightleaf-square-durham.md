@@ -1,10 +1,9 @@
 ---
 title: "Restaurant Review--Satisfaction, Brightleaf Square, Durham"
 date: "2009-07-15"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "cars-in-restaurants"
   - "club-sub"
   - "satisfaction-restaurant-and-bar"

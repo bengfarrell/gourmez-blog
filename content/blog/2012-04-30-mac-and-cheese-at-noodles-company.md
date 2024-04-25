@@ -1,10 +1,9 @@
 ---
 title: "Mac and Cheese at Noodles & Company"
 date: "2012-04-30"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "american"
   - "asian"
   - "brier-creek"

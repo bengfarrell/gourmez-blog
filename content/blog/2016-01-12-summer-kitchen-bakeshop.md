@@ -1,10 +1,9 @@
 ---
 title: "Summer Kitchen + Bakeshop"
 date: "2016-01-12"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "bakeshop"
   - "berkeley"
   - "dinner"

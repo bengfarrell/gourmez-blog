@@ -1,11 +1,10 @@
 ---
 title: "The Old Ceremony @ Motorco"
 date: "2011-01-10"
-categories: 
-  - "bars"
+categories:
   - "bars"
   - "spirits"
-tags: 
+tags:
   - "bars"
   - "bitters"
   - "durham"

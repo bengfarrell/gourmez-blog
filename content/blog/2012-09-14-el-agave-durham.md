@@ -1,10 +1,9 @@
 ---
 title: "El Agave (Durham) *CLOSED*"
 date: "2012-09-14"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "chile-colorado"
   - "chips"
   - "combinations"

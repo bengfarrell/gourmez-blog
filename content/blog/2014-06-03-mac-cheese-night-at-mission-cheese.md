@@ -3,7 +3,6 @@ title: "Mac & Cheese Night at Mission Cheese"
 date: "2014-06-03"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "bay-area"
   - "best-mac-cheese"

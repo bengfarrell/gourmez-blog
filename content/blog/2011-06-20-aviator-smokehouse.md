@@ -1,12 +1,11 @@
 ---
 title: "Aviator Smokehouse"
 date: "2011-06-20"
-categories: 
-  - "restaurants"
+categories:
   - "restaurants"
   - "sake"
   - "wine"
-tags: 
+tags:
   - "aviator-brewing-company"
   - "aviator-smokehouse"
   - "barbecue"

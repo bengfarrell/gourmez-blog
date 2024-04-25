@@ -1,10 +1,9 @@
 ---
 title: "The Orchard Manhattan at Bijou"
 date: "2014-02-13"
-categories: 
+categories:
   - "bars"
-  - "bars"
-tags: 
+tags:
   - "bars"
   - "bay-area"
   - "bjiou"

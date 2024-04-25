@@ -3,7 +3,6 @@ title: "Cafe Meridian"
 date: "2010-07-06"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "big-burrito"
   - "cafe-meridian"

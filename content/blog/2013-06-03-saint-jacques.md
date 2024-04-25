@@ -1,10 +1,9 @@
 ---
 title: "Saint Jacques"
 date: "2013-06-03"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "amuse-bouche"
   - "arugula"
   - "blue-cheese-mousse"

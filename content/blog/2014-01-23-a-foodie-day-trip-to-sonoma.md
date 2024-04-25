@@ -4,7 +4,6 @@ date: "2014-01-23"
 categories:
   - "tasting-rooms"
   - "restaurants"
-  - "restaurants"
   - "tasting-rooms"
   - "travel-guides"
   - "wine"

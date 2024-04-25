@@ -3,7 +3,6 @@ title: "Pinky's Pizza Parlor"
 date: "2016-03-08"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "drink-specials"
   - "east-bay"

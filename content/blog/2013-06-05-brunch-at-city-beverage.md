@@ -1,10 +1,9 @@
 ---
 title: "Brunch at City Beverage"
 date: "2013-06-05"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "bloody-mary"
   - "blueberry-pancack"
   - "brunch"

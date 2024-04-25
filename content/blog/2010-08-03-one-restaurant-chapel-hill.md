@@ -1,10 +1,9 @@
 ---
 title: "[One] Restaurant, Chapel Hill"
 date: "2010-08-03"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "one-one-restaurant"
   - "carpaccio"
   - "chapel-hill"

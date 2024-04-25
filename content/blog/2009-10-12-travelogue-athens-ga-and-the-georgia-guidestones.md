@@ -1,11 +1,10 @@
 ---
 title: "Travelogue--Athens, GA, and the Georgia Guidestones"
 date: "2009-10-12"
-categories: 
-  - "bars"
+categories:
   - "bars"
   - "travel-guides"
-tags: 
+tags:
   - "athens-ga"
   - "athens-music-tour"
   - "buddha-bar-athens"

@@ -1,10 +1,9 @@
 ---
 title: "Empty Bowls 2010 Soup Review"
 date: "2010-03-12"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "blue-seafood"
   - "butternet-squash"
   - "chicken-masa"

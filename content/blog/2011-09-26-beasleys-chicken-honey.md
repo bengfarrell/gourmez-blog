@@ -1,10 +1,9 @@
 ---
 title: "Beasley’s Chicken + Honey"
 date: "2011-09-26"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "ashley-christiansen"
   - "beasleys"
   - "biscuits"

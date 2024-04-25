@@ -3,7 +3,6 @@ title: "Bolero's Cafe (East Franklin, Chapel Hill) *CLOSED*"
 date: "2007-04-27"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "boleros-cafe"
   - "chapel-hill-dining"

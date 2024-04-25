@@ -1,10 +1,9 @@
 ---
 title: "KoMo KoMo Afternoon Tea"
 date: "2012-10-15"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "afternoon-tea"
   - "cary"
   - "chicken-gyoza"

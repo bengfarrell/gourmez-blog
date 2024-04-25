@@ -1,10 +1,9 @@
 ---
 title: "Plaza Café"
 date: "2013-01-02"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "breakfast"
   - "chiptole-wrap"
   - "counter"

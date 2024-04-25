@@ -1,11 +1,10 @@
 ---
 title: "Bangkok Fever @ Jujube"
 date: "2013-05-08"
-categories: 
-  - "bars"
+categories:
   - "bars"
   - "spirits"
-tags: 
+tags:
   - "alcohol"
   - "chapel-hill"
   - "cinnamon-salt"

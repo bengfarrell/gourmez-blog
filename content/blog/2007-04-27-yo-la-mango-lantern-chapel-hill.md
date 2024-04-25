@@ -3,7 +3,6 @@ title: "Yo La Mango (Lantern, Chapel Hill)"
 date: "2007-04-27"
 categories:
   - "bars"
-  - "bars"
   - "sake"
   - "spirits"
 tags:

@@ -1,11 +1,10 @@
 ---
 title: "Calavera"
 date: "2012-06-20"
-categories: 
-  - "restaurants"
+categories:
   - "restaurants"
   - "spirits"
-tags: 
+tags:
   - "calavera"
   - "dinner"
   - "downtown"

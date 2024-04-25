@@ -1,10 +1,9 @@
 ---
 title: "Caipirinha @ Calavera"
 date: "2013-01-09"
-categories: 
+categories:
   - "bars"
-  - "bars"
-tags: 
+tags:
   - "brazil"
   - "cachaca"
   - "caipirinha"

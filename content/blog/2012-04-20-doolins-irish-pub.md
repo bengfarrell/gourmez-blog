@@ -1,10 +1,9 @@
 ---
 title: "Doolin's Irish Pub"
 date: "2012-04-20"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "alcohol"
   - "apple-turnover"
   - "bangers-and-mash"

@@ -1,10 +1,9 @@
 ---
 title: "Lantern's Lounge (Downtown Chapel Hill)"
 date: "2007-04-27"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "downtown-chapel-hill-dining"
   - "lantern"
   - "lounge"

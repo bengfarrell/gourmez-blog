@@ -1,11 +1,10 @@
 ---
 title: "Southern Hot Toddy at Alivia's Durham Bistro"
 date: "2012-01-25"
-categories: 
-  - "bars"
+categories:
   - "bars"
   - "spirits"
-tags: 
+tags:
   - "alivias"
   - "alivias-durham-bistro"
   - "cocktail"

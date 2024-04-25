@@ -3,7 +3,6 @@ title: "Little Star Pizza"
 date: "2014-06-26"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "almonds"
   - "baby-greens"

@@ -1,14 +1,12 @@
 ---
 title: "Absinthe Makes the Heart Grow Fonder at the Great American Music Hall"
 date: "2013-10-26"
-categories: 
+categories:
   - "spirits"
-  - "bars"
   - "bars"
   - "wine"
   - "spirits"
-  - "spirits"
-tags: 
+tags:
   - "abinsthe-makes-the-heart-grow-fonder"
   - "cocktail"
   - "crater-lake"

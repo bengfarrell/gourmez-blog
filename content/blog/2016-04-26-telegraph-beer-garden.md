@@ -3,9 +3,7 @@ title: "Telegraph Beer Garden"
 date: "2016-04-26"
 categories:
   - "bars"
-  - "bars"
-  
-  - "restaurants"
+
   - "restaurants"
 tags:
   - "bar"

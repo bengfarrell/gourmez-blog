@@ -3,7 +3,6 @@ title: "Restaurant Review--Asuka, Morrisville *Renovated*"
 date: "2009-05-07"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "asuka"
   - "japanese-fusion"

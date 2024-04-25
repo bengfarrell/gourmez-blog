@@ -3,7 +3,6 @@ title: "LA Kiwi @ W XYZ Lounge (Chapel Hill)"
 date: "2010-05-28"
 categories:
   - "bars"
-  - "bars"
 tags:
   - "aloft-hotel"
   - "cachaca"

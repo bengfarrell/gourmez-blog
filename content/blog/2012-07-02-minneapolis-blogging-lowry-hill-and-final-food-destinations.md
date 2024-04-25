@@ -4,7 +4,6 @@ date: "2012-07-02"
 categories:
   - "coffee-shops"
   - "restaurants"
-  - "restaurants"
   - "travel-guides"
 tags:
   - "angels-food"

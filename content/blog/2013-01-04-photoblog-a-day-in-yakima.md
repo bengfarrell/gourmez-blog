@@ -5,7 +5,6 @@ categories:
   - "coffee-shops"
   - "coffee-shops-in-yakima-wa"
   - "restaurants"
-  - "restaurants"
   - "travel-guides"
 tags:
   - "ahoy-fish-and-chips"

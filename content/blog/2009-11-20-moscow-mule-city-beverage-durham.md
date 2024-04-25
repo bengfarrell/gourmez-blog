@@ -3,7 +3,6 @@ title: "Moscow Mule @ City Beverage (Durham)"
 date: "2009-11-20"
 categories:
   - "bars"
-  - "bars"
 tags:
   - "city-beverage-durham"
   - "durham-cocktails"

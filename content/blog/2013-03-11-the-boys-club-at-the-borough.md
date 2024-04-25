@@ -1,10 +1,9 @@
 ---
 title: "The Boy's Club at the Borough"
 date: "2013-03-11"
-categories: 
+categories:
   - "bars"
-  - "bars"
-tags: 
+tags:
   - "alcohol"
   - "baileys"
   - "beverage"

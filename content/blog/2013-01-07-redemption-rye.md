@@ -1,10 +1,9 @@
 ---
 title: "Redemption Rye"
 date: "2013-01-07"
-categories: 
+categories:
   - "spirits"
-  - "spirits"
-tags: 
+tags:
   - "chemistry-of-the-cocktail"
   - "corn"
   - "girl-and-her-barstool"

@@ -1,10 +1,9 @@
 ---
 title: "Find your Mac Daddy at Smoke's Poutinerie!"
 date: "2016-07-18"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "berkeley"
   - "big-mac"
   - "big-mac-fries"

@@ -1,12 +1,11 @@
 ---
 title: "Charlottesville Blogging 2: More Eating and Some Drinking!"
 date: "2012-07-30"
-categories: 
+categories:
   - "bars"
   - "restaurants"
-  - "restaurants"
   - "travel-guides"
-tags: 
+tags:
   - "blue-moon-diner"
   - "breakfast"
   - "charlottesville"

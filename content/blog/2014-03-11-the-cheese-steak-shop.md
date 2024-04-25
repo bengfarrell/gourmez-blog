@@ -1,10 +1,9 @@
 ---
 title: "The Cheese Steak Shop"
 date: "2014-03-11"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "american-cheese"
   - "bay-area"
   - "castro-valley"

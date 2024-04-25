@@ -3,7 +3,6 @@ title: "Jibarra (Downtown Raleigh)"
 date: "2007-04-27"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "downtown-raleigh"
   - "jibarra"

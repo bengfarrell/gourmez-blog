@@ -1,11 +1,10 @@
 ---
 title: "The Cantina"
 date: "2014-01-14"
-categories: 
-  - "bars"
+categories:
   - "bars"
   - "spirits"
-tags: 
+tags:
   - "bar"
   - "bars"
   - "blackberry"

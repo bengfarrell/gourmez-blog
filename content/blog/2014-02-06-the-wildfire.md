@@ -1,10 +1,9 @@
 ---
 title: "The Wildfire at Firehouse 37"
 date: "2014-02-06"
-categories: 
+categories:
   - "bars"
-  - "bars"
-tags: 
+tags:
   - "bay-area"
   - "cocktail"
   - "east-bay"

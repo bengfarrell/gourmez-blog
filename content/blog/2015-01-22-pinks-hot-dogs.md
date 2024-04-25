@@ -3,7 +3,6 @@ title: "Pink's Hot Dogs"
 date: "2015-01-22"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "celebrities"
   - "dinner"

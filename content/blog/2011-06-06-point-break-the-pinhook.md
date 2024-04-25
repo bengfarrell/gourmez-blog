@@ -1,11 +1,10 @@
 ---
 title: "Point Break at the Pinhook"
 date: "2011-06-06"
-categories: 
-  - "bars"
+categories:
   - "bars"
   - "spirits"
-tags: 
+tags:
   - "absolut-citron"
   - "aye-nako"
   - "bars"

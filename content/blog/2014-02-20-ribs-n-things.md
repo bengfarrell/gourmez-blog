@@ -1,10 +1,9 @@
 ---
 title: "Ribs 'N Things"
 date: "2014-02-20"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "barbecue"
   - "bbq"
   - "corn-bread"

@@ -3,7 +3,6 @@ title: "Jasper's Corner Tap and Kitchen"
 date: "2013-11-12"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "amaro"
   - "and-kitchen"

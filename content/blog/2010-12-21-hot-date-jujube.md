@@ -1,11 +1,10 @@
 ---
 title: "Hot Date @ Jujube"
 date: "2010-12-21"
-categories: 
-  - "bars"
+categories:
   - "bars"
   - "spirits"
-tags: 
+tags:
   - "cayenne"
   - "chapel-hill"
   - "cocktail"

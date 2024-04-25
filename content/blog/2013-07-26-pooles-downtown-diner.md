@@ -1,10 +1,9 @@
 ---
 title: "Poole's Downtown Diner"
 date: "2013-07-26"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "ashley-christiansen"
   - "au-gratin"
   - "black-drum-fish"

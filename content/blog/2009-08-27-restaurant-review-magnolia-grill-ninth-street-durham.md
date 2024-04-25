@@ -3,7 +3,6 @@ title: "Restaurant Review--Magnolia Grill, Ninth Street, Durham"
 date: "2009-08-27"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "durham-restaurants"
   - "fig-dessert"

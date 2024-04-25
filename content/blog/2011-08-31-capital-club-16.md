@@ -3,7 +3,6 @@ title: "Capital Club 16"
 date: "2011-08-31"
 categories:
   - "restaurants"
-  - "restaurants"
   - "spirits"
 tags:
   - "bars"

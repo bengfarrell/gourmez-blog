@@ -1,11 +1,10 @@
 ---
 title: "Specialty Cocktails at Albany’s Ivy Room"
 date: "2016-10-06"
-categories: 
-  - "bars"
+categories:
   - "bars"
   - "spirits"
-tags: 
+tags:
   - "bars"
   - "clubs"
   - "cocktail-review"

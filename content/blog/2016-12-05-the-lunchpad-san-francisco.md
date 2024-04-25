@@ -3,10 +3,7 @@ title: "The Lunchpad in San Francisco"
 date: "2016-12-05"
 categories:
   - "bars"
-  - "bars"
   - "restaurants"
-  - "restaurants"
-  - "spirits"
   - "spirits"
 tags:
   - "brunch"

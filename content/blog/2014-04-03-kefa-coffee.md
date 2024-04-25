@@ -1,12 +1,11 @@
 ---
 title: "Kefa Coffee"
 date: "2014-04-03"
-categories: 
+categories:
   - "coffee-shops"
   - "coffee-shops"
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "alameda"
   - "baci-di-dama"
   - "bacon"

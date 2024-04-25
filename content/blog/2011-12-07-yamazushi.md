@@ -1,10 +1,9 @@
 ---
 title: "Yamazushi"
 date: "2011-12-07"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "ceramics"
   - "durham"
   - "eggplant"

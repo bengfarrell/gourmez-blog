@@ -1,12 +1,10 @@
 ---
 title: "Bourbon Tasting"
 date: "2012-05-14"
-categories: 
-  - "bars"
+categories:
   - "bars"
   - "spirits"
-  - "spirits"
-tags: 
+tags:
   - "12-year"
   - "18-year"
   - "american-white-oak"

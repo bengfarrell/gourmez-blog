@@ -3,7 +3,6 @@ title: "Cocktail Review--Peach Tea, Tyler's Taproom, Carrboro"
 date: "2009-07-01"
 categories:
   - "bars"
-  - "bars"
 tags:
   - "club-soda"
   - "firefly-sweet-tea-vodka"

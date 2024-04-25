@@ -1,10 +1,9 @@
 ---
 title: "Day One Pop-Up Restaurant"
 date: "2013-05-27"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "ari-berenbaum"
   - "bodega"
   - "corner-store"

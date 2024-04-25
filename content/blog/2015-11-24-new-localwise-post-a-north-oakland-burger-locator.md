@@ -3,7 +3,6 @@ title: "New Localwise Post: A North Oakland Burger Locator"
 date: "2015-11-24"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "burgers"
   - "hamburgers"

@@ -1,11 +1,10 @@
 ---
 title: "TOPO Piedmont Gin"
 date: "2013-10-17"
-categories: 
+categories:
   - "recipes"
   - "spirits"
-  - "spirits"
-tags: 
+tags:
   - "allspice"
   - "chapel-hill"
   - "cocktail-recipe"

@@ -4,7 +4,6 @@ date: "2017-04-24"
 categories:
   - "wine"
   - "restaurants"
-  - "restaurants"
   - "wine"
 tags:
   - "avesso"

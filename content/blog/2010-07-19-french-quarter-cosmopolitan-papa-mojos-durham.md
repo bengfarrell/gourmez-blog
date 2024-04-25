@@ -3,7 +3,6 @@ title: "French Quarter Cosmopolitan (Papa Mojo's, Durham)"
 date: "2010-07-19"
 categories:
   - "bars"
-  - "bars"
 tags:
   - "citrus-vodka"
   - "cosmopolitan"

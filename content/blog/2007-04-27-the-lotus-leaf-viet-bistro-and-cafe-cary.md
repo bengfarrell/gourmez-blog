@@ -1,10 +1,9 @@
 ---
 title: "The Lotus Leaf Viet Bistro and Cafe (Cary) *CLOSED*"
 date: "2007-04-27"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "cary-restaurants"
   - "lotus-leaf-viet-bistro"
 ---

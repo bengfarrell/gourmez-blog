@@ -3,7 +3,6 @@ title: "Infuse Your Meal at the Infusion Lounge When You Visit San Francisco"
 date: "2015-11-16"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "asian-fusion"
   - "dancing"

@@ -1,11 +1,10 @@
 ---
 title: "Pizzeria Toro"
 date: "2013-03-04"
-categories: 
-  - "restaurants"
+categories:
   - "restaurants"
   - "spirits"
-tags: 
+tags:
   - "blenheins-ginger-ale"
   - "brick-oven"
   - "cacia-di-roma"

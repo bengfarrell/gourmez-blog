@@ -1,11 +1,10 @@
 ---
 title: "All is Fair (Revolution, Downtown Durham)---Cocktail Review"
 date: "2010-04-14"
-categories: 
-  - "bars"
+categories:
   - "bars"
   - "events"
-tags: 
+tags:
   - "all-is-fair"
   - "anoop-desai"
   - "basil"

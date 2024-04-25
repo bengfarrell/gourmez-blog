@@ -1,11 +1,10 @@
 ---
 title: "Midtown Grille"
 date: "2012-09-07"
-categories: 
+categories:
   - "spirits"
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "bar-scene"
   - "bolognese"
   - "corn-bisque"

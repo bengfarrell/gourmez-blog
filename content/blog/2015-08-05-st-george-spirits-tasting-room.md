@@ -1,17 +1,13 @@
 ---
 title: "St. George Spirits Tasting Room"
 date: "2015-08-05"
-categories: 
+categories:
   - "spirits"
   - "distilleries"
   - "spirits"
   - "distillery"
   - "spirits"
-  - "spirits"
-  - "spirits"
-  - "spirits"
-  - "spirits"
-tags: 
+tags:
   - "botanica"
   - "chile-vodka"
   - "citrus-vodka"

@@ -1,11 +1,10 @@
 ---
 title: "The Olivia @ West End Wine Bar"
 date: "2011-12-24"
-categories: 
-  - "bars"
+categories:
   - "bars"
   - "tasting-rooms"
-tags: 
+tags:
   - "cocktail"
   - "cranberry"
   - "downtown"

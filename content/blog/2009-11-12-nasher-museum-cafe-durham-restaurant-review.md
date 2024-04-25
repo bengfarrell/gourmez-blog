@@ -3,7 +3,6 @@ title: "Nasher Museum Cafe (Durham) -- Restaurant Review"
 date: "2009-11-12"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "blue-cheese-slaw"
   - "durham-lunch-spots"

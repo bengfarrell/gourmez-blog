@@ -3,7 +3,6 @@ title: "Jujube (Glen Lennox, Chapel Hill)"
 date: "2007-04-27"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "chapel-hill-restaurant"
   - "glen-lennox"

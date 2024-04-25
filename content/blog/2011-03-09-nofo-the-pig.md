@@ -1,10 +1,9 @@
 ---
 title: "NOFO @ the Pig"
 date: "2011-03-09"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "bloody-mary"
   - "cornmeal-pancake"
   - "crab-salad"

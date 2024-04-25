@@ -1,10 +1,9 @@
 ---
 title: "Vit Goal Tofu"
 date: "2012-02-20"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "bento-box"
   - "dinner"
   - "durham"

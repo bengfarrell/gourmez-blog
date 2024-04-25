@@ -3,7 +3,6 @@ title: "Restaurant Review--Second Empire, Downtown Raleigh"
 date: "2009-09-09"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "buttermilk-pie"
   - "fine-dining-triangle"

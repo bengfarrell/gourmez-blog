@@ -1,10 +1,9 @@
 ---
 title: "Ivy Room"
 date: "2016-03-29"
-categories: 
+categories:
   - "bars"
-  - "bars"
-tags: 
+tags:
   - "bar"
   - "dive-bar"
   - "drinks"

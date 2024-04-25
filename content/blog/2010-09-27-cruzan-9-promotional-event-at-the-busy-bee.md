@@ -1,13 +1,11 @@
 ---
 title: "Cruzan 9 Promotional Event at the Busy Bee"
 date: "2010-09-27"
-categories: 
-  - "bars"
+categories:
   - "bars"
   - "events"
   - "spirits"
-  - "spirits"
-tags: 
+tags:
   - "appetizers"
   - "banana-daiquiri"
   - "bars"

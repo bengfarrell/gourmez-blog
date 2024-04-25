@@ -1,10 +1,9 @@
 ---
 title: "A Gracious Plenty (Durham) *CLOSED*"
 date: "2010-07-26"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "a-gracious-plenty"
   - "a-gracious-plenty-cafe"
   - "apple-cake"

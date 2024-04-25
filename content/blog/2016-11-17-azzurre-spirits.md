@@ -4,8 +4,6 @@ date: "2016-11-17"
 categories:
   - "recipes"
   - "spirits"
-  - "spirits"
-  - "spirits"
 tags:
   - "apple-liquor"
   - "azzurre"

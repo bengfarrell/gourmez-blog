@@ -1,10 +1,9 @@
 ---
 title: "Woodhouse Fish Co."
 date: "2015-09-29"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "artichoke"
   - "castro"
   - "casual"

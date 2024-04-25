@@ -1,10 +1,9 @@
 ---
 title: "Alivia's Durham Bistro (Brightleaf, Durham)"
 date: "2007-04-27"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "alivias-durham-bistro"
   - "brightleaf"
   - "durham-restaurants"

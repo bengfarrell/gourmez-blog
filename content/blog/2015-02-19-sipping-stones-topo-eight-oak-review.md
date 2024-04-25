@@ -1,13 +1,12 @@
 ---
 title: "Sipping Stones, TOPO Eight Oak Carolina Whiskey, and the Strawberry Glades"
 date: "2015-02-19"
-categories: 
-  
+categories:
+
   - "recipes"
   - "product-reviews"
   - "spirits"
-  - "spirits"
-tags: 
+tags:
   - "carolina-whiskey"
   - "cocktails"
   - "dandelion-chocolate"

@@ -3,7 +3,6 @@ title: "Bocci Trattoria (Sutton Station, Durham)"
 date: "2007-04-27"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "bocci-trattoria"
   - "durham-restaurants"

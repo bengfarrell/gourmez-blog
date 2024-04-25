@@ -3,7 +3,6 @@ title: "Watts Grocery and Listen to Your Elders Reviews"
 date: "2009-03-15"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "cocktails-triangle"
   - "listen-to-your-elders-cocktail"

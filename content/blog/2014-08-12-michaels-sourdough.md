@@ -1,10 +1,9 @@
 ---
 title: "Michael's Sourdough"
 date: "2014-08-12"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "bay-area"
   - "bread"
   - "chicken-salad"

@@ -3,7 +3,6 @@ title: "Kinston, NC, Blogging: Chef and the Farmer"
 date: "2013-04-10"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "benjamin-knight"
   - "bourbon-dark-chocolate-ice-cream"

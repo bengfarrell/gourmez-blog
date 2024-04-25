@@ -1,10 +1,9 @@
 ---
 title: "High Peaks Kitchen"
 date: "2016-01-04"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "chicken"
   - "dinner"
   - "high-peaks-kitchen"

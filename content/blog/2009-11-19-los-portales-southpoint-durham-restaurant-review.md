@@ -3,7 +3,6 @@ title: "Los Portales, Southpoint (Durham) -- Restaurant Review"
 date: "2009-11-19"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "durham-mexican-food"
   - "los-portales-restaurant"

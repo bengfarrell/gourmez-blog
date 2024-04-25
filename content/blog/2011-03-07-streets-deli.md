@@ -1,10 +1,9 @@
 ---
 title: "Streets Deli *CLOSED*"
 date: "2011-03-07"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "chapel-hill"
   - "coconut"
   - "dining"

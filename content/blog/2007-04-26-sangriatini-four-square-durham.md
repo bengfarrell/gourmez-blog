@@ -3,7 +3,6 @@ title: "Sangriatini (Four Square, Durham)"
 date: "2007-04-26"
 categories:
   - "bars"
-  - "bars"
 tags:
   - "durham-cocktails"
   - "four-square"

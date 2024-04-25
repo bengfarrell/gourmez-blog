@@ -4,12 +4,11 @@ date: "2014-09-30"
 categories:
   - "bakeries"
   - "bars"
-  - "bars"
   - "breweries"
   - "coffee-shops"
   - "coffee-shops"
   - "restaurants"
-  
+
   - "restaurants"
 tags:
   - "ashley-christiansen"

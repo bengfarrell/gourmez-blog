@@ -4,7 +4,6 @@ date: "2013-01-16"
 categories:
   - "coffee-shops"
   - "restaurants"
-  - "restaurants"
   - "travel-guides"
 tags:
   - "art"

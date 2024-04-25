@@ -4,7 +4,6 @@ date: "2013-05-06"
 categories:
   - "bars"
   - "restaurants"
-  - "restaurants"
 tags:
   - "belmont"
   - "broccolini"

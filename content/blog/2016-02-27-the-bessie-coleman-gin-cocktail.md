@@ -1,11 +1,10 @@
 ---
 title: "The Bessie Coleman Gin Cocktail"
 date: "2016-02-27"
-categories: 
+categories:
   - "recipes"
   - "spirits"
-  - "spirits"
-tags: 
+tags:
   - "aviation"
   - "aviator"
   - "bessie-coleman"

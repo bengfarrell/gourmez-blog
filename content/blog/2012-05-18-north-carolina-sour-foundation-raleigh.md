@@ -1,10 +1,9 @@
 ---
 title: "North Carolina Sour at Foundation"
 date: "2012-05-18"
-categories: 
+categories:
   - "bars"
-  - "bars"
-tags: 
+tags:
   - "carraige-house-apple-brandy"
   - "downtown"
   - "foundation"

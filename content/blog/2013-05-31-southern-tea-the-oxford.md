@@ -1,10 +1,9 @@
 ---
 title: "Southern Tea @ the Oxford"
 date: "2013-05-31"
-categories: 
+categories:
   - "bars"
-  - "bars"
-tags: 
+tags:
   - "cocktail"
   - "downtown"
   - "night-life"

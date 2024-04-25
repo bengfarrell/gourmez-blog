@@ -7,7 +7,6 @@ categories:
   - "bars"
   - "breweries"
   - "restaurants"
-  - "restaurants"
   - "announcements"
   - "restaurants"
 tags:

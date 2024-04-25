@@ -3,7 +3,6 @@ title: "Market Restaurant *RELOCATED*"
 date: "2010-12-17"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "apple-iced-tea"
   - "celery-root"

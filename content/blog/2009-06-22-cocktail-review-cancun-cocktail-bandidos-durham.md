@@ -3,7 +3,6 @@ title: "Cocktail Review--Cancun Cocktail, Bandido's, Durham"
 date: "2009-06-22"
 categories:
   - "bars"
-  - "bars"
 tags:
   - "bandidos-durham"
   - "cancun-cocktail"

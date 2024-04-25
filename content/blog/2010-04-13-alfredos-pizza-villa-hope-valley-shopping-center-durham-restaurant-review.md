@@ -3,7 +3,6 @@ title: "Alfredo's Pizza Villa (Hope Valley Shopping Center, Durham)---Restaurant
 date: "2010-04-13"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "alfredos-pizza-villa"
   - "basil"

@@ -1,10 +1,9 @@
 ---
 title: "Country Junction"
 date: "2011-01-17"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "bacon"
   - "breakfast-sandwich"
   - "chicken-and-dumplings"

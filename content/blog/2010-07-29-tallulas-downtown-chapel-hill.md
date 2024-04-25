@@ -3,7 +3,6 @@ title: "Tallulas (Downtown Chapel Hill)"
 date: "2010-07-29"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "adana-kebob"
   - "chapel-hill"

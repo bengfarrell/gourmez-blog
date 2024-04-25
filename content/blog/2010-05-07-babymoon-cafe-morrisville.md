@@ -3,7 +3,6 @@ title: "Babymoon Cafe, Morrisville"
 date: "2010-05-07"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "babymoon-cafe"
   - "chicken-mulberry"

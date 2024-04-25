@@ -1,10 +1,9 @@
 ---
 title: "Unaabi Grill"
 date: "2011-04-04"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "afghan"
   - "afghanistan"
   - "bolanee"

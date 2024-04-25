@@ -4,7 +4,6 @@ date: "2010-08-31"
 categories:
   - "spirits"
   - "bars"
-  - "bars"
 tags:
   - "absente-minded"
   - "cocktail"

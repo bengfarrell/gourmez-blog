@@ -3,7 +3,6 @@ title: "Southern Tea @ Blu Seafood and Bar (Durham)"
 date: "2010-06-17"
 categories:
   - "bars"
-  - "bars"
 tags:
   - "blu-cocktails"
   - "blu-seafood"

@@ -3,8 +3,7 @@ title: "New Brunch--and Chef!--at Tiburon Tavern"
 date: "2016-07-06"
 categories:
   - "restaurants"
-  - "restaurants"
-  
+
 tags:
   - "bay-area-overnights"
   - "beet-cocktails"

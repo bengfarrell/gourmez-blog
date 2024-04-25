@@ -1,10 +1,9 @@
 ---
 title: "Wimpy's Grill"
 date: "2012-08-22"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "biscuits"
   - "breakfast"
   - "cheeseburger"

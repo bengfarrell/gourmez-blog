@@ -1,10 +1,9 @@
 ---
 title: "Mac & Cheese Night #9: The Blue Plate"
 date: "2015-06-23"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "bernal-heights"
   - "comfort-food"
   - "corn-soup"

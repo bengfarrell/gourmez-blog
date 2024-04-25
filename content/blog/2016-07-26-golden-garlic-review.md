@@ -1,10 +1,9 @@
 ---
 title: "Golden Garlic"
 date: "2016-07-26"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "affordable"
   - "authentic"
   - "calabazas-south"

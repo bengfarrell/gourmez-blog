@@ -3,7 +3,6 @@ title: "Restaurant Review--Bavarian Brathaus, Cary"
 date: "2009-06-25"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "authentic-german-food"
   - "bavarian-brathaus"

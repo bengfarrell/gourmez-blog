@@ -1,10 +1,9 @@
 ---
 title: "Serpent's Bite Apple Cider Flavored Whisky"
 date: "2016-03-25"
-categories: 
+categories:
   - "spirits"
-  - "spirits"
-tags: 
+tags:
   - "spirit-reviews"
   - "apple-cider-whisky"
   - "review"
@@ -40,7 +39,7 @@ If this were categorized as a liqueur, I’d be more forgiving. But as a spirit,
 [Drink Hacker](http://www.drinkhacker.com/2016/01/30/review-serpents-bit-apple-cider-flavored-whisky/)
 
 > It starts with clear apple notes on the nose, though fortunately the aroma is far from overblown, with a hint of vanilla backing it up. On the palate, Serpent’s Bite is sweet and cinnamon-laced, with strong apple notes as expected. Aside from a little hit of vanilla-infused caramel, though, what’s ultimately missing here is the whiskey. The whiskey flavor is so mild that this feels like it could be an apple brandy, an apple rum, or a (colored) apple vodka.
-> 
+>
 > That’s not entirely a slight, as Serpent’s Bite is completely harmless and inoffensive in every way — although I’m sure that angry snake on the label will scare off a drinker or two. B-
 
 [Best Tasting Spirits](http://www.besttastingspirits.com/review-serpents-bite-apple-cider-whisky/)

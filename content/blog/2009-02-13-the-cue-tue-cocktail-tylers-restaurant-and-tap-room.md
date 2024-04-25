@@ -3,7 +3,6 @@ title: "The Cue-Tue Cocktail, Tyler's Restaurant and Tap Room"
 date: "2009-02-13"
 categories:
   - "bars"
-  - "bars"
   - "restaurants"
   - "spirits"
 tags:

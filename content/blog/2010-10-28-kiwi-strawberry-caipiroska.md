@@ -3,7 +3,6 @@ title: "Kiwi + Strawberry Caipiroska @ Piola"
 date: "2010-10-28"
 categories:
   - "bars"
-  - "bars"
   - "spirits"
 tags:
   - "bars"

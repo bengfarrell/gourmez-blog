@@ -1,10 +1,9 @@
 ---
 title: "Mexicano Mojito at Bandido's"
 date: "2011-08-16"
-categories: 
+categories:
   - "bars"
-  - "bars"
-tags: 
+tags:
   - "151-rum"
   - "bacardi"
   - "bandidos"

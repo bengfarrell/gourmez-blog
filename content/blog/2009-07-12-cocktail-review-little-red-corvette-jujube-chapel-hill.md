@@ -3,7 +3,6 @@ title: "Cocktail Review--Little Red Corvette, Jujube, Chapel Hill"
 date: "2009-07-12"
 categories:
   - "bars"
-  - "bars"
 tags:
   - "agave-syrup"
   - "cocktail-review"

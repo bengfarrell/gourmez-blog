@@ -5,10 +5,9 @@ categories:
   - "tasting-rooms"
   - "bars"
   - "restaurants"
-  - "restaurants"
   - "tasting-rooms"
   - "travel-guides"
-  
+
 tags:
   - "lodi"
   - "visit-lodi"

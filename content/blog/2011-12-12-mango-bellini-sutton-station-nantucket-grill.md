@@ -1,11 +1,10 @@
 ---
 title: "Mango Bellini @ Nantucket Grill"
 date: "2011-12-12"
-categories: 
-  - "bars"
+categories:
   - "bars"
   - "spirits"
-tags: 
+tags:
   - "bars"
   - "cocktails"
   - "drinks"

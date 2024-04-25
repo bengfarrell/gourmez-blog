@@ -1,10 +1,9 @@
 ---
 title: "Burger Joints of Hayward #4: Cecil's Famous Burgers"
 date: "2014-11-26"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "american-cheese"
   - "banana-shake"
   - "burger"

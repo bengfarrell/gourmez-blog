@@ -1,11 +1,9 @@
 ---
 title: "Bernheim Original Wheat Whiskey"
 date: "2013-02-01"
-categories: 
+categories:
   - "spirits"
-  - "spirits"
-  - "spirits"
-tags: 
+tags:
   - "bernheim"
   - "honey"
   - "original"
@@ -41,9 +39,9 @@ Other bloggers’ thoughts:
 [Whiskey Reviews](http://whiskey-reviews.com/2012/04/bernheim-original-wheat-whiskey-review/)
 
 > The nose on Bernheim Original is soft and sugary.  It’s much more refined than a bourbon as wheat is often brought in to tame the corn and malted barley in bourbon recipes.
-> 
+>
 > The taste is silky smooth, with a slight bite on the back-end.  The wheat really shines with this whiskey, and you can immediately tell that Bernheim is matured to perfection.  The texture is surprisingly light, for a 90 proof expression.
-> 
+>
 > Afterwards, the finish is brief but satisfying, with the underlying tone of wheat.
 
 [Whiskey Reviewer](http://whiskeyreviewer.com/2011/05/bernheim-original-wheat-whiskey-review/)

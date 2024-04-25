@@ -3,7 +3,6 @@ title: "Cocktail Review--The Sting at The Hive, Raleigh"
 date: "2009-08-17"
 categories:
   - "bars"
-  - "bars"
 tags:
   - "jalapeno-cocktail"
   - "passionfruit-vodka"

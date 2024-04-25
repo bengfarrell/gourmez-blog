@@ -1,10 +1,9 @@
 ---
 title: "Restaurant Review--Taqueria La Vaquita, Durham"
 date: "2009-07-22"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "durham-taquerias"
   - "empanada"
   - "fresh-tortillas"

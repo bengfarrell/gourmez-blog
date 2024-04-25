@@ -1,12 +1,11 @@
 ---
 title: "Wilmoore Cafe *CLOSED*"
 date: "2012-06-11"
-categories: 
+categories:
   - "coffee-shops"
   - "coffee-shops"
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "allergy"
   - "banh-mi"
   - "breakfast"

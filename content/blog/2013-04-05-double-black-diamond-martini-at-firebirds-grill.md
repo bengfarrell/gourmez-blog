@@ -1,10 +1,9 @@
 ---
 title: "Double Black Diamond Martini at Firebird's Grill"
 date: "2013-04-05"
-categories: 
+categories:
   - "bars"
-  - "bars"
-tags: 
+tags:
   - "bar"
   - "citron-vodka"
   - "cocktail"

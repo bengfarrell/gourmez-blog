@@ -1,10 +1,9 @@
 ---
 title: "'āina"
 date: "2016-07-21"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "aina"
   - "best-brunches"
   - "black-sesame-cocktail"

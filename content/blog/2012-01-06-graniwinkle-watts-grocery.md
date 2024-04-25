@@ -1,12 +1,11 @@
 ---
 title: "Graniwinkle @ Watts Grocery"
 date: "2012-01-06"
-categories: 
-  - "bars"
+categories:
   - "bars"
   - "spirits"
   - "cider"
-tags: 
+tags:
   - "apple-cider"
   - "bar"
   - "cider"

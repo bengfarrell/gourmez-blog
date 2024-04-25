@@ -3,7 +3,6 @@ title: "George's Garage (Ninth Street, Durham) *CLOSED*"
 date: "2007-04-27"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "durham-dining"
   - "georges-garage"

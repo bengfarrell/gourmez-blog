@@ -3,7 +3,6 @@ title: "Margarita @ Torero's (Durham) -- Cocktail Review"
 date: "2009-12-19"
 categories:
   - "bars"
-  - "bars"
 tags:
   - "cocktail-review"
   - "house-sour-mix"

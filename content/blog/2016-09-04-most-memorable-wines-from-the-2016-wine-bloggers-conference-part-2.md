@@ -3,8 +3,6 @@ title: "Most Memorable Wines from the 2016 Wine Bloggers Conference: Part 2"
 date: "2016-09-04"
 categories:
   - "spirits"
-  - "spirits"
-  - "spirits"
   - "wine"
   - "spirits"
   - "wine"

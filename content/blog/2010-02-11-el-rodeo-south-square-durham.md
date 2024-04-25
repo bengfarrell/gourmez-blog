@@ -3,7 +3,6 @@ title: "El Rodeo -- South Square (Durham)"
 date: "2010-02-11"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "agua-de-jamaica"
   - "avocado"

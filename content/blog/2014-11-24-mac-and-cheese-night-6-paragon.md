@@ -1,10 +1,9 @@
 ---
 title: "Mac and Cheese Night #6: Paragon"
 date: "2014-11-24"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "apple-sangria"
   - "att-park"
   - "bay-area"

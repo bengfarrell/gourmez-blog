@@ -3,7 +3,6 @@ title: "Basil Mojito (Elaine's on Franklin, Downtown Chapel Hill)"
 date: "2007-04-27"
 categories:
   - "bars"
-  - "bars"
 tags:
   - "basil-mojito"
   - "chapel-hill-cocktails"

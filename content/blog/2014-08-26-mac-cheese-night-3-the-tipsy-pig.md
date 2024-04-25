@@ -3,7 +3,6 @@ title: "Mac & Cheese Night #3: The Tipsy Pig"
 date: "2014-08-26"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "spirit-reviews"
   - "bacon"

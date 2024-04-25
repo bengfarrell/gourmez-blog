@@ -1,10 +1,9 @@
 ---
 title: "Broadslab Legacy Reserve Hand-Crafted Liquor"
 date: "2013-07-19"
-categories: 
+categories:
   - "spirits"
-  - "spirits"
-tags: 
+tags:
   - "broadslab"
   - "charred-oak"
   - "corn"

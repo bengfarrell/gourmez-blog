@@ -1,10 +1,9 @@
 ---
 title: "Scratch"
 date: "2016-07-12"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "bay-area"
   - "comfort-food"
   - "dinner"

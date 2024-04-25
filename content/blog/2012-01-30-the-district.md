@@ -1,10 +1,9 @@
 ---
 title: "The District"
 date: "2012-01-30"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "american-tobacco-district"
   - "art-institute-raleigh-durham"
   - "bananas-foster"

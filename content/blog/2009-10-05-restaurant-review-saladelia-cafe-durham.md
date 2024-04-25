@@ -3,7 +3,6 @@ title: "Restaurant Review--Saladelia Cafe (Durham)"
 date: "2009-10-05"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "brunch-durham"
   - "chicken-salad-sandwich"

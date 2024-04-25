@@ -1,10 +1,9 @@
 ---
 title: "Brews & Brats"
 date: "2016-05-12"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "affordable"
   - "amarillo-pillow"
   - "bar"

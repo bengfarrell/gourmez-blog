@@ -1,10 +1,9 @@
 ---
 title: "The Crow's Nest"
 date: "2014-05-06"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "college-dreams"
   - "crab-dip"
   - "dinner"

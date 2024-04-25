@@ -1,10 +1,9 @@
 ---
 title: "The Fearrington House Restaurant (Pittsboro)"
 date: "2010-05-19"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "banana-pudding"
   - "chapel-hill-dining"
   - "fearrington-house"

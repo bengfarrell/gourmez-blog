@@ -3,7 +3,6 @@ title: "Restaurant Review--Char-Grill, Woodcroft, Durham"
 date: "2009-08-20"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "american-cheese"
   - "char-grill-durham"

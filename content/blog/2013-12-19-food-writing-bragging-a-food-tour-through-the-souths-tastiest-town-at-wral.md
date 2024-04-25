@@ -4,9 +4,8 @@ date: "2013-12-19"
 categories:
   - "bakeries"
   - "bars"
-  - "bars"
   - "restaurants"
-  
+
   - "restaurants"
   - "tasting-rooms"
   - "travel-guides"

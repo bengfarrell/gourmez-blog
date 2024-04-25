@@ -3,7 +3,6 @@ title: "Pear Melon Daisy (The Big Easy, Raleigh)"
 date: "2007-04-26"
 categories:
   - "bars"
-  - "bars"
 tags:
   - "pear-melon-daisy"
   - "raleigh-cocktails"

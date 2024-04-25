@@ -3,7 +3,6 @@ title: "Bakesale Betty"
 date: "2015-11-30"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "bakesale-betty"
   - "coleslaw"

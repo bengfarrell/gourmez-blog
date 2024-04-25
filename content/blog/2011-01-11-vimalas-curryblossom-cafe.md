@@ -3,7 +3,6 @@ title: "Vimala's Curryblossom Cafe"
 date: "2011-01-11"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "chapel-hill"
   - "curryblossom"

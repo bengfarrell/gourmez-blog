@@ -3,7 +3,6 @@ title: "Farm Burger"
 date: "2015-04-22"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "berkeley"
   - "burger-joint"

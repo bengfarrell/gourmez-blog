@@ -1,10 +1,9 @@
 ---
 title: "Sicilian Firefly @ Serena"
 date: "2010-09-10"
-categories: 
+categories:
   - "bars"
-  - "bars"
-tags: 
+tags:
   - "banana-schnapps"
   - "cocktail"
   - "coconut-vodka"

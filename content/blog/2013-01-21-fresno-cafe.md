@@ -1,10 +1,9 @@
 ---
 title: "Fresno Cafe"
 date: "2013-01-21"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "butternut-squash-soup"
   - "cheeseburger"
   - "corn-chowder"

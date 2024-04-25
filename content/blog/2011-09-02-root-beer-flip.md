@@ -1,10 +1,9 @@
 ---
 title: "Root Beer Flip at Foundation"
 date: "2011-09-02"
-categories: 
+categories:
   - "bars"
-  - "bars"
-tags: 
+tags:
   - "brown-sugar-syrup"
   - "cocktail"
   - "dark-cruzan-rum"

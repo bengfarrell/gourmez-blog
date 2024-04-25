@@ -3,7 +3,6 @@ title: "Margaret's Cantina (Timberlyne, Chapel Hill)"
 date: "2007-04-27"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "chapel-hill-dining"
   - "margarets-cantina"

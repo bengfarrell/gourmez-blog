@@ -3,7 +3,6 @@ title: "Beyu Express (Beyu Caffee, Durham)---Cocktail Review"
 date: "2010-03-16"
 categories:
   - "bars"
-  - "bars"
 tags:
   - "beyu-caffee"
   - "beyu-express"

@@ -3,7 +3,6 @@ title: "Spring Menu at the Fairview Dining Room (Durham)"
 date: "2012-04-04"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "artichoke"
   - "au-jus"

@@ -1,10 +1,9 @@
 ---
 title: "Desert Pear Martini at Firebirds"
 date: "2011-08-25"
-categories: 
+categories:
   - "bars"
-  - "bars"
-tags: 
+tags:
   - "apple"
   - "belvedere-citrus-vodka"
   - "cactus"

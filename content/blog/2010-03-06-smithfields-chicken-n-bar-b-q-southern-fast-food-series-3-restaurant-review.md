@@ -3,7 +3,6 @@ title: "Smithfield's Chicken 'N Bar-B-Q (Southern Fast Food Series #3)---Restaur
 date: "2010-03-06"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "coleslaw"
   - "eastern-north-carolina-barbecue"

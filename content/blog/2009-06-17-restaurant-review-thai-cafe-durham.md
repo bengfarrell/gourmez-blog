@@ -3,7 +3,6 @@ title: "Restaurant Review--Thai Cafe, Durham"
 date: "2009-06-17"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "eclectic-glob-of-tangential-verbosity"
   - "mandarin-crush-cocktail"

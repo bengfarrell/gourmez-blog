@@ -1,11 +1,10 @@
 ---
 title: "Minneapolis Day 3: Riverfront, Mill City Museum, and Nick and Eddie’s"
 date: "2011-06-10"
-categories: 
-  - "restaurants"
+categories:
   - "restaurants"
   - "travel-guides"
-tags: 
+tags:
   - "big-pickle"
   - "butterscotch-pudding"
   - "downtown"

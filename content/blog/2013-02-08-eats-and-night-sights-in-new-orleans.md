@@ -4,7 +4,6 @@ date: "2013-02-08"
 categories:
   - "bars"
   - "restaurants"
-  - "restaurants"
   - "travel-guides"
 tags:
   - "alligator"

@@ -1,12 +1,11 @@
 ---
 title: "Washington, DC, September 2010 Travelogue 4: National Sculpture Garden, National Archives, and Foggy Bottom"
 date: "2010-10-19"
-categories: 
+categories:
   - "bars"
   - "restaurants"
-  - "restaurants"
   - "travel-guides"
-tags: 
+tags:
   - "dc-nightlife"
   - "dc-streets"
   - "dupont-circle"

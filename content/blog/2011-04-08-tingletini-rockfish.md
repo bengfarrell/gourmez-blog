@@ -1,11 +1,10 @@
 ---
 title: "Tingletini @ Rockfish *CLOSED*"
 date: "2011-04-08"
-categories: 
-  - "bars"
+categories:
   - "bars"
   - "spirits"
-tags: 
+tags:
   - "durham"
   - "jalapeno"
   - "lime"

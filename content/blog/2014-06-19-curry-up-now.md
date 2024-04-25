@@ -1,10 +1,9 @@
 ---
 title: "Curry Up Now!"
 date: "2014-06-19"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "cheap-eats"
   - "chutney"
   - "curry-up-now"

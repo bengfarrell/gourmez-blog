@@ -1,10 +1,9 @@
 ---
 title: "Foster's Market (Durham Branch)"
 date: "2011-01-21"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "cappucino"
   - "durham-breakfast"
   - "durham-lunch"

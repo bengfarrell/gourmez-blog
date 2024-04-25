@@ -1,10 +1,9 @@
 ---
 title: "Pineapple Express Martini at Rockfish *CLOSED*"
 date: "2011-07-26"
-categories: 
+categories:
   - "bars"
-  - "bars"
-tags: 
+tags:
   - "coconut"
   - "pineapple-vodka"
   - "rockfish"

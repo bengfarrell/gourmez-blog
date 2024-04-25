@@ -3,7 +3,6 @@ title: "Margarita de Jamaica (Jibarra, Raleigh)"
 date: "2007-04-26"
 categories:
   - "bars"
-  - "bars"
 tags:
   - "jibarra"
   - "margarita-de-jamaica"

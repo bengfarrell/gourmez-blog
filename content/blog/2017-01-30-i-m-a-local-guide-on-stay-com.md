@@ -1,12 +1,11 @@
 ---
 title: "I'm a Local Guide on Stay.Com!"
 date: "2017-01-30"
-categories: 
+categories:
   - "announcements"
   - "restaurants"
-  - "restaurants"
   - "travel-guides"
-tags: 
+tags:
   - "best-oakland-dining"
   - "best-oakland-eats"
   - "best-oakland-food"

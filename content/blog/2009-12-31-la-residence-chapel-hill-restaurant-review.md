@@ -3,7 +3,6 @@ title: "La Residence (Chapel Hill) -- Restaurant Review"
 date: "2009-12-31"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "chapel-hill-dining"
   - "chapel-hill-restaurants"

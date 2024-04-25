@@ -1,10 +1,9 @@
 ---
 title: "4/14/09 Recession Wine Dinner at Jujube"
 date: "2009-04-16"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "chapel-hill-wine-dinners"
   - "hope-valley-bottle-shop"
   - "jujube-restaurant"

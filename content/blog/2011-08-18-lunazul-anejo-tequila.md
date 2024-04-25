@@ -1,10 +1,9 @@
 ---
 title: "Lunazul Anejo Tequila"
 date: "2011-08-18"
-categories: 
+categories:
   - "spirits"
-  - "spirits"
-tags: 
+tags:
   - "1823"
   - "aged-tequila"
   - "anejo"

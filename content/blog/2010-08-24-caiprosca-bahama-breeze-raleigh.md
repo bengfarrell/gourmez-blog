@@ -1,10 +1,9 @@
 ---
 title: "Caiprosca @ Bahama Breeze"
 date: "2010-08-24"
-categories: 
+categories:
   - "bars"
-  - "bars"
-tags: 
+tags:
   - "bahama-breeze"
   - "caipirinha"
   - "caipirosca"

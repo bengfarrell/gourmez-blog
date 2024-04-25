@@ -1,10 +1,9 @@
 ---
 title: "Gregoria's Kitchen"
 date: "2012-11-21"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "chapel-hill-road"
   - "chimichurri"
   - "cuban"

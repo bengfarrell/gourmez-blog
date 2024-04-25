@@ -3,7 +3,6 @@ title: "Restaurant Review--Rue Cler, Downtown Durham"
 date: "2009-05-29"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "beignet"
   - "duck-confit-crepe"

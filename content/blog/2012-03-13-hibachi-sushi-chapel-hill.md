@@ -1,10 +1,9 @@
 ---
 title: "Hibachi Sushi"
 date: "2012-03-13"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "affordable"
   - "alaska-roll"
   - "boston-roll"

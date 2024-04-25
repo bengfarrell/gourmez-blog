@@ -5,9 +5,6 @@ categories:
   - "distillery"
   - "events"
   - "spirits"
-  - "spirits"
-  - "spirits"
-  - "spirits"
 tags:
   - "amaro"
   - "bay-area"

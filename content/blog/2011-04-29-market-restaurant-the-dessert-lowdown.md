@@ -1,11 +1,10 @@
 ---
 title: "Market Restaurant--the Dessert and Drink Lowdown *RELOCATING*"
 date: "2011-04-29"
-categories: 
-  - "restaurants"
+categories:
   - "restaurants"
   - "spirits"
-tags: 
+tags:
   - "avocado-gelato"
   - "bars"
   - "chocolate-cake"

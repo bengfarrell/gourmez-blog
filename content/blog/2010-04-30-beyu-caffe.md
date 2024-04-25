@@ -3,7 +3,6 @@ title: "Beyu Caffé"
 date: "2010-04-30"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "alicia-hylton"
   - "beyu-cafe"

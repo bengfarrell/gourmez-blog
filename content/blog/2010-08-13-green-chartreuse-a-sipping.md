@@ -1,10 +1,9 @@
 ---
 title: "Green Chartreuse, a sipping."
 date: "2010-08-13"
-categories: 
+categories:
   - "spirits"
-  - "spirits"
-tags: 
+tags:
   - "bars"
   - "bitters"
   - "chartreuse"

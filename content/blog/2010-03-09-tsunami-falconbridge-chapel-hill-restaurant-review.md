@@ -1,10 +1,9 @@
 ---
 title: "Tsunami (Falconbridge, Chapel Hill)---Restaurant Review *CLOSED*"
 date: "2010-03-09"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "bento-box"
   - "chapel-hill"
   - "croquette"

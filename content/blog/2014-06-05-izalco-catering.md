@@ -1,10 +1,9 @@
 ---
 title: "Izalco Catering"
 date: "2014-06-05"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "catering"
   - "el-salvador"
   - "farmer-market"

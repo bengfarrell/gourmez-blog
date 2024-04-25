@@ -2,10 +2,9 @@
 title: "The Flying Saucer Draught Emporium--Downtown Raleigh, NC"
 date: "2009-02-19"
 categories:
-  
+
   - "bars"
-  
-  - "restaurants"
+
   - "restaurants"
 tags:
   - "99-bottles"

@@ -3,8 +3,6 @@ title: "Restaurant and Cocktail Review--Papa Mojo's Roadhouse, Brunch"
 date: "2009-08-18"
 categories:
   - "bars"
-  - "bars"
-  - "restaurants"
   - "restaurants"
 tags:
   - "beignets"

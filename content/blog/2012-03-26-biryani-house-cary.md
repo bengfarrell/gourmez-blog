@@ -1,10 +1,9 @@
 ---
 title: "Biryani House"
 date: "2012-03-26"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "affordable"
   - "biryani-house"
   - "buffet"
@@ -39,7 +38,7 @@ It’s situated in a Cary strip mall that is full of Indian stores and eateries 
 
 The front of the restaurant is taken over with their buffet, which is offered for lunch and dinner. I am not a buffet fan, if only because I know I have no willpower and am quickly overwhelmed by wanting to try one of everything. So the husband, a friend, and I ordered off their regular menu. In addition to regular sodas, they offer two bottled imports from India, Thums Up (similar to Dr. Pepper) and Limca (somewhere between Sprite or Fresca).
 
-[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/03/biryani03.jpg "biryani03")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/03/biryani03.jpg) 
+[![](http://s3.amazonaws.com/thegourmez-wpmedia/2012/03/biryani03.jpg "biryani03")](http://s3.amazonaws.com/thegourmez-wpmedia/2012/03/biryani03.jpg)
 
 Remember how I have to try everything? That’s right, I ordered a Limca. It was fine as sodas go, but honestly, I’m not a big soda person, so I probably should have passed. If you like citrus sodas, you’ll like it. They also have sweet, salty, and mango lassi and Indian hot tea.
 

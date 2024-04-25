@@ -3,7 +3,6 @@ title: "Tasting My Way through Japanese Rice Exports: Grain, Snacks, and Sake"
 date: "2017-07-11"
 categories:
   - "restaurants"
-  - "restaurants"
   - "sake"
 tags:
   - "beika"

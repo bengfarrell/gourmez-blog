@@ -3,7 +3,6 @@ title: "Toast (Five Points, Durham)"
 date: "2007-04-27"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "durham-dining"
   - "five-points"

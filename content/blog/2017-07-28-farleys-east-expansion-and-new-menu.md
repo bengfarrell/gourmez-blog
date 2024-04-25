@@ -5,7 +5,6 @@ categories:
   - "coffee-shops"
   - "coffee-shops"
   - "restaurants"
-  - "restaurants"
 tags:
   - "chia-pudding"
   - "chocolate-chip-cookies"

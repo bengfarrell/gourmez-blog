@@ -3,7 +3,6 @@ title: "Restaurant Review--Piazza Italia, Brightleaf Square, Durham"
 date: "2009-05-19"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "brightleaf"
   - "brightleaf-restaurants"

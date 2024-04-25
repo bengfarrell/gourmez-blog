@@ -4,7 +4,6 @@ date: "2016-01-29"
 categories:
   - "wine"
   - "restaurants"
-  - "restaurants"
   - "travel-guides"
 tags:
   - "barcelona"

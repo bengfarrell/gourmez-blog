@@ -4,7 +4,6 @@ date: "2013-03-13"
 categories:
   - "bars"
   - "restaurants"
-  - "restaurants"
   - "travel-guides"
 tags:
   - "big-easy"

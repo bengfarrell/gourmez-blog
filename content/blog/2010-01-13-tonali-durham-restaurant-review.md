@@ -3,7 +3,6 @@ title: "Tonali (Durham) -- Restaurant Review"
 date: "2010-01-13"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "chicken-mole"
   - "durham-mexican-restaurant"

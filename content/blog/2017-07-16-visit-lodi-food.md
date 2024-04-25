@@ -4,10 +4,9 @@ date: "2017-07-16"
 categories:
   - "tasting-rooms"
   - "restaurants"
-  - "restaurants"
   - "tasting-rooms"
   - "travel-guides"
-  
+
 tags:
   - "cheese-central"
   - "chef-bernardo-martinez"

@@ -3,7 +3,6 @@ title: "Cocktail Review--The Whippet, Jujube, Chapel Hill"
 date: "2009-07-06"
 categories:
   - "bars"
-  - "bars"
   - "wine"
 tags:
   - "finlandia-grapfruit-vodka"

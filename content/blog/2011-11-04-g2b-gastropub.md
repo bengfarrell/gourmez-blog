@@ -1,10 +1,9 @@
 ---
 title: "G2B Gastropub *CLOSED*"
 date: "2011-11-04"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "arugula-pesto"
   - "baked-alaska"
   - "beet-salad"

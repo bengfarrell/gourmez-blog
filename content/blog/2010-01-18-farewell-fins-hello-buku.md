@@ -1,10 +1,9 @@
 ---
 title: "Farewell, Fins. Hello, bu*ku!"
 date: "2010-01-18"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "buku"
   - "dim-sum"
   - "downtown-raleigh-lunch"

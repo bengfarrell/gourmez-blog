@@ -1,10 +1,9 @@
 ---
 title: "L’Uva Enoteca"
 date: "2012-01-27"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "arugula"
   - "dining"
   - "dinner"

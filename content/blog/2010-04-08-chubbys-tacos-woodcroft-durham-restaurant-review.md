@@ -3,7 +3,6 @@ title: "Chubby's Tacos (Woodcroft, Durham)---Restaurant Review"
 date: "2010-04-08"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "al-pastor"
   - "bandidos"

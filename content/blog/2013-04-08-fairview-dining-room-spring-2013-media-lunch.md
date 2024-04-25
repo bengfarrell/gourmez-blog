@@ -3,7 +3,6 @@ title: "Fairview Dining Room Spring 2013 Media Lunch"
 date: "2013-04-08"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "bacon-wrapped-shrimp"
   - "bavarian-cream"

@@ -1,10 +1,9 @@
 ---
 title: "Qahweh @ Sitti"
 date: "2011-02-07"
-categories: 
+categories:
   - "bars"
-  - "bars"
-tags: 
+tags:
   - "beans"
   - "cocktail"
   - "downtown"

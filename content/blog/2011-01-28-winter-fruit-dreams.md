@@ -1,11 +1,10 @@
 ---
 title: "Winter Fruit Dreams"
 date: "2011-01-28"
-categories: 
+categories:
   - "recipes"
   - "spirits"
-  - "spirits"
-tags: 
+tags:
   - "bacardi"
   - "banana-liquor"
   - "cocktail"

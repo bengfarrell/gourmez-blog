@@ -1,11 +1,10 @@
 ---
 title: "Bull City Burger and Brewery"
 date: "2011-07-22"
-categories: 
-  - "restaurants"
+categories:
   - "restaurants"
   - "wine"
-tags: 
+tags:
   - "beer"
   - "boylan-soda"
   - "braggstown-punch"

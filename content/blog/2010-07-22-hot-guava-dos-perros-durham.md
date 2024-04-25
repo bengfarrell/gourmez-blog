@@ -3,7 +3,6 @@ title: "Hot Guava (Dos Perros, Durham)"
 date: "2010-07-22"
 categories:
   - "bars"
-  - "bars"
   - "spirits"
 tags:
   - "cocktails-durham"

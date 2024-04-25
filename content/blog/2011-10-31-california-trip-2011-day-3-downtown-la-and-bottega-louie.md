@@ -1,11 +1,10 @@
 ---
 title: "California Trip 2011, Day 3: Downtown LA and Bottega Louie"
 date: "2011-10-31"
-categories: 
-  - "restaurants"
+categories:
   - "restaurants"
   - "travel-guides"
-tags: 
+tags:
   - "ardas-cafe"
   - "avocado"
   - "blt"

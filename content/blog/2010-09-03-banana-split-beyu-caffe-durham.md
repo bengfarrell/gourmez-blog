@@ -3,9 +3,7 @@ title: "Banana Split @ Beyu Caffe"
 date: "2010-09-03"
 categories:
   - "bars"
-  - "bars"
   - "coffee-shops"
-  - "spirits"
   - "spirits"
 tags:
   - "banana-split-cocktail"

@@ -1,10 +1,9 @@
 ---
 title: "My Sister's Kitchen"
 date: "2011-10-03"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "breakfast"
   - "breakfast-all-day"
   - "breakfast-burrito"

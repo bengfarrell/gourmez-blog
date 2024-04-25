@@ -1,10 +1,9 @@
 ---
 title: "Bobbi's Rum Punch (West 94th St. Pub, Durham)"
 date: "2012-08-15"
-categories: 
+categories:
   - "bars"
-  - "bars"
-tags: 
+tags:
   - "151"
   - "bobbis-rum-punch"
   - "cocktail"

@@ -1,12 +1,11 @@
 ---
 title: "El Capital @ Dos Perros"
 date: "2011-01-04"
-categories: 
-  - "bars"
+categories:
   - "bars"
   - "spirits"
   - "wine"
-tags: 
+tags:
   - "bar-scene"
   - "cocktail"
   - "dolin"

@@ -1,10 +1,9 @@
 ---
 title: "Mac & Cheese Night #7 at Farmerbrown"
 date: "2015-02-05"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "baby-back-ribs"
   - "bbq-ribs"
   - "biscuits"

@@ -3,9 +3,8 @@ title: "Stanley Park"
 date: "2016-01-15"
 categories:
   - "restaurants"
-  - "restaurants"
   - "travel-guides"
-  
+
 tags:
   - "burrard-inlet"
   - "canada"

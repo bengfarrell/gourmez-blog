@@ -3,7 +3,6 @@ title: "Summer Salads at Noodles & Company"
 date: "2012-07-27"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "backyard-barbecue"
   - "balsamic-fig"

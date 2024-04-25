@@ -1,11 +1,9 @@
 ---
 title: "Mai Banh Mi"
 date: "2015-12-11"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "banh-mi"
   - "berkeley"
   - "dinner"

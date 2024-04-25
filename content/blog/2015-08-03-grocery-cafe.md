@@ -3,7 +3,6 @@ title: "Grocery Cafe"
 date: "2015-08-03"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "burmese"
   - "carolina-reaper"

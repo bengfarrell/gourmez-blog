@@ -1,10 +1,9 @@
 ---
 title: "East Coast Chinese Food Express"
 date: "2013-02-13"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "beef"
   - "boneless-spareribs"
   - "chicken"

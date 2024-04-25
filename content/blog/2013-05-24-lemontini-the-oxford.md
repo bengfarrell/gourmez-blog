@@ -1,11 +1,10 @@
 ---
 title: "Lemontini @ the Oxford"
 date: "2013-05-24"
-categories: 
-  - "bars"
+categories:
   - "bars"
   - "wine"
-tags: 
+tags:
   - "absolut-citron"
   - "cocktail"
   - "downtown"

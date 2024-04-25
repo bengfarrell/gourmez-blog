@@ -3,10 +3,9 @@ title: "Granville Island"
 date: "2016-01-07"
 categories:
   - "restaurants"
-  - "restaurants"
   - "sake"
   - "travel-guides"
-  
+
 tags:
   - "artisan-sake-maker"
   - "british-columbia"

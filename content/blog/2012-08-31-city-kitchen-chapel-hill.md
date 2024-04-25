@@ -1,11 +1,10 @@
 ---
 title: "City Kitchen"
 date: "2012-08-31"
-categories: 
-  - "restaurants"
+categories:
   - "restaurants"
   - "spirits"
-tags: 
+tags:
   - "apple-chocolate-torte"
   - "bistro"
   - "brasserie"

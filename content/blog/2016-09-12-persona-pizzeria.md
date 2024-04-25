@@ -3,7 +3,6 @@ title: "Persona Pizzeria"
 date: "2016-09-12"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "basil"
   - "brick-oven"

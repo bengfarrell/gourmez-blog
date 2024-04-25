@@ -3,7 +3,6 @@ title: "Revolution (Downtown Durham)---Restaurant Review"
 date: "2010-04-02"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "durham-restaurants"
   - "lime-napoleon"

@@ -3,7 +3,6 @@ title: "Restaurant Review--The Raleigh Times Bar, Downtown Raleigh"
 date: "2009-07-27"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "avocado-sandwiches"
   - "belgian-beers"

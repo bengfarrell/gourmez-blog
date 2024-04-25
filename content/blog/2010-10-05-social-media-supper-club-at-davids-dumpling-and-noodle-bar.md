@@ -3,7 +3,6 @@ title: "Social Media Supper Club at David’s Dumpling and Noodle Bar"
 date: "2010-10-05"
 categories:
   - "restaurants"
-  - "restaurants"
   - "sake"
 tags:
   - "chef-mao"

@@ -3,7 +3,6 @@ title: "Pama-Mama Margarita @ Buffalo Wings and Rings (Morrisville)"
 date: "2010-07-09"
 categories:
   - "bars"
-  - "bars"
   - "spirits"
 tags:
   - "buffalo-wings-and-rings"

@@ -1,10 +1,9 @@
 ---
 title: "Carolina Crossroads"
 date: "2011-08-03"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "carolina-crossroads"
   - "carolina-inn"
   - "chapel-hill"

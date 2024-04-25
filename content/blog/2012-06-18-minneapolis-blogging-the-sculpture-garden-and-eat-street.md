@@ -3,7 +3,6 @@ title: "Minneapolis Blogging – The Sculpture Garden and Eat Street"
 date: "2012-06-18"
 categories:
   - "restaurants"
-  - "restaurants"
   - "travel-guides"
 tags:
   - "asian-taste"

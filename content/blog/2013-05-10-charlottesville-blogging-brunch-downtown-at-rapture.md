@@ -4,7 +4,6 @@ date: "2013-05-10"
 categories:
   - "bars"
   - "restaurants"
-  - "restaurants"
   - "spirits"
 tags:
   - "bars"

@@ -5,10 +5,9 @@ categories:
   - "tasting-rooms"
   - "breweries"
   - "restaurants"
-  - "restaurants"
   - "tasting-rooms"
   - "travel-guides"
-  
+
 tags:
   - "alys-means"
   - "andrea-schutt"

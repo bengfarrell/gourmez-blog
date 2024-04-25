@@ -4,7 +4,6 @@ date: "2016-05-05"
 categories:
   - "cider"
   - "restaurants"
-  - "restaurants"
 tags:
   - "aspalls-cider"
   - "beer-review"

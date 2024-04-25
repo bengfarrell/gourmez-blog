@@ -1,10 +1,9 @@
 ---
 title: "Jamaica Jamaica (Durham) -- Restaurant Review"
 date: "2010-01-20"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "coco-bread"
   - "durham-restaurant"
   - "fried-plantains"

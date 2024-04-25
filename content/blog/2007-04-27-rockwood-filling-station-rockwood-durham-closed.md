@@ -3,7 +3,6 @@ title: "Rockwood Filling Station (Rockwood, Durham) *CLOSED*"
 date: "2007-04-27"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "durham-dining"
   - "rockwood"

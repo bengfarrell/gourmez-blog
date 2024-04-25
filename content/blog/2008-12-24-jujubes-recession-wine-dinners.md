@@ -1,8 +1,7 @@
 ---
 title: "Jujube's Recession Wine Dinners"
 date: "2008-12-24"
-categories: 
-  - "restaurants"
+categories:
   - "restaurants"
 ---
 

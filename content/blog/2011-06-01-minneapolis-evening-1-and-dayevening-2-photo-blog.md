@@ -1,12 +1,11 @@
 ---
 title: "Minneapolis Evening 1 and Day/Evening 2--Photo Blog"
 date: "2011-06-01"
-categories: 
-  - "bars"
+categories:
   - "bars"
   - "restaurants"
   - "travel-guides"
-tags: 
+tags:
   - "2-gingers-whiskey"
   - "brain-splurge"
   - "cardamom"

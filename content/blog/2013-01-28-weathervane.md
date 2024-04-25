@@ -1,10 +1,9 @@
 ---
 title: "Weathervane"
 date: "2013-01-28"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "bread-pudding"
   - "caramel-popcorn-ice-cream"
   - "chapel-hill"

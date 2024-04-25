@@ -3,7 +3,6 @@ title: "Mole-Mole (bu·ku, Raleigh)"
 date: "2011-06-17"
 categories:
   - "bars"
-  - "bars"
 tags:
   - "3-olive-chocolate-vodka"
   - "bu-ku"

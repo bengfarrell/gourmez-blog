@@ -3,7 +3,6 @@ title: "Gott’s Roadside Summer Menu"
 date: "2017-08-15"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "barbecue-pork"
   - "bay-area"

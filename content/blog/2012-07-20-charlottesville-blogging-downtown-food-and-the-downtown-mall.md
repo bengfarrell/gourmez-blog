@@ -5,7 +5,6 @@ categories:
   - "bars"
   - "coffee-shops"
   - "restaurants"
-  - "restaurants"
   - "travel-guides"
 tags:
   - "amphitheater"

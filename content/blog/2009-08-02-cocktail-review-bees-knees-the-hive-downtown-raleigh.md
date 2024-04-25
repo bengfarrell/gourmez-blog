@@ -1,10 +1,9 @@
 ---
 title: "Cocktail Review--Bee's Knees, The Hive, Downtown Raleigh"
 date: "2009-08-02"
-categories: 
+categories:
   - "bars"
-  - "bars"
-tags: 
+tags:
   - "bees-knees-cocktail"
   - "bourbon-cocktails"
   - "busy-bee-raleigh"

@@ -4,7 +4,6 @@ date: "2012-06-08"
 categories:
   - "coffee-shops"
   - "restaurants"
-  - "restaurants"
   - "travel-guides"
 tags:
   - "baby-geese"

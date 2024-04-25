@@ -1,10 +1,9 @@
 ---
 title: "Asena Restaurant"
 date: "2014-07-03"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "alameda"
   - "asena"
   - "bay-area"

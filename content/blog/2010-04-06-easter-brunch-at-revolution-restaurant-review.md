@@ -1,10 +1,9 @@
 ---
 title: "Easter Brunch at Revolution---Restaurant Review"
 date: "2010-04-06"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "apple-crisp"
   - "chicken-and-waffles"
   - "durham-brunch"

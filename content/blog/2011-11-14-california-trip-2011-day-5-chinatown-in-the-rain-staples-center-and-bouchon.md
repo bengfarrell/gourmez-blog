@@ -1,11 +1,10 @@
 ---
 title: "California Trip 2011, Day 5: Chinatown in the Rain, Staples Center, and Bouchon"
 date: "2011-11-14"
-categories: 
-  - "restaurants"
+categories:
   - "restaurants"
   - "travel-guides"
-tags: 
+tags:
   - "adam-sandler"
   - "al-pacino"
   - "banh-mi"

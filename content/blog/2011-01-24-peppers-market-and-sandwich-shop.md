@@ -1,10 +1,9 @@
 ---
 title: "Peppers Market and Sandwich Shop"
 date: "2011-01-24"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "bbq-mahi-mahi"
   - "breakfast-morrisville"
   - "ciabetta"

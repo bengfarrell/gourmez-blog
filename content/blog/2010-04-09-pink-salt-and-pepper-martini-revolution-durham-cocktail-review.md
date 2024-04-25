@@ -3,7 +3,6 @@ title: "Pink Salt and Pepper Martini (Revolution, Durham)---Cocktail Review"
 date: "2010-04-09"
 categories:
   - "bars"
-  - "bars"
 tags:
   - "cucumber"
   - "durham"

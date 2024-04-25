@@ -5,7 +5,6 @@ categories:
   - "tasting-rooms"
   - "wine"
   - "restaurants"
-  - "restaurants"
   - "tasting-rooms"
   - "travel-guides"
 

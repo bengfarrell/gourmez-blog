@@ -4,7 +4,6 @@ date: "2009-10-06"
 categories:
   - "spirits"
   - "bars"
-  - "bars"
 tags:
   - "cocktail-review"
   - "cocktails-durham"

@@ -1,12 +1,11 @@
 ---
 title: "Wood Tavern"
 date: "2016-03-23"
-categories: 
+categories:
   - "wine"
   - "restaurants"
-  - "restaurants"
   - "wine"
-tags: 
+tags:
   - "american-food"
   - "bistro"
   - "casual"

@@ -3,7 +3,6 @@ title: "Saffron--Morrisville, NC"
 date: "2009-02-19"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "indian-in-the-triangle"
   - "saffron-chicken"

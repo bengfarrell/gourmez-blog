@@ -1,10 +1,9 @@
 ---
 title: "Pollos La Carbonera (Hayti District, Durham) *CLOSED*"
 date: "2010-08-10"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "barbacoa"
   - "carne-azada"
   - "charbroiled-chicken"

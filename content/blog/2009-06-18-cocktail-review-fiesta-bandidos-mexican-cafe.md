@@ -3,7 +3,6 @@ title: "Cocktail Review--Fiesta, Bandido's Mexican Cafe"
 date: "2009-06-18"
 categories:
   - "bars"
-  - "bars"
 tags:
   - "bandidos-mexican-cafe"
   - "creme-de-banane"

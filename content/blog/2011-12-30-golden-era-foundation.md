@@ -1,11 +1,10 @@
 ---
 title: "Golden Era @ Foundation"
 date: "2011-12-30"
-categories: 
-  - "bars"
+categories:
   - "bars"
   - "cider"
-tags: 
+tags:
   - "bitters"
   - "cider"
   - "cocktail"

@@ -4,9 +4,8 @@ date: "2016-01-18"
 categories:
   - "bars"
   - "restaurants"
-  - "restaurants"
   - "travel-guides"
-  
+
 tags:
   - "bao-down"
   - "british-columbia"

@@ -1,10 +1,9 @@
 ---
 title: "White Satin @ Bahama Breeze"
 date: "2010-08-20"
-categories: 
+categories:
   - "bars"
-  - "bars"
-tags: 
+tags:
   - "bahama-breeze"
   - "cocktail"
   - "coconut"

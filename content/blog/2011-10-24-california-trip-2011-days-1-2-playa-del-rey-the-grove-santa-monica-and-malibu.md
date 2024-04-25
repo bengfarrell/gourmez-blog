@@ -1,11 +1,10 @@
 ---
 title: "California Trip 2011, Days 1 & 2: Playa del Rey, the Grove, Santa Monica, and Malibu"
 date: "2011-10-24"
-categories: 
-  - "restaurants"
+categories:
   - "restaurants"
   - "travel-guides"
-tags: 
+tags:
   - "bar-chloe"
   - "barbecue-mac-and-cheese"
   - "beach"

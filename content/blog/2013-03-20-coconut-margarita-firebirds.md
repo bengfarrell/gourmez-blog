@@ -1,10 +1,9 @@
 ---
 title: "CocoNUT Margarita at Firebirds"
 date: "2013-03-20"
-categories: 
+categories:
   - "bars"
-  - "bars"
-tags: 
+tags:
   - "1800-coconut-tequila"
   - "cocktail"
   - "coconut-margarita"

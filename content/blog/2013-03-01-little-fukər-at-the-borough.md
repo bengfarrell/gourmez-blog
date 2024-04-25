@@ -1,11 +1,10 @@
 ---
 title: "Little Fŭk’ər at the Borough"
 date: "2013-03-01"
-categories: 
-  - "bars"
+categories:
   - "bars"
   - "spirits"
-tags: 
+tags:
   - "alcohol"
   - "butterscotch-schnapps"
   - "downtown"

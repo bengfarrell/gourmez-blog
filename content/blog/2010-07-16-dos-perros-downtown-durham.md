@@ -3,7 +3,6 @@ title: "Dos Perros (Downtown Durham)"
 date: "2010-07-16"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "bunuelos"
   - "charlie-deal"

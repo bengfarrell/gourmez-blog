@@ -3,7 +3,6 @@ title: "Dame's Chicken and Waffles"
 date: "2011-04-18"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "dames-chicken-and-waffles"
   - "darn-good"

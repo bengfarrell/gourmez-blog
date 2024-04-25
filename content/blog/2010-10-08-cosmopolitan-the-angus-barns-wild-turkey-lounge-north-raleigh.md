@@ -3,7 +3,6 @@ title: "Cosmopolitan @ the Angus Barn's Wild Turkey Lounge"
 date: "2010-10-08"
 categories:
   - "bars"
-  - "bars"
 tags:
   - "angus-barn"
   - "cocktails-triangle"

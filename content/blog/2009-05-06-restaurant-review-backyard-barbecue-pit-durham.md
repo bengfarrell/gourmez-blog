@@ -1,10 +1,9 @@
 ---
 title: "Restaurant Review--Backyard Barbecue Pit, Durham"
 date: "2009-05-06"
-categories: 
+categories:
   - "restaurants"
-  - "restaurants"
-tags: 
+tags:
   - "backyard-barbecue-pit"
   - "durham-barbecue"
   - "macaroni-and-cheese"

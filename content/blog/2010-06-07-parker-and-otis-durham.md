@@ -3,7 +3,6 @@ title: "Parker and Otis (Durham)"
 date: "2010-06-07"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "baked-goods"
   - "candy"

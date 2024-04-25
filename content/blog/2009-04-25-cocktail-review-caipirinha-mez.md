@@ -3,7 +3,6 @@ title: "Cocktail Review--Caipirinha, Mez"
 date: "2009-04-25"
 categories:
   - "bars"
-  - "bars"
 tags:
   - "caipirinha"
   - "mez"

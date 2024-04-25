@@ -3,7 +3,6 @@ title: "Tom Yum Thai (Cary)---Restaurant Review"
 date: "2010-02-26"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "calamari-rings"
   - "chive-dumplings"

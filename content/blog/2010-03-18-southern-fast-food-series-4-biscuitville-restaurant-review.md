@@ -3,7 +3,6 @@ title: "Southern Fast Food Series #4: Biscuitville---Restaurant Review"
 date: "2010-03-18"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "biscuit-sandwich"
   - "biscuitville"

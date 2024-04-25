@@ -3,7 +3,6 @@ title: "Provence (Carrboro)"
 date: "2007-04-27"
 categories:
   - "restaurants"
-  - "restaurants"
 tags:
   - "carrboro"
   - "provence"
