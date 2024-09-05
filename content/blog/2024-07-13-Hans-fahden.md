@@ -14,7 +14,7 @@ tags:
 ---
 ![hans fahden 11](http://s3.amazonaws.com/thegourmez-wpmedia/2024/07/hans-fayden+(11).jpg)
 
-# The 411 on Hans Fahden Vineyards
+# The Scoop on Hans Fahden Vineyards
 
 *Region:* Hans Fahden Vineyards is right on the border of Sonoma and Napa counties, close to Calistoga in the Mayacama Mountains range.
 

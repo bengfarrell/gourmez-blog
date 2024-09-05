@@ -11,7 +11,7 @@ tags:
 
 ---
 
-# The 411 on The Doolittle
+# The Scoop on The Doolittle
 
 *Address:* 20394 Lake Chabot Rd\
 Castro Valley, CA\

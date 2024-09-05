@@ -10,7 +10,7 @@ tags:
   
 ---
 
-# The 411 on Coffee Cultures
+# The Scoop on Coffee Cultures
 
 *Address:*\
 1926 Park Street\

@@ -13,7 +13,7 @@ tags:
 
 ![bas armagnac](https://thegourmez.netlify.app/img/sections/spirits.jpg)
 
-# The 411 on de Montal Armagnac
+# The Scoop on de Montal Armagnac
 
 *Region:* Gascony, France\
 *Alcohol Content:* 40%

@@ -14,7 +14,7 @@ tags:
 ---
 ![slanted door bok choy](http://s3.amazonaws.com/thegourmez-wpmedia/2024/07/slanted-door-8.jpg)
 
-# The 411 on The Slanted Door
+# The Scoop on The Slanted Door
 
 
 *Address:* 6000 Bollinger Canyon Rd\
