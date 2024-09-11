@@ -22,7 +22,7 @@ Downtown Hayward, CA\
 
 *Vibe:* This is a fast casual gyro and kebabs joint offering wraps, platters, salad, and various pizzas. There are burgers, too! Which means they are aiming to please the palates of groups with many different cravings. Order at the counter or use their ordering machine right by the register. Then grab a spot at any of their plentiful tables. It’s a clean, modern eatery.
 
-Interestingly, this place used to be called Falafel Flame. The front door had the “m” peeled away, which is now replaced by an “R”. I want the 411 on that situation! It made me laugh to see the obvious change.
+Interestingly, this place used to be called Falafel Flame. The front door had the “m” peeled away, which is now replaced by an “R”. I want the Scoop on that situation! It made me laugh to see the obvious change.
 
 # My Falafel Flare Take
 

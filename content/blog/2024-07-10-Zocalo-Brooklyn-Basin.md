@@ -12,7 +12,7 @@ tags:
   - "brunch"
 
 ---
-# The 411 on Zocalo Coffee
+# The Scoop on Zocalo Coffee
 
 *Address:*
 265 9th Ave\

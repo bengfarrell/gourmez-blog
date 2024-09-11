@@ -18,7 +18,7 @@ tags:
 ---
 ![paradise ridge 60](http://s3.amazonaws.com/thegourmez-wpmedia/2024/07/Paradise+Ridge+2023+(60).jpg)
 
-# The 411 on Paradise Ridge Winery
+# The Scoop on Paradise Ridge Winery
 
 *Location:* Paradise Ridge Winery is located in the Russian River Valley just outside the city of Santa Rosa, Sonoma County’s largest town. The winery takes over the whole sprawling hillside, with views of the city and fantastic artwork to stroll through on the extensive grounds.
 

@@ -18,7 +18,7 @@ tags:
 
 [![macs by icky storefront](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/macs-by-icky+(2).jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/macs-by-icky+(2).jpg)
 
-# The 411 on Macs by Icky
+# The Scoop on Macs by Icky
 
 *Address:* 3900 Smith Street\
 Union City, CA\

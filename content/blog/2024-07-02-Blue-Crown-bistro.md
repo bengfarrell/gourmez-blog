@@ -12,7 +12,7 @@ tags:
 
 ---
 
-# The 411 on Blue Crown Bistro
+# The Scoop on Blue Crown Bistro
 
 *Address:*\
 1061 B Street\
