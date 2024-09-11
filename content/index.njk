@@ -69,6 +69,32 @@ numberOfLatestPostsToShow: 4
 {% set city = 'berkeley' %}
 {% set cityname = 'Berkeley' %}
 {% include "city-postslist.njk" %}
+
+{% set postsCount = collections.posts | filterByTags(['castro-valley']) | length %}
+{% set postslist = collections.posts | filterByTags(['castro-valley']) | head(-1) %}
+{% set city = 'castro-valley' %}
+{% set cityname = 'Castro Valley' %}
+{% include "city-postslist.njk" %}
+
+{% set postsCount = collections.posts | filterByTags(['san-leandro']) | length %}
+{% set postslist = collections.posts | filterByTags(['san-leandro']) | head(-1) %}
+{% set city = 'san-leandro' %}
+{% set cityname = 'San Leandro' %}
+{% include "city-postslist.njk" %}
+
+{% set postsCount = collections.posts | filterByTags(['dublin']) | length %}
+{% set postslist = collections.posts | filterByTags(['dublin']) | head(-1) %}
+{% set city = 'dublin' %}
+{% set cityname = 'Dublin' %}
+{% include "city-postslist.njk" %}
+
+{% set postsCount = collections.posts | filterByTags(['durham']) | length %}
+{% set postslist = collections.posts | filterByTags(['durham']) | head(-1) %}
+{% set city = 'durham' %}
+{% set cityname = 'Durham' %}
+{% include "city-postslist.njk" %}
+
+
 </ol>
 <span class="more-posts" style="font-weight: bold">for more cities, use the search bar</span>
 </section>
