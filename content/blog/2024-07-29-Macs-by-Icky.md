@@ -2,6 +2,7 @@
 
 title: "Macs by Icky"
 date: "2024-07-26"
+coverImage: "https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/macs-by-icky+(6).jpg"
 categories:
 - "ice-cream-parlors"
 - "coffee-shops"
