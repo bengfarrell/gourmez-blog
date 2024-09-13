@@ -2,7 +2,7 @@
 
 title: "Cozy Kitchen"
 date: "2024-09-05"
-coverImage: "https://thegourmez-wpmedia.s3.amazonaws.com/2024/09/Cozy-Kitchen-+(1).jpg"
+coverImage: "https://thegourmez-wpmedia.s3.amazonaws.com/2024/09/Cozy-Kitchen-Jan-2024-1.jpg"
 categories:
 - "restaurants"
 
