@@ -7,7 +7,7 @@ categories:
 tags:
 - "restaurant"
 - "berkeley"
-- "west berkeley"
+- "west-berkeley"
 - "locavore"
 - "lunch"
 - "review"

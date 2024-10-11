@@ -11,9 +11,9 @@ tags:
 - "restaurant"
 - "breakfast"
 - "lunch"
-- "san leandro"
-- "mom and pop"
-- "cheap eats"
+- "san-leandro"
+- "mom-and-pop"
+- "cheap-eats"
 - "old-fashioned"
 
 ---
