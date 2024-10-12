@@ -1,6 +1,7 @@
 ---
 title: "Standard Fare"
 date: "2024-10-11"
+description: "In which I try the carrot soup and carnitas & daikon sandwich at Berkeley's Standard Fare."
 coverImage: "https://thegourmez-wpmedia.s3.amazonaws.com/2024/10/Standard-Fare-2024+(7).jpg"
 categories:
 - "restaurants"
