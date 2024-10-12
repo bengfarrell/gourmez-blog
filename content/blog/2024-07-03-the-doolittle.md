@@ -5,7 +5,7 @@ categories:
   - "bars"
   - "cocktails"
 tags:
-  - "castro valley"
+  - "castro-valley"
   - "fancy cocktails"
   - "nightlife"
 
