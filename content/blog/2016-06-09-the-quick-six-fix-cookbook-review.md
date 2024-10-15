@@ -1,6 +1,7 @@
 ---
 title: "The Quick Six Fix Cookbook Review"
 date: "2016-06-09"
+description: "This cookbook caught my eye because I’m a good cook, but lately (the last 3 years totally counts as lately, right?), I just haven’t had the passion for it. Thus, fast recipes that still please the palate are all I really want to prepare."
 categories: 
   - "product-reviews"
   - "recipes"
