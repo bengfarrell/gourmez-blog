@@ -4,7 +4,7 @@ date: "2024-10-21"
 description: "Tieton gets a coffee shop and I get excited hoping they stick around for my next visit! Plus, that's a delicious breakfast sandwich."
 coverImage: "https://thegourmez-wpmedia.s3.amazonaws.com/2024/10/North-Town-Tieton+(12).jpg"
 categories:
-- "Coffee-Shops"
+- "coffee-shops"
 tags:
 - "cafe"
 - "coffee house"
@@ -20,8 +20,8 @@ tags:
 [![north town tieton storefront](https://thegourmez-wpmedia.s3.amazonaws.com/2024/10/North-Town-Tieton+(2).jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2024/10/North-Town-Tieton+(2).jpg)
 
 *Address:* 617 Elm St, Tieton, WA\
-*Website:* https://www.northtowncoffee.com/\
-*Instagram:* https://www.instagram.com/northtowncoffeehouse/
+*Website:* <https://www.northtowncoffee.com/>\
+*Instagram:* <https://www.instagram.com/northtowncoffeehouse/>
 
 *The Vibe:* North Town is a favorite local coffeehouse on the Yakima scene, and I was delighted to find it open on the Tieton town square when visiting my mom and stepfather recently. They opened this new location a few months ago because their primary location, The Depot in Yakima, is under repair after a fire. Lucky for me, they are hoping to keep both spots open once The Depot shop returns to business. I may be addicted to coffee and my parents ... are not. I might not have to pack my own freshly ground beans anymore on trips! 😄
 
