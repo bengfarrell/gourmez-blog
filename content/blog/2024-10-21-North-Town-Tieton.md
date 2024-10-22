@@ -4,7 +4,7 @@ date: "2024-10-21"
 description: "Tieton gets a coffee shop and I get excited hoping they stick around for my next visit! Plus, that's a delicious breakfast sandwich."
 coverImage: "https://thegourmez-wpmedia.s3.amazonaws.com/2024/10/North-Town-Tieton+(12).jpg"
 categories:
-- "Coffee Shops"
+- "Coffee-Shops"
 tags:
 - "cafe"
 - "coffee house"
