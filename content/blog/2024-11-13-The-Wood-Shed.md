@@ -26,9 +26,9 @@ tags:
 [![the wood shed exterior](https://thegourmez-wpmedia.s3.amazonaws.com/2024/11/The-Wood-Shed+(8).jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2024/11/The-Wood-Shed+(8).jpg)
 
 *Address:* 8590 Washington Highway 410\
-Naches (close to the Nile), WA
-*Open*: Wednesday–Sunday, brunch available on the weekend
-*Website:* <https://nilewoodshed.com/>
+Naches (close to the Nile), WA\
+*Open*: Wednesday–Sunday, brunch available on the weekend\
+*Website:* <https://nilewoodshed.com/>\
 *Phone:*  [(509) 658-2100](tel:15096582100)
 
 *The Vibe:* The Wood Shed is one of my mom and stepfather's favorite restaurants in the greater Yakima Valley. They live in Tieton, WA, so Naches is a scenic 20-minute drive up the road. And the restaurant has quite a scenic view on its back patio!
