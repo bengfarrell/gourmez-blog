@@ -13,7 +13,7 @@ tags:
 - "sparkling wine"
 - "tasting notes"
 - "wine review"
--" brut cremant"
+- "brut cremant"
 - "rose cremant"
 ---
 *Obligatory Disclaimer:* This wine was free to me to sample for this review. Whether that affects my judgement is up to you to decide!
