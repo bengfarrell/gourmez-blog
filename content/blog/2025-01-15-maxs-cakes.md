@@ -19,9 +19,9 @@ tags:
 
 # The 411 on Max's Cakes
 
-*Address:* 1007 B St.
-Hayward, CA
-*Website:* <https://maxscakesofficial.wixsite.com/maxscakes>
+*Address:* 1007 B St.\
+Hayward, CA\
+*Website:* <https://maxscakesofficial.wixsite.com/maxscakes>\
 *Phone:* (510) 397-6496
 
 *The Vibe:* Max's Cakes is one of those local spots that I became familiar with during the pandemic, when I took a break from writing reviews. Now that *The Gourmez* has been refreshed, I figured this was a great time to highlight some of the best spots I've frequented over the past few years. Max's Cakes is the first! The space is always nicely decorated, especially for holidays.
