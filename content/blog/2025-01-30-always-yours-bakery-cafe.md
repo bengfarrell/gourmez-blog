@@ -6,14 +6,15 @@ coverImage: "https://thegourmez-wpmedia.s3.amazonaws.com/2025/1/always-yours+(6)
 categories:
 - "bakeries"
 tags:
-- "maxs cakes"
-- "hayward"
+- "always yours"
+- "castro valley"
 - "desserts"
-- "downtown hayward"
-- "cupcakes"
+- "bakeries"
+- "macarons"
 - "cake slices"
 - "cheesecake"
-- "horchata cheesecake"
+- "choux buns"
+- "milk tea"
 - "review"
 ---
 # The 411 on Always Yours Bakery Cafe
