@@ -19,8 +19,9 @@ tags:
 
 # The 411 on The Mexican
 
-*Address:* 19950 Hesperian Blvd/ Hayward, CA
-*Website:* <https://www.themexicanhayward.com/>
+*Address:* 19950 Hesperian Blvd\
+Hayward, CA\
+*Website:* <https://www.themexicanhayward.com/>\
 *Phone:* 510-785-8200
 
 *The Vibe:* The Mexican is one of several restaurants owned by Alejandro Gamarra in the Hayward area. His other businesses include Metro Taquero's fast-casual joints and the upscale Casa del Toro in downtown Hayward.
