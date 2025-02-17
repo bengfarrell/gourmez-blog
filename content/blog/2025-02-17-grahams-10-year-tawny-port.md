@@ -2,7 +2,7 @@
 title: "Graham's 10-Year-Old Tawny Port"
 date: "2025-02-17"
 description: "Most memorable flavors? Date, coconut, light brown sugar on the nose. Date is strong on the palate and pecan nuttiness comes next. Then caramel as rich as its coloring."
-coverImage: "https://thegourmez-wpmedia.s3.amazonaws.com/2025/2/grahams-tawny-2025+(3).jpg"
+coverImage: "https://thegourmez-wpmedia.s3.amazonaws.com/2025/2/grahams-tawny-2025+(1).jpg"
 categories:
 - "wine"
 tags:
