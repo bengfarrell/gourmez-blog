@@ -21,7 +21,7 @@ tags:
 
 *Address:* 150 W Juana Ave\
 San Leandro, CA\
-*Website:* https://www.sonsoflibertyalehouse.com/\
+*Website:* (https://www.sonsoflibertyalehouse.com/)\
 *Phone:* 510-352-SOLA
 
 *The Vibe:* Sons Of Liberty Alehouse is one of the best options for American bistro-style fare in our local area. It’s also one of the few options: we are blessed with amazing Thai, Mexican, Korean, Filipino, Italian, and more, but upscale American restaurants are harder to find. That said, Sons of Liberty would shine even if we overflowed with them.
