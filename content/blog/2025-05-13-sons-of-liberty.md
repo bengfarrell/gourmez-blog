@@ -19,19 +19,16 @@ tags:
 ---
 # The 411 on Sons of Liberty Alehouse
 
-*Address:* 150 W Juana Ave
-
-San Leandro, CA
-
-*Website:* https://www.sonsoflibertyalehouse.com/
-
+*Address:* 150 W Juana Ave\
+San Leandro, CA\
+*Website:* https://www.sonsoflibertyalehouse.com/\
 *Phone:* 510-352-SOLA
 
 *The Vibe:* Sons Of Liberty Alehouse is one of the best options for American bistro-style fare in our local area. It’s also one of the few options: we are blessed with amazing Thai, Mexican, Korean, Filipino, Italian, and more, but upscale American restaurants are harder to find. That said, Sons of Liberty would shine even if we overflowed with them.
 
 <div class="caption">
 
-[![sons of liberty cocktail](https://thegourmez-wpmedia.s3.amazonaws.com/2025/5/sons-of-liberty+(3).jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2025/5/sons-of-liberty+(3).jpg) Not overflowing: this perfect cocktail pour.</div>
+[![sons of liberty cocktail](https://thegourmez-wpmedia.s3.amazonaws.com/2025/5/sons-of-liberty+(5).jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2025/5/sons-of-liberty+(5).jpg) Not overflowing: this perfect cocktail pour.</div>
 
 The San Leandro restaurant is nestled in a downtown shopping center, which can get hopping between the Safeway, several Chinese and Japanese restaurants, and the Fieldworks beer garden. Pro Tip: You’re more likely to find parking spots toward the middle of the lot than next to the restaurant. Sons of Liberty will welcome you with this inviting patio.
 
@@ -73,13 +70,13 @@ Of course, if you’re indulging your comfort food tooth, there’s always mac a
 
 ![sons of liberty mac and cheese](https://thegourmez-wpmedia.s3.amazonaws.com/2025/5/sons-of-liberty+(4).jpg)
 
-Sons of Liberty makes theirs with sharp cheddar, gouda, gruyere, and garlicy breadcrumbs. You can add bacon and roasted or fresh jalapenos. There’s even poutine if you prefer your cheese cravings in curd form!
+Sons of Liberty makes theirs with sharp cheddar, gouda, gruyere, and garlicy breadcrumbs. You can add bacon and roasted or fresh jalapenos. There’s even poutine if you prefer your cheese cravings in curd form.
 
 I’ve only been to brunch twice. The brisket omelette is overflowing!
 
 ![sons of liberty omelet](https://thegourmez-wpmedia.s3.amazonaws.com/2025/5/sons-of-liberty+(14).jpg)
 
-But I do think the home fries need better seasoning. No points off for the “Mezcal Mary” cocktail, though! It comes with bacon, pepperoncini, and a smoked salt and celery salt rim.
+But I do think the home fries need better seasoning, despite loving that they come with bell peppers, too. No points off for the “Mezcal Mary” cocktail, though! It comes with bacon, pepperoncini, and a smoked salt and celery salt rim.
 
 <div class="caption">
 
