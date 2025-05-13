@@ -1,5 +1,5 @@
 ---
-title: "Sons of Liberty"
+title: "Sons of Liberty Alehouse"
 date: "2025-05-13"
 description: "Sons of Liberty’s special sauce is classed-up comfort food and  seasonal updates to their standard menu items, which extend to food as well as drink. Even with the current prices for eggs, I find it hard to resist ordering a round of deviled eggs"
 coverImage: "https://thegourmez-wpmedia.s3.amazonaws.com/2025/5/sons-of-liberty+(3).jpg"
