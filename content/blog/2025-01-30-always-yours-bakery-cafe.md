@@ -7,7 +7,7 @@ categories:
 - "bakeries"
 tags:
 - "always yours"
-- "castro valley"
+- "castro-valley"
 - "desserts"
 - "bakeries"
 - "macarons"

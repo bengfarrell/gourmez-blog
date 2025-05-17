@@ -6,7 +6,7 @@ coverImage: "https://thegourmez-wpmedia.s3.amazonaws.com/2025/5/sons-of-liberty+
 categories:
 - "restaurants"
 tags:
-- "san leandro"
+- "san-leandro"
 - "cocktails"
 - "brunch"
 - "dinner"

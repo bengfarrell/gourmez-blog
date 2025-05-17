@@ -16,6 +16,7 @@ tags:
 - "literary events"
 - "bay area"
 - "east bay"
+- "oakland"
 ---
 # The 411 on Clio's Books
 
