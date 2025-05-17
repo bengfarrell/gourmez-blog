@@ -2,7 +2,7 @@
 title: "The Nile Cafe"
 date: "2025-05-16"
 description: "Open until mid-afternoon, the Nile Cafe offers a standard American breakfast, simple sandwiches, and incredibly reasonable prices. Some ingredient combinations, like a pear and fontina omelette, were too adventurous for me, and I don’t say that often! But there’s a good variety to choose from and great coffee options."
-coverImage: "https://thegourmez-wpmedia.s3.amazonaws.com/2025/5/the-nile-cafe+(6).jpg"
+coverImage: "https://thegourmez-wpmedia.s3.amazonaws.com/2025/5/the-nile-cafe+(3).jpg"
 categories:
 - "restaurants"
 tags:
@@ -42,9 +42,9 @@ I learned that Niles has an army of antique shops quartered on a few short block
 
 I also learned that Niles is home to the Nile Cafe, which amusingly leaves off the “s” and uses that as an excuse to embrace Egyptian iconography.
 
-![the nile cafe mural](https://thegourmez-wpmedia.s3.amazonaws.com/2025/5/the-nile-cafe+(6).jpg)
+![the nile cafe mural](https://thegourmez-wpmedia.s3.amazonaws.com/2025/5/the-nile-cafe+(3).jpg)
 
-![the nile cafe interior](https://thegourmez-wpmedia.s3.amazonaws.com/2025/5/the-nile-cafe+(3).jpg)
+![the nile cafe interior](https://thegourmez-wpmedia.s3.amazonaws.com/2025/5/the-nile-cafe+(6).jpg)
 
 Around ten tables fit inside the small cafe, but there’s also a patio hidden away out back. I loved all the vibrant colors throughout.
 
