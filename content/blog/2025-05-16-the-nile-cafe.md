@@ -2,7 +2,7 @@
 title: "The Nile Cafe"
 date: "2025-05-16"
 description: "Open until mid-afternoon, the Nile Cafe offers a standard American breakfast, simple sandwiches, and incredibly reasonable prices. Some ingredient combinations, like a pear and fontina omelette, were too adventurous for me, and I don’t say that often! But there’s a good variety to choose from and great coffee options."
-coverImage: "https://thegourmez-wpmedia.s3.amazonaws.com/2025/5/sons-of-liberty+(3).jpg"
+coverImage: "https://thegourmez-wpmedia.s3.amazonaws.com/2025/5/the-nile-cafe+(3).jpg"
 categories:
 - "restaurants"
 tags:
