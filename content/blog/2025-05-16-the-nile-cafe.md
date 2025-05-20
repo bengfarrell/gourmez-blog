@@ -31,7 +31,8 @@ Fremont, CA\
 *The Vibe:* On a recent afternoon, I visited the Niles area of Fremont for the first time. I’ve driven past the Niles sign while heading to and fro on State Route 238 before, and I briefly waved at the Niles Railroad Station while taking a ride on the historic old railroad from Sunol, but I’ve never stopped.
 
 <div class="caption">
-[![niles blvd](https://thegourmez-wpmedia.s3.amazonaws.com/2025/5/niles.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2025/5/niles.jpg) A stretch of Niles Blvd.
+
+[![niles blvd](https://thegourmez-wpmedia.s3.amazonaws.com/2025/5/niles.jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2025/5/niles.jpg) A stretch of Niles Blvd.</div>
 
 I learned that Niles has an army of antique shops quartered on a few short blocks, [an amazing pottery](http://thenilecafe.com/en/) store with tons of beautiful work from Mexico, and even a [nickelodeon theater and museum](https://en.wikipedia.org/wiki/Niles_Essanay_Silent_Film_Museum), where they play classic silent films from the days when Niles and its nearby canyon were an essential part of Essany West Studio productions.
 
