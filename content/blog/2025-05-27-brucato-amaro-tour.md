@@ -5,6 +5,7 @@ description: "It's wonderful to have a distillery open to the public like this r
 coverImage: "https://thegourmez-wpmedia.s3.amazonaws.com/2025/5/burcato-amaro-tour+(4).jpg"
 categories:
 - "tasting-rooms"
+-"cocktails"
 tags:
 - "distillery"
 - "san francisco distillery"
@@ -17,6 +18,7 @@ tags:
 - "spirits"
 - "eateries"
 - "review"
+- "san-francisco"
 
 ---
 *Region:* California\
