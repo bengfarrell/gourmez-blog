@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 ---
-<h1>Cafes</h1>
+<h1>Cafes</h1>\
 For The Gourmez, the terms cafe, coffee house, and coffee shop are used interchangeably. When I'm referring to a business as one, I generally mean that they offer espresso drinks in addition to drip coffee, and that coffee beverages are a focus of their menu. They may also have a fantastic food menu, and if they do, you can bet I will rave about it! But I'll still call it a cafe, coffee house, or coffee shop.
 
 I am still searching for a coffee house in the East Bay that perfectly suits my needs. One where I feel welcome to spend two hours working or reading without feeling like I’m taking up valuable table space _and_ where others can use it to relax and hang out with friends. Yes, I’m talking about the elusive quest for a third space in America! Modern cafés with their sleek counters and geometrically positioned plants can be appealing and offer great coffee discoveries, but they don’t quite hit that relaxed vibe I enjoy most in a coffee shop.
