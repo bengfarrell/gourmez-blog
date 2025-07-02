@@ -2,7 +2,7 @@
 title: "Sparkling Wines of the Loire Valley"
 date: "2025-07-01"
 description: "I was invited to a masterclass, led by the amiable Master Sommelier Chris Gaither, on the sparkling wines of the Loire Valley. They agreed with my palate! I prefer restrained oak aging for white wines and plenty of acidity, and they delivered on both counts."
-coverImage: "https://thegourmez-wpmedia.s3.amazonaws.com/2025/6/trestle+(7).jpg"
+coverImage: "https://thegourmez-wpmedia.s3.amazonaws.com/2025/7/loire-valley+(20).jpg"
 categories:
 - "wine"
 tags:
@@ -21,9 +21,9 @@ tags:
 ---
 *Event:* GO ON! Bloom Big Sparkling Wines of the Loire Valley Masterclass & Pairings\
 *Region:* The Loire Valley, France\
-*Website:* www.vinsdeloir.fr/en\
+[*Vins de Loir Website:*](www.vinsdeloir.fr/en)\
 *Hosting Restaurant:* La Connessa\
-*Website: https://www.laconnessa.com/*
+[*La Connessa Website:*](https://www.laconnessa.com)/
 
 ![wine tasting loire valley](https://thegourmez-wpmedia.s3.amazonaws.com/2025/7/loire-valley+(19).jpg)
 
@@ -43,7 +43,7 @@ The masterclass was hosted at La Connessa, an Italian restaurant in the Dogpatch
 
 <div class="caption">
 
-[![pate la connessa loire valley](https://thegourmez-wpmedia.s3.amazonaws.com/2025/7/loire-valley+(14).jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2025/7/loire-valley+(14).jpg)A sampling of the platter full of pairings.
+[![pate la connessa loire valley](https://thegourmez-wpmedia.s3.amazonaws.com/2025/7/loire-valley+(14).jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2025/7/loire-valley+(14).jpg)A sampling of the platter full of pairings.</div>
 
 As Chris educated us on the wines’ backgrounds, we drank, ate, and contemplated whether the pairings succeeded. Most did!
 
