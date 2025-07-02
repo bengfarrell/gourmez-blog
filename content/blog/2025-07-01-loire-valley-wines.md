@@ -21,9 +21,9 @@ tags:
 ---
 *Event:* GO ON! Bloom Big Sparkling Wines of the Loire Valley Masterclass & Pairings\
 *Region:* The Loire Valley, France\
-[*Vins de Loir Website:*](www.vinsdeloir.fr/en)\
+[*Vins de Loir Website:*](https://www.vinsdeloir.fr/en)\
 *Hosting Restaurant:* La Connessa\
-[*La Connessa Website:*](https://www.laconnessa.com)/
+[*La Connessa Website:*](https://www.laconnessa.com)
 
 ![wine tasting loire valley](https://thegourmez-wpmedia.s3.amazonaws.com/2025/7/loire-valley+(19).jpg)
 
