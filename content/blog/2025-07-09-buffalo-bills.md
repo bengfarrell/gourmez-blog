@@ -9,7 +9,7 @@ categories:
 tags:
 - "restaurant review"
 - "review"
-- "buffalo bills brewery
+- "buffalo bills brewery"
 - "buffalo bills beer"
 - "hayward, ca"
 - "hayward restaurants"
