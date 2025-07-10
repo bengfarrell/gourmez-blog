@@ -72,7 +72,7 @@ One of my husband’s staple orders is the buffalo chicken sandwich, served up w
 
 ![buffalo bill's chicken sandwich](https://thegourmez-wpmedia.s3.amazonaws.com/2025/7/buffalo-bills+(12).jpg)
 
-He always upgrades to those sweet potato waffle fries. I opt for the garlic fries, if I want to go for the upsell. Most often, we split a pizza and a salad. I give Buffalo Bill’s props for some of the best salads I’ve had at brewpubs. Yes, they have a standard caesar, but they also offer great options like the Del Fuego Salad.
+He always upgrades to those sweet potato waffle fries. I opt for the garlic fries, if I want to go for the upsell. Most often, we split a pizza and a salad. I give Buffalo Bill’s props for some of the best salads I’ve had at brewpubs. Yes, they have a standard caesar, but they also offer great options like the Del Fuego.
 
 ![buffalo bill's del fuego salad](https://thegourmez-wpmedia.s3.amazonaws.com/2025/7/buffalo-bills+(2).jpg)
 
@@ -96,6 +96,6 @@ I do mourn the BBQ platter that Buffalo Bill’s had on the menu for a while aft
 
 It was a hefty feast for two and served up multiple barbecue standards: hot links, ribs, and chicken and brisket, too, I think. Luckily, the ribs are still available as a starter.
 
-*Would I Go Back?* I’m probably back right now! We are happy this Hayward tradition is continuing for the foreseeable future. I need to set myself a reminder to get the Dark Pumpkin Stout as soon as it’s available this fall….
+*Would I Go Back?* I’m probably back right now! 😄 We are happy this Hayward tradition is continuing for the foreseeable future. I need to set myself a reminder to get the Dark Pumpkin Stout as soon as it’s available this fall….
 
 *Reviewed from many visits 2013–2025.*
