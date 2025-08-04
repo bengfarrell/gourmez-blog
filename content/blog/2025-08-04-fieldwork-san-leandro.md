@@ -1,7 +1,7 @@
 ---
 title: "Fieldwork Brewing–San Leandro"
 date: "2025-08-04"
-description: "I couldn’t help but notice that congee seemed the most popular dish ordered at Yin Ji Chang Fen, despite *chang fen* being part of their name."
+description: "As always, I am not a huge beer drinker, but I LOVE trying new things. A beer flight is catnip for me, and so is being able to pick and choose what I’d like on that flight from their extensive tap list."
 coverImage: "https://thegourmez-wpmedia.s3.amazonaws.com/2025/7/fieldwork+(5).jpg"
 categories:
 - "restaurants"
