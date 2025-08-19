@@ -54,7 +54,7 @@ Mazzocco Winery wines typically run \$30–\$90 per bottle, with most in the \$4
 
 *Would I Go Back for a \$25 tasting?* For California wine country tastings, \$25 is affordable. The wines were good, the lawn and gardens appealing, so I’d do it again. As I was a [Wilson Artisan Wine Club](https://wilsonartisanwines.com/) member at the time of this visit, it was free to me. But sure, I’d go back and pay the \$25. Maybe on a cooler day, when I can get better views of the countryside from the upper deck patio. 
 
-<div ="caption">
+<div class="caption">
 
 [![mazzocco winery grapevines](https://thegourmez-wpmedia.s3.amazonaws.com/2025/8/mazzocco-winery+(5).jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2025/8/mazzocco-winery+(5).jpg)The view from the patio. </div>
 
