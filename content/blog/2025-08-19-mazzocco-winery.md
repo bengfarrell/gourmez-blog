@@ -2,7 +2,7 @@
 title: "Mazzocco Winery"
 date: "2025-08-19"
 description: "For California wine country tastings, $25 is affordable. The wines were good, the lawn and gardens appealing, so I’d do it again."
-coverImage: "https://thegourmez-wpmedia.s3.amazonaws.com/2025/8/mazzocco-winery+(6).jpg"
+coverImage: "https://thegourmez-wpmedia.s3.amazonaws.com/2025/8/mazzocco-winery+(4).jpg"
 categories:
   - "wine"
   - "tasting-rooms"
