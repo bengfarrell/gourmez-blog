@@ -4,7 +4,8 @@ date: "2025-08-11"
 description: "One of the reasons I joined Matrix’s wine club is how much I love their outdoor patio and its view"
 coverImage: "https://thegourmez-wpmedia.s3.amazonaws.com/2025/8/matrix-wine+(4).jpg"
 categories:
-  - "wineries"
+  - "wine"
+  - "tasting-rooms"
 tags:
   - "wine"
   - "tasting notes"
