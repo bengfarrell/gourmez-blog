@@ -8,5 +8,5 @@ The Gourmez has quite an extensive archive! Check out these categories:
     <li><a href="/categories/bakeries/">Bakeries</a></li>
     <li><a href="/categories/sake/">Sake</a></li>
     <li><a href="/categories/cocktailrecipes/">Cocktail Recipes</a></li>
-    <li><a href="/categories/wines">Wines</a></li>
+    <li><a href="/categories/wine">Wine</a></li>
 </ul>
