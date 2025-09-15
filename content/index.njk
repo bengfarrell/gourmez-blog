@@ -82,10 +82,10 @@ numberOfLatestPostsToShow: 4
 {% set cityname = 'San Leandro' %}
 {% include "city-postslist.njk" %}
 
-{% set postsCount = collections.posts | filterByTags(['dublin']) | length %}
-{% set postslist = collections.posts | filterByTags(['dublin']) | head(-1) %}
-{% set city = 'dublin' %}
-{% set cityname = 'Dublin' %}
+{% set postsCount = collections.posts | filterByTags(['san-lorenzo']) | length %}
+{% set postslist = collections.posts | filterByTags(['san-lorenzo']) | head(-1) %}
+{% set city = 'san-lorenzo' %}
+{% set cityname = 'San Lorenzo' %}
 {% include "city-postslist.njk" %}
 
 {% set postsCount = collections.posts | filterByTags(['durham']) | length %}
