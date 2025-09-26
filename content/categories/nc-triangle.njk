@@ -7,7 +7,7 @@
 		alias: "postslist",
 		size: 20,
 		before: function(data) {
-			return this.filterByTags(data, ['durham', 'raleigh' , 'chapel-hill' , 'carrboro' , 'cary', 'apex' , 'morrisville']);
+			return this.filterByCommonTags(data, ['durham', 'raleigh' , 'chapel-hill' , 'carrboro' , 'cary', 'apex' , 'morrisville']);
 		}
 	},
 	eleventyNavigation: {

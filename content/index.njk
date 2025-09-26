@@ -88,9 +88,9 @@ numberOfLatestPostsToShow: 4
 {% set cityname = 'San Lorenzo' %}
 {% include "city-postslist.njk" %}
 
-{% set postsCount = collections.posts | filterByTags(['durham', 'raleigh' , 'chapel-hill' , 'carrboro' , 'cary', 'apex' , 'morrisville']) | length %}
-{% set postslist = collections.posts | filterByTags(['durham', 'raleigh' , 'chapel-hill' , 'carrboro' , 'cary', 'apex' , 'morrisville']) | head(-1) %}
-{% set city = 'durham', 'raleigh' , 'chapel-hill' , 'carrboro' , 'cary', 'apex' , 'morrisville' %}
+{% set postsCount = collections.posts | filterByCommonTags(['durham', 'raleigh' , 'chapel-hill' , 'carrboro' , 'cary', 'apex' , 'morrisville']) | length %}
+{% set postslist = collections.posts | filterByCommonTags(['durham', 'raleigh' , 'chapel-hill' , 'carrboro' , 'cary', 'apex' , 'morrisville']) | head(-1) %}
+{% set city = 'nc-triangle' %}
 {% set cityname = 'NC Triangle' %}
 {% include "city-postslist.njk" %}
 
