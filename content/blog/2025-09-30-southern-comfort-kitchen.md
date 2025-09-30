@@ -8,6 +8,7 @@ categories:
 
 tags:
 - "castro valley"
+- "castro-valley"
 - "dining"
 - "review"
 - "cajun cooking"
