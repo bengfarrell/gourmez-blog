@@ -2,7 +2,7 @@
 title: "Southern Comfort Kitchen"
 date: "2025-09-30"
 description: "The coleslaw’s vinegar dressing tang, the pickle brine, and the creamy aioli all mingle with those seasonings, making a near-perfect mix of flavors and textures for a fried chicken sandwich. No notes. Wonderful."
-coverImage: "https://thegourmez-wpmedia.s3.amazonaws.com/2025/9/southern-comfort-kitchen+(8).jpg"
+coverImage: "https://thegourmez-wpmedia.s3.amazonaws.com/2025/9/southern-comfort-kitchen+(5).jpg"
 categories:
 - "restaurants"
 
