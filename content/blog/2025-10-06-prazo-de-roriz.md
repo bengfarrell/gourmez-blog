@@ -2,7 +2,7 @@
 title: "Prats & Symington Prazo de Roriz Red Wine 2018"
 date: "2025-10-06"
 description: "This bottle offered surprising depth at that price point, so I’d certainly consider it worth buying a case and letting a few age this long."
-coverImage: "https://thegourmez-wpmedia.s3.amazonaws.com/2025/9/prazo-de-roriz+(4).jpg"
+coverImage: "https://thegourmez-wpmedia.s3.amazonaws.com/2025/9/prazo-de-roriz+(3).jpg"
 categories:
 - "wine"
 
@@ -25,14 +25,10 @@ tags:
 
 ![prazo de roriz red wine](https://thegourmez-wpmedia.s3.amazonaws.com/2025/9/prazo-de-roriz+(3).jpg)
 
-*Vineyard:* Quinta de Roriz and Quinta da Perdiz
-
-*Region:* Duoro, Portugal
-
-*Grapes:* 35% Touriga Franca, 20% Touriga Nacional, 20% mixed varieties, 15% Tinta Roriz, 10% Tinta Barroca
-
-*ABV:* 14.5%
-
+*Vineyard:* Quinta de Roriz and Quinta da Perdiz\
+*Region:* Duoro, Portugal\
+*Grapes:* 35% Touriga Franca, 20% Touriga Nacional, 20% mixed varieties, 15% Tinta Roriz, 10% Tinta Barroca\
+*ABV:* 14.5%\
 *Age at Review:* 7 years. I should note that this is pushing the recommendation to drink this wine young, though that came with a caveat that it can age well for several years. Is “seven” several in this case? Let’s find out…
 
 # Thoughts on Tasting the Prats & Symington Prazo de Roriz 2018 Douro Red Wine
