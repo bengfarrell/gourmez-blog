@@ -2,7 +2,7 @@
 title: "Drake's Barrel House"
 date: "2025-10-14"
 description: "I can recommend the herbaceous Santa’s Brass: barley wine aged in whiskey and port barrels. Also the Death of the Sun, a bourbon barrel-aged imperial stout with gravitas."
-coverImage: "https://thegourmez-wpmedia.s3.amazonaws.com/2025/9/prazo-de-roriz+(3).jpg"
+coverImage: "https://thegourmez-wpmedia.s3.amazonaws.com/2025/9/drakes-barrelhouse+(4).jpg"
 categories:
 - "breweries"
 - "restaurants"
