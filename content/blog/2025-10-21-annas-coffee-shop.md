@@ -21,7 +21,7 @@ tags:
 
 ---
 
-# The 411 on Anna’s Coffee Shop
+## The 411 on Anna’s Coffee Shop
 
 *Address:* 444 Jackson Street\
 Hayward, CA
@@ -38,7 +38,7 @@ But the food is a mix of American and Mexican standards. It’s a “coffee shop
 
 Brown booths and tables fill the two main rooms of the restaurant. The back room is stuffier than the front room, as it does not benefit from an overhead ceiling fan or high ceiling. So if you overheat easily, this may not be the restaurant for you. I recommend Anna’s on cooler, less humid days. The patio is a nice option as well.
 
-# My Take on Anna’s Coffee Shop
+## My Take on Anna’s Coffee Shop
 
 *The Food*: On my first visit, I opted for Alan's omelette, minus the mushrooms. The eggs were cooked nice and thin; I prefer that style of omelette over the fluffy kind.
 

@@ -17,7 +17,7 @@ tags:
 - "crab fries"
 - "etouffee"
 ---
-# The 411 on Southern Comfort Kitchen–Castro Valley
+## The 411 on Southern Comfort Kitchen–Castro Valley
 
 *Address:* 3571 Castro Valley Blvd\
 Castro Valley, CA\
@@ -35,7 +35,7 @@ The wooden tables have nice, wide black chairs, unlike the standard skinny ones 
 
 Order at the counter, and they’ll call out your number when it’s ready or bring it straight to you if the shop’s not busy.
 
-# My Take on Southern Comfort Kitchen–Castro Valley
+## My Take on Southern Comfort Kitchen–Castro Valley
 
 *The Food:* While the fried chicken sandwich is what Southern Comfort Kitchen is most known for, it’s not what I craved on my first visit. Rather, I ordered small portions of the crab fries and crawfish étouffée.
 

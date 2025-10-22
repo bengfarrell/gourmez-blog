@@ -28,7 +28,7 @@ San Leandro, CA\
 
 ![drake's barrel house sign](https://thegourmez-wpmedia.s3.amazonaws.com/2025/9/drakes-barrelhouse+(4).jpg)
 
-# The 411 on Drake’s Barrel House
+## The 411 on Drake’s Barrel House
 
 I was a fan of [Drake’s Dealership](https://drinkdrakes.com/places/dealership/) from their very early days, having been first introduced to the restaurant and brewery on [a media tour](https://thegourmez.com/blog/2015-11-20-take-a-virtual-tour-of-the-hive-oakland/) shortly after they opened. It’s a beautiful space with a large patio with fire pits and table service, plenty of indoor seating for cooler nights, and a party vibe. They offer great pizza and an inventive menu of salads and small plates.
 
@@ -50,7 +50,7 @@ The Barrel House has a patio, but it’s more rustic than at the Dealership and 
 
 An important note: The Barrel House is tucked away **behind** the Westgate Center strip mall, which houses a Walmart, Home Depot, See’s Candies, and more. You will not find it if you can see those storefronts. Instead, you must turn onto the surface roads off Westgate Parkway or Davis Street and circle behind the main buildings.
 
-# My Take on Drake’s Barrel House
+## My Take on Drake’s Barrel House
 
 *The Beer:* Flights are available in addition to a healthy 20+ taps. Usually, that includes a barleywine or two, and maybe a stout, if I’m lucky. The dark beers tend to be experimental and involve barrel aging, which I’m still honestly not sold on for beer. But they have a few that keep me happy.
 

@@ -21,7 +21,7 @@ tags:
 
 *Obligatory Disclaimer:* This wine was provided free to me for review. I leave it up to you to decide if that biased my review.
 
-# The 411 on the Prats & Symington Prazo de Roriz 2018 Douro Red Wine
+## The 411 on the Prats & Symington Prazo de Roriz 2018 Douro Red Wine
 
 ![prazo de roriz red wine](https://thegourmez-wpmedia.s3.amazonaws.com/2025/9/prazo-de-roriz+(3).jpg)
 
@@ -31,7 +31,7 @@ tags:
 *ABV:* 14.5%\
 *Age at Review:* 7 years. I should note that this is pushing the recommendation to drink this wine young, though that came with a caveat that it can age well for several years. Is “seven” several in this case? Let’s find out…
 
-# Thoughts on Tasting the Prats & Symington Prazo de Roriz 2018 Douro Red Wine
+## Thoughts on Tasting the Prats & Symington Prazo de Roriz 2018 Douro Red Wine
 
 ![prazo de roriz red wine in glass](https://thegourmez-wpmedia.s3.amazonaws.com/2025/9/prazo-de-roriz+(4).jpg)
 
