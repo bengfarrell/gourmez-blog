@@ -13,7 +13,7 @@ tags:
 
 [![falafel wrap](http://s3.amazonaws.com/thegourmez-wpmedia/2024/07/falafel-flare-sized-1.jpg)](http://s3.amazonaws.com/thegourmez-wpmedia/2024/07/falafel-flare-sized-1.jpg)
 
-# The Falafel Flare Basics
+## The Falafel Flare Basics
 
 *Address:*\
 22648 Mission Blvd\
@@ -24,7 +24,7 @@ Downtown Hayward, CA\
 
 Interestingly, this place used to be called Falafel Flame. The front door had the “m” peeled away, which is now replaced by an “R”. I want the Scoop on that situation! It made me laugh to see the obvious change.
 
-# My Falafel Flare Take
+## My Falafel Flare Take
 
 *Food:* I ordered a falafel wrap for my meal, with a sparkling water to drink. I’ve been on a falafel dry spell, and by dry spell, I mean every single one I’ve tried in *years* has been hella dry. Not so at Falafel Flare! The falafel were soft and the herbs inside them combined with the chickpea meal to create a nice, balanced flavor. I dug the pickled radish in the wrap and wish they’d included more! My only complaint is that the flavors were a bit tame, so I’d definitely recommend asking for the hot sauce, too—and more radish!
 

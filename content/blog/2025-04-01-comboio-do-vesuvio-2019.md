@@ -19,7 +19,7 @@ tags:
 
 ![comboio do vesuvio 2019 wine](https://thegourmez-wpmedia.s3.us-east-1.amazonaws.com/2025/2/comboio+(3).jpg)
 
-# Comboio do Vesuvio 2019 Details
+## Comboio do Vesuvio 2019 Details
 
 *Vineyard:* Quinta do Vesuvio\
 *Region:* Duoro, Portugal\
@@ -28,7 +28,7 @@ tags:
 
 This red table wine from the Symington Family is named after the train line that first connected the Vesuvio region to the rest of Portugal. "Vesuvio Train" is the translation of the Portuguese name.
 
-# Thoughts on Tasting Comboio do Vesuvio 2019
+## Thoughts on Tasting Comboio do Vesuvio 2019
 
 ![comboio do vesuvio 2019 wine](https://thegourmez-wpmedia.s3.us-east-1.amazonaws.com/2025/2/comboio+(1).jpg)
 

@@ -16,7 +16,7 @@ tags:
 - "murasaki rice"
 ---
 
-# The 411 on “Ine Mankai” Mukai Shuzo Sake
+## The 411 on “Ine Mankai” Mukai Shuzo Sake
 
 ![ine mankai sake bottle glass](https://thegourmez-wpmedia.s3.amazonaws.com/2025/9/inemankai-sake+(8).jpg)
 
@@ -29,7 +29,7 @@ The most unique sake I’ve had thus far, the “Ine Mankai” sake from Mukai S
 
 I ordered two bottles of this sake over a year ago, after having first tried it at Daytrip (now [Daytrip Counter](https://www.daytripcounter.com/)), an Oakland restaurant. I fell in love with it on first sip, and I drank the first bottle right away when my order arrived. So this one has more age on it as I bid my time before giving it a full review, savoring the anticipation of its return to my glass.
 
-# Thoughts on Tasting “Ine Mankai” Mukai Shuzo Sake
+## Thoughts on Tasting “Ine Mankai” Mukai Shuzo Sake
 
 ![ine mankai sake in the glass](https://thegourmez-wpmedia.s3.amazonaws.com/2025/9/inemankai-sake+(1).jpg)
 

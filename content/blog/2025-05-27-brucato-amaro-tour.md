@@ -29,7 +29,7 @@ San Francisco, CA\
 
 ![brucato amaro distillery exterior](https://thegourmez-wpmedia.s3.amazonaws.com/2025/5/burcato-amaro-tour+(2).jpg)
 
-# The 411 on the Brucato Amaro Distillery’s Tasting Tour
+## The 411 on the Brucato Amaro Distillery’s Tasting Tour
 
 Brucato Amaro Distillery is making amazing California-inspired amaro. What’s *amaro*? Commonly thought of as digestifs, amari are bitter liqueurs. They begin with unaged grape brandy that is then infused with the herbs, fruits, and other aromatics native to an area. Amaro originated in Italy, but many regions of the world make their own versions. Sierra and James Clark, owners of Brucato Amaro Distillery, decided they would be the first local producers of a distinctively Californian amaro.
 
@@ -47,7 +47,7 @@ You'll also taste their amari, of course:
 
 And you’ll probably get special sips of those upcoming projects, along with nibbles from Bar Brucato.
 
-# My Take on the Brucato Amaro Distillery Tour
+## My Take on the Brucato Amaro Distillery Tour
 
 *The Vibe:* This tour is a relaxed, unpretentious peek at the process of making amaro. It helps put you in the mood by beginning with a surprise beverage. In this case, that was the Goosenest spritz cocktail, featuring the Brucato Amaro Orchards alongside Lillet, Pommeau, Cava, and soda.
 

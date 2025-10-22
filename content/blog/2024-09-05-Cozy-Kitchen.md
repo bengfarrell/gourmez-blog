@@ -18,7 +18,7 @@ tags:
 
 ---
 
-# The Scoop on Cozy Kitchen
+## The Scoop on Cozy Kitchen
 
 [![cozy kitchen storefront](https://thegourmez-wpmedia.s3.amazonaws.com/2024/09/Cozy-Kitchen-+(3).jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2024/09/Cozy-Kitchen-+(3).jpg)
 
@@ -36,7 +36,7 @@ Open that menu, and you’ll be amazed at the prices. Breakfast dishes will run 
 
 The waitress will be back fast to take your order but doesn’t mind requests for more time. The food will take 10–15 minutes at most to come out, and getting the bill is just as fast when you’re ready.
 
-# My Take on Cozy Kitchen
+## My Take on Cozy Kitchen
 
 *The Food:* I’ve been to Cozy Kitchen twice now, once for breakfast and once for lunch. I found breakfast to be the superior choice. I was able to substitute bacon for the ham in my Denver omelette, which is also a plus in my book. Onion and bell pepper were lightly sauteed, and the oozing American inside the omelette satisfied my diner patron sensibilities.
 

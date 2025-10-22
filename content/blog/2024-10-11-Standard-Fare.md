@@ -13,7 +13,7 @@ tags:
 - "lunch"
 - "review"
 ---
-# The 411 on Standard Fare
+## The 411 on Standard Fare
 
 [![standard fare storefront](https://thegourmez-wpmedia.s3.amazonaws.com/2024/10/Standard-Fare-2024+(1).jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2024/10/Standard-Fare-2024+(1).jpg)
 
@@ -27,7 +27,7 @@ tags:
 
 I was surprised by how busy they were for lunch on a Wednesday. That's always a good sign in these "post"-pandemic days. The line went from the front door to the corner by the time I was done. The brick building is attractive, and I respected that single seats were available both in their outdoor space and their indoor bar. Lots of sun is also always a plus.
 
-# My Take on Standard Fare
+## My Take on Standard Fare
 
 *The Food:* I opted for a half carnitas-and-daikon sandwich and a bowl of carrot soup. The ingredients change daily as to what features in the soup, sandwich, and salad offerings but various half & half pairings are usually available. I also went for a glass of rosé, because why not?
 

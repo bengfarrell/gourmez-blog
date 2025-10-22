@@ -21,14 +21,14 @@ tags:
 
 ---
 
-# The 411 on Mazzocco Winery
+## The 411 on Mazzocco Winery
 
 *Region:* Dry Creek Valley, CA\
 *Website:* [https://www.mazzocco.com/](https://www.mazzocco.com/)
 
 ![mazzocco winery tasting room](https://thegourmez-wpmedia.s3.amazonaws.com/2025/8/mazzocco-winery+(6).jpg)
 
-# My Take on Mazzocco Winery
+## My Take on Mazzocco Winery
 
 *The Vibe:* I was unexpectedly in northern Sonoma with some time to kill, and Mazzocco was able to accommodate my singleton wine tasting request. The tasting room is housed in a lovely, broad building with walls of glass and attractive architecture.
 

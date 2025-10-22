@@ -15,7 +15,7 @@ tags:
 - "lunch"
 - "review"
 ---
-# The 411 on North Town Coffeehouse - Tieton
+## The 411 on North Town Coffeehouse - Tieton
 
 [![north town tieton storefront](https://thegourmez-wpmedia.s3.amazonaws.com/2024/10/North-Town-Tieton+(2).jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2024/10/North-Town-Tieton+(2).jpg)
 
@@ -37,7 +37,7 @@ In addition to the attractive indoor space, there are a few tables outside the s
 
 [![north town tieton fritters](https://thegourmez-wpmedia.s3.amazonaws.com/2024/10/North-Town-Tieton+(22).jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2024/10/North-Town-Tieton+(22).jpg) Apple fritters on offer one day. </div>
 
-# My Take on North Town Coffeehouse Tieton
+## My Take on North Town Coffeehouse Tieton
 
 *The Food & Drink:* My first day, I stuck with an iced Americano, which tasted as it should: bold, black, and smooth.
 

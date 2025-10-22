@@ -27,7 +27,7 @@ tags:
 
 ![wine tasting loire valley](https://thegourmez-wpmedia.s3.amazonaws.com/2025/7/loire-valley+(19).jpg)
 
-# The 411 on the Sparkling Wines of the Loire Valley
+## The 411 on the Sparkling Wines of the Loire Valley
 
 I was invited to a masterclass, led by the amiable Master Sommelier [Chris Gaither](https://www.mastersommeliers.org/sommelier/chris-gaither/), on the sparkling wines of the Loire Valley. This event was hosted by Vins de Loire, an interprofessional organization representing many of the Loire Valley wine producers of France. *Obligatory Disclaimer:* My participation was entirely free to me.
 
@@ -47,7 +47,7 @@ The masterclass was hosted at La Connessa, an Italian restaurant in the Dogpatch
 
 As Chris educated us on the wines’ backgrounds, we drank, ate, and contemplated whether the pairings succeeded. Most did!
 
-# My Take on the Sparkling Wines of the Loire Valley
+## My Take on the Sparkling Wines of the Loire Valley
 
 *The Wines and Pairings:* The sparkling wine profiles that we sampled agreed with my palate. I prefer restrained oak aging for white wines and plenty of acidity, and they delivered on both counts. The acidity, however, was occasionally a touch bracing.
 

@@ -17,7 +17,7 @@ tags:
 - "review"
 - "sons of liberty review"
 ---
-# The 411 on Sons of Liberty Alehouse
+## The 411 on Sons of Liberty Alehouse
 
 *Address:* 150 W Juana Ave\
 San Leandro, CA\
@@ -38,7 +38,7 @@ A dining room full of a dark wood bar, booths, and tables waits inside, if outsi
 
 Sons of Liberty has an exceptional cocktail list that updates seasonally. Some standards, like their Old-Fashioned, simply switch the flavor of bitters and type of vermouth involved, but others get a full reinvention, like the Mules (currently blackberry, lime, and ginger). There are generally ten to twenty options in all.
 
-# My Take on Sons of Liberty
+## My Take on Sons of Liberty
 
 *The Food:* When we lived in Rockridge, [Southie](https://thegourmez.com/blog/2019-02-14-southie-oakland-review/) was our go-to bistro, starring amazing crostini and tasty seafood and salads. In Grand Lake? It was Shakewell (RIP) with an excellent brunch and Mediterranean influences. Sons of Liberty’s special sauce is classed-up comfort food and those seasonal updates to their standard menu items, which extend to food as well as drink.
 

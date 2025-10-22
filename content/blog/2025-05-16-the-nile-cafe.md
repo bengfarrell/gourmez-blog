@@ -19,7 +19,7 @@ tags:
 - "niles blvd"
 
 ---
-# The 411 on The Nile Cafe
+## The 411 on The Nile Cafe
 
 *Address:* 121 I Street\
 Fremont, CA\
@@ -53,7 +53,7 @@ Around ten tables fit inside the small cafe, but there’s also a patio hidden a
 
 Open until mid-afternoon, the Nile Cafe offers a standard American breakfast, simple sandwiches, and incredibly reasonable prices. Some ingredient combinations, like a pear and fontina omelette, were too adventurous for me, and I don’t say that often! But there’s a good variety to choose from and great coffee options.
 
-# My Take on The Nile Cafe
+## My Take on The Nile Cafe
 
 *The Food:* I ordered the sausage and spinach omelette, which had plentiful ingredients, also including onions, tomato, and cheddar cheese.
 

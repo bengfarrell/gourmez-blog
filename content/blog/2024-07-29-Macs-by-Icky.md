@@ -19,7 +19,7 @@ tags:
 
 [![macs by icky storefront](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/macs-by-icky+(2).jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2024/07/macs-by-icky+(2).jpg)
 
-# The Scoop on Macs by Icky
+## The Scoop on Macs by Icky
 
 *Address:* 3900 Smith Street\
 Union City, CA\
@@ -37,7 +37,7 @@ Formerly a popular food truck, Macs by Icky purveys "Filipino-inspired desserts,
 
 The feel of Macs by Icky on a busy day is that of an ice cream parlor: more of a short-term hangout spot than one to linger in for hours. But on a slow day, I don't think taking up a table for a while would be discouraged. The staff is quite friendly and welcoming.
 
-# My Take on Macs by Icky
+## My Take on Macs by Icky
 
 *The Food:* I've had two desserts so far, and I enjoy their sense of playfulness and ability to satisfy a sweet tooth. Let's start with their famed choco tacos. They usually have 4–5 flavors on hand, and the ube pistachio is likely the most popular. Because I was already having a pistachio beverage on this last trip, I went for strawberry crunch instead. They come frozen enough that I had no fear of making a mess for a good five minutes' worth of picture taking.
 

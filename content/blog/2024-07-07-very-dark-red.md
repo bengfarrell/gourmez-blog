@@ -16,7 +16,7 @@ The Very Dark Red Wine is designed to be a high alcohol (15%), high sugar wine w
 
 ![very dark red wine](http://s3.amazonaws.com/thegourmez-wpmedia/2024/07/very-dark-red.jpg)
 
-# Very Dark Red Wine Details
+## Very Dark Red Wine Details
 
 *Winery:* Shield Family Wines
 
@@ -28,7 +28,7 @@ The Very Dark Red Wine is designed to be a high alcohol (15%), high sugar wine w
 
 *Age at Review?* Likely around 3 years
 
-# Thoughts on the Very Dark Red Wine
+## Thoughts on the Very Dark Red Wine
 
 *Would I drink it again?* Yes!
 

@@ -16,7 +16,7 @@ tags:
 
 ---
 
-# The 411 on Yin Ji Chang Fen
+## The 411 on Yin Ji Chang Fen
 
 15828 Hesperian Boulevard\
 San Lorenzo, CA\
@@ -35,7 +35,7 @@ Rows of tables fill the space, and patrons fill the tables, sharing most dishes 
 
 Chang fen, a Cantonese street food, is the star of the cuisine. Long, wide rice noodle rolls hold a variety of fillings and come covered in a sweet soy sauce. Also on the menu is congee (rice porridge); dim sum staples like shum mai, dumplings, and chicken feet; and fried noodle and rice dishes.
 
-# My Take on Yin Ji Chang Fen
+## My Take on Yin Ji Chang Fen
 
 *The Food:* Of course, I had to try chang fen! I opted for the BBQ pork and dried shrimp combo for the filling, and I added scallions for a small upcharge. Most of the dishes offer several modification options.
 

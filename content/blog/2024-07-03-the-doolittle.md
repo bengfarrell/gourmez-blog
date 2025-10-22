@@ -11,7 +11,7 @@ tags:
 
 ---
 
-# The Scoop on The Doolittle
+## The Scoop on The Doolittle
 
 *Address:* 20394 Lake Chabot Rd\
 Castro Valley, CA\
@@ -24,7 +24,7 @@ The Doolittle gets crowded on the weekend, for sure! And probably on trivia nigh
 
 *The Vibe:* I’d classify this as a neighborhood bar, with a friendly vibe and a canoe shell serving as shelf space for the bar and dominating the view. The back wall is lined with large, blonde wooden booths, and the middle consists of long, narrow high-tops, also blonde wood. An eclectic mix of knick-knacks and plaques decorates the walls.
 
-# My Take on The Doolittle
+## My Take on The Doolittle
 
 *The Drinks:* The Doolittle offers 10+ taps, so it’s great for beer lovers. And they have a good cocktail list as well, also with 10+ options and fun names like the _Ra’z Al Mhul_. I’d like to see those cocktails switched up once in a while, but I get bored with familiar flavors far more easily than the average consumer.
 

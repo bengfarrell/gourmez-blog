@@ -19,7 +19,7 @@ tags:
 - "downtown hayward"
 
 ---
-# The 411 on Buffalo Bill’s Brewery
+## The 411 on Buffalo Bill’s Brewery
 
 *Address:* 1082 B St\
 Downtown Hayward, CA\
@@ -44,7 +44,7 @@ Inside, the brewpub is decorated with old signage from Buffalo Bill’s opening 
 
 The food menu is a mix of pizza, hamburgers, sandwiches, and salads with barbeque and American comfort food influences.
 
-# My Take on Buffalo Bill’s Brewery
+## My Take on Buffalo Bill’s Brewery
 
 *The Beer:* If you’re a regular reader, you know that I’m not a big fan of IPAs. So while I applaud Buffalo Bill’s continued production of the acclaimed beers they’ve been making for decades, I do wish a stout was regularly on the menu.
 

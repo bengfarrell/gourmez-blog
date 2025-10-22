@@ -18,7 +18,7 @@ tags:
 
 *Obligatory Disclaimer:* This wine was provided to me for free for this review. Whether that affected my thoughts is entirely up to you to decide!
 
-# Graham's 10-Year-Old Tawny Port Details
+## Graham's 10-Year-Old Tawny Port Details
 
 *Vineyard:* Multiple Symington quintas (estates), mainly in the Rio Torto\
 *Region:* Douro, Portugal\
@@ -31,7 +31,7 @@ The William and John (W. & J.) Graham family first produced Graham's Port in 182
 
 All ports are fortified wines made from a particular blend of red grapes. Tawny ports are aged longer in oak barrels than ruby ports, which spend more time aging in the bottle. Tawny ports typically have nut, caramel, and dried fruit notes. A 10-year-old tawny like this one has spent 10 years in the barrel before it's bottled and released to consumers.
 
-# Thoughts on Tasting Graham's 10-Year-Old Tawny Port
+## Thoughts on Tasting Graham's 10-Year-Old Tawny Port
 
 ![port sipper](https://thegourmez-wpmedia.s3.amazonaws.com/2025/2/grahams-tawny-2025+(1).jpg)
 

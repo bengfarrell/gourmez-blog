@@ -18,13 +18,13 @@ tags:
 ---
 *Obligatory Disclaimer:* This wine was free to me to sample for this review. Whether that affects my judgement is up to you to decide!
 
-# Lucien Albrecht Crémant D'Alsace Sparkling Wine Details
+## Lucien Albrecht Crémant D'Alsace Sparkling Wine Details
 
 [![lucien albrecht cremant d'alsace sparkling wine](https://thegourmez-wpmedia.s3.amazonaws.com/2024/11/Albrecht-2024-sized+(8).jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2024/11/Albrecht-2024-sized+(8).jpg)
 
 These two sparking wines come from the Orschwihr region of the Alsatians. The Lucien Albrecht family has been making wines there since 1698. *Crémante* is the official designation for sparkling wines of the region, which has been an AOC (appellation d'originie controlee) for 48 years now.
 
-# Thoughts on Tasting the Lucien Albrecht Crémante D'Alsace Brut
+## Thoughts on Tasting the Lucien Albrecht Crémante D'Alsace Brut
 
 [![lucien albrecht cremant d'alsace brut sparkling wine](https://thegourmez-wpmedia.s3.amazonaws.com/2024/11/Albrecht-2024-sized(10).jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2024/11/Albrecht-2024-sized(10).jpg)
 
@@ -44,7 +44,7 @@ These two sparking wines come from the Orschwihr region of the Alsatians. The Lu
 
 *At this \$23 price?* That's a steal. Do it.
 
-# Thoughts on Tasting the Lucien Albrecht Domaine Crémant D'Alsace Rosé
+## Thoughts on Tasting the Lucien Albrecht Domaine Crémant D'Alsace Rosé
 
 *Grapes:* Pinot noir
 

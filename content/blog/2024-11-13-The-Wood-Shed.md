@@ -21,7 +21,7 @@ tags:
 - "jojos"
 ---
 
-# The 411 on The Wood Shed
+## The 411 on The Wood Shed
 
 [![the wood shed exterior](https://thegourmez-wpmedia.s3.amazonaws.com/2024/11/The-Wood-Shed+(8).jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2024/11/The-Wood-Shed+(8).jpg)
 
@@ -45,7 +45,7 @@ Lots of seating, including high tops and four tops, and that patio is really app
 
 The variety of potato preparations sets The Wood Shed apart. Most meals, except pizza and salads, come with a choice of sides. The Wood Shed offers many: fries, woodchips (thick, freshly fried potato chips), tots, baker potatoes, or mashers (I think this is mashed potatoes). Premium upgrades for a side include jojos (potato wedges dredged in a flour batter with herbs), sweet potato fries, onion rings, soup, chili, or salad. Can't say they don't give you options!
 
-# My Take on The Wood Shed
+## My Take on The Wood Shed
 
 *The Food:* I picked up dinner to-go for the fam twice during my visit, and I was pretty pleased with the dishes. My parents absolutely love the Wood Shed's club sandwich and typically split it for a full meal.
 

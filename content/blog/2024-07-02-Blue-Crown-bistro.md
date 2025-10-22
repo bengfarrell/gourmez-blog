@@ -12,7 +12,7 @@ tags:
 
 ---
 
-# The Scoop on Blue Crown Bistro
+## The Scoop on Blue Crown Bistro
 
 *Address:*\
 1061 B Street\
@@ -28,7 +28,7 @@ Blue Crown Bistro is the third business I’ve seen in this downtown Hayward loc
 
 *The Vibe:* Dubbed a sports bar, Blue Crown Bistro is one long bar counter with about five small tables and a patio out front. It feels low-key and the clientele is friendly. That’s all welcoming to me!
 
-# My Take on Blue Crown Bistro
+## My Take on Blue Crown Bistro
 
 *The Food:* The only other time I’ve been here, they had quite a large menu for a new joint, but were offering much the same fare as the rest of downtown Hayward: burgers, tacos, wings, salads, etc. They’ve streamlined the menu since then, focusing more on just a couple options in each category. Luckily, they still had the birria fries on the menu, which I think could become a signature draw for them.
 

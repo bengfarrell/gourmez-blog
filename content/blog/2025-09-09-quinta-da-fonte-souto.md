@@ -17,7 +17,7 @@ tags:
 - "blanco wine"
 ---
 
-# The 411 on the 2020 Quinta da Fonte Souto Blanco
+## The 411 on the 2020 Quinta da Fonte Souto Blanco
 
 *Obligatory Disclaimer:* This wine was provided to me in exchange for this review. Whether that affects my credibility is up to you to decide!
 
@@ -30,7 +30,7 @@ tags:
 
 This [winery](https://www.fontesouto.com/?lang=en) is under the [Symington Family umbrella](https://www.symington.com/), which is known for its port and unfortified wines made in the Porto region. Quinta da Fonte Souto is their first foray into southern Portugal.
 
-# Thoughts on Tasting the 2020 Quinta da Fonte Souto Blanco
+## Thoughts on Tasting the 2020 Quinta da Fonte Souto Blanco
 
 ![quinta da fonte souto blanco wine in glass](https://thegourmez-wpmedia.s3.amazonaws.com/2025/9/quinta-da-fonte-souto-blanco+(2).jpg)
 

@@ -17,7 +17,7 @@ tags:
 - "milk tea"
 - "review"
 ---
-# The 411 on Always Yours Bakery Cafe
+## The 411 on Always Yours Bakery Cafe
 
 *Address:* 20634 Rustic Drive\
 Castro Valley, CA
@@ -38,7 +38,7 @@ In addition to macarons, Always Yours offers ube crinkle cookies, boba-style dri
 
 The bakery café boasts a kawaii aesthetic and lots of soft floral and marble-like décor—perfect for a selfie. They offer Happy Hour specials during weekdays, so be sure to check them out to see what the current deal is. They were running half-off drink specials with a \$10 purchase in the summer that I certainly took advantage of.
 
-# My Take on Always Yours Bakery Cafe
+## My Take on Always Yours Bakery Cafe
 
 *The Food:* The "character" macaroons are simply exquisite, but their regular macarons also display artistry and vivid coloring.
 

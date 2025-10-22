@@ -13,7 +13,7 @@ tags:
 - "wine review"
 - "oakville napa valley"
 ---
-# Intertwine Merlot 2013 Details
+## Intertwine Merlot 2013 Details
 
 *Region:* Napa Valley, CA\
 *Grapes:* Mostly Merlot\
@@ -23,7 +23,7 @@ This red wine blend is from winemaker Bridget Raymond. It needs aeration to come
 
 ![intertwine merlot 2013](https://thegourmez-wpmedia.s3.us-east-1.amazonaws.com/2014/11/Intertwine.JPG)
 
-# Thoughts on Tasting Intertwine Merlot 2013
+## Thoughts on Tasting Intertwine Merlot 2013
 
 *Most memorable flavors?* The coloring is not that appealing and without aeration, the texture is grainy and pulpy. Let it breathe, and that mellows out with an intriguing finish. It’s worth drinking—I’m pretty sure I’m ordering more if it’s still available.
 

@@ -14,7 +14,7 @@ tags:
 ---
 ![slanted door bok choy](http://s3.amazonaws.com/thegourmez-wpmedia/2024/07/slanted-door-8.jpg)
 
-# The Scoop on The Slanted Door
+## The Scoop on The Slanted Door
 
 
 *Address:* 6000 Bollinger Canyon Rd\
@@ -28,7 +28,7 @@ This visit was my first time at any of the Slanted Door restaurants. In addition
 
 *The Vibe:* The Slanted Door has quite a large dining room and outdoor patio space in the upscale Bishop’s Ranch shopping center in San Ramon. Blonde wood floors, marble tabletops, and black accents throughout. Definitely a good spot for celebrations, in addition to simply enjoying a nice dinner out.
 
-# My Take on the Slanted Door
+## My Take on the Slanted Door
 
 *The Food:* My husband and I dined with two friends, sharing six dishes family style between us—family style is the preferred method of ordering here. We started with the daikon rice cakes, which were one of the highlights of the meal for me!
 

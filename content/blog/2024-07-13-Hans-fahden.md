@@ -14,7 +14,7 @@ tags:
 ---
 ![hans fahden 11](http://s3.amazonaws.com/thegourmez-wpmedia/2024/07/hans-fayden+(11).jpg)
 
-# The Scoop on Hans Fahden Vineyards
+## The Scoop on Hans Fahden Vineyards
 
 *Region:* Hans Fahden Vineyards is right on the border of Sonoma and Napa counties, close to Calistoga in the Mayacama Mountains range.
 
@@ -29,7 +29,7 @@ Hans Fahden Vineyards was bought by German immigrants, the Fahden family, in 191
 
 <video src="http://s3.amazonaws.com/thegourmez-wpmedia/2024/07/hans-fayden+(2).mp4" controls></video>
 
-# My Take on a Hans Fahden Vineyards Tasting
+## My Take on a Hans Fahden Vineyards Tasting
 
 *The Vibe:* I don’t know if it’s because I had the place nearly all to myself at 11:30am on a weekday, but I loved this winery visit. The winery itself has a welcoming grand hall, and it was had to resist traipsing straight into the cellar within it. All the staff I encountered were super friendly, and my tasting host had perfect time, letting me be with my thoughts as I tasted, with more time for enjoying the view from the beautiful patio.
 

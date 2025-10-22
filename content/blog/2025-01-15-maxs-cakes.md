@@ -17,7 +17,7 @@ tags:
 - "review"
 ---
 
-# The 411 on Max's Cakes
+## The 411 on Max's Cakes
 
 *Address:* 1007 B St.\
 Hayward, CA\
@@ -32,7 +32,7 @@ I don't have a picture of their Halloween décor, but it also deserves a special
 
 They make absolutely beautiful custom cakes, but the daily offerings for walk-ins are slices of cake, cupcakes, and mini cheesecakes. You can also order coffee drinks to go with them and enjoy them in the bakery.
 
-# My Take on Max's Cakes
+## My Take on Max's Cakes
 
 *The Food:* The horchata cheesecakes are my personal favorite. I called them "mini" above, but they are large enough to split between two people.
 

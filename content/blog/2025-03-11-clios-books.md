@@ -18,7 +18,7 @@ tags:
 - "east bay"
 - "oakland"
 ---
-# The 411 on Clio's Books
+## The 411 on Clio's Books
 
 *Address:* 353 Grand Ave\
 Oakland, CA\
@@ -42,7 +42,7 @@ Clio's wants its patrons to connect in person, which is why they host many commu
 
 Does the book arrangement seem mystifying? It's chronological, based on either publication date or the time period that the book takes place within or explores. As Clio's puts it on the website, the shelves offer "a continuous timeline of human civilization that provides historical context for contemporary contingency."
 
-# My Take on Clio's Books
+## My Take on Clio's Books
 
 *The Drinks:* I had the special spritzer of the day and was  surprised that they were  still offering hot toddies in February. I appreciate it when hot cocktails stick around as long as the cold weather does! But the spritzer was exactly what I wanted that evening, and probably more appealing as we move into spring:
 

@@ -17,7 +17,7 @@ tags:
 - "hayward"
 - "dutch iced coffee"
 ---
-# The 411 on Eon Coffee
+## The 411 on Eon Coffee
 
 ![eon coffee sign](https://thegourmez-wpmedia.s3.amazonaws.com/2025/3/eon-coffee+(5).jpg)
 
@@ -47,7 +47,7 @@ Eon sells grab-n-go sandwiches, wraps, and salads from their display case, and t
 
 *Wi-Fi*: Eon Coffee offers free wi-fi to customers, but it's not always reliable. Bring your own portal, just in case.
 
-# My Take on Eon Coffee
+## My Take on Eon Coffee
 
 *The Food & Drink:* Eon's baristas hit the mark for your standard lattes, mochas, and drip coffees. I like that many of them, when ordered to stay, come with a little sugar cookie as well.
 

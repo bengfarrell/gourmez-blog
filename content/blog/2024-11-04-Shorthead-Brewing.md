@@ -27,7 +27,7 @@ tags:
 
 *Open:* Thursday–Sundays
 
-# The 411 on Shorthead Brewing
+## The 411 on Shorthead Brewing
 
 [![shorthead brewing beer on table](https://thegourmez-wpmedia.s3.amazonaws.com/2024/11/Shorthead-Brewing+(8).jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2024/11/Shorthead-Brewing+(8).jpg)
 
@@ -39,7 +39,7 @@ Shorthead Brewing opened in Summer 2024. Their Tieton taproom is an expansion of
 
 Food trucks rotate through—you can find their schedule on Shorthead Brewing's Instagram page. They've also hosted live music and poetry readings. Maybe I need to arrange one next time I have a book to promote…
 
-# My Take on Shorthead Brewing
+## My Take on Shorthead Brewing
 
 *The Vibe:* Inside, the bar has an industrial feel, with stainless steel from the beer vats and a concrete-and-wood bar.
 

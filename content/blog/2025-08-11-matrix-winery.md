@@ -25,7 +25,7 @@ tags:
 
 ![matrix winery entrance](https://thegourmez-wpmedia.s3.amazonaws.com/2025/8/matrix-wine+(1).jpg)
 
-# The 411 on Matrix Winery
+## The 411 on Matrix Winery
 
 Matrix Winery is located on a beautiful property just outside of Healdsburg in northern Sonoma County. Like many of the wineries in this region, pinot noir is a specialty of theirs, but zinfandel and chardonnay are also strong contenders. I was a member for the last three years, and each bottle was quality.
 
@@ -45,7 +45,7 @@ Matrix Winery also has indoor tables for rainy or cold days, but choose the pati
 
 [![matrix winery patio](https://thegourmez-wpmedia.s3.amazonaws.com/2025/8/matrix-wine+(23).jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2025/8/matrix-wine+(23).jpg) The patio from below. </div>
 
-# My Take on Matrix Winery
+## My Take on Matrix Winery
 
 *The Wine:* I already shared that I joined their wine club, so that spoils how I feel about Matrix’s wines—they’re great! 
 

@@ -12,7 +12,7 @@ tags:
   - "brunch"
 
 ---
-# The Scoop on Zocalo Coffee
+## The Scoop on Zocalo Coffee
 
 *Address:*
 265 9th Ave\
@@ -30,7 +30,7 @@ This spot has a much more modern and natural vibe, with quartz tables, brick and
 
 Zocalo Coffee in Brooklyn Basin has also kicked up their food service a notch, making it closer to a restaurant than a coffee shop, in truth. I did not have food on this visit, but the weekend brunches and their cocktail menu are quite intriguing.
 
-# My Take on Zocalo Coffee
+## My Take on Zocalo Coffee
 
 *The Vibe:* This is a great update on a first-class coffee shop, melding their community ethos with the more upscale aesthetic of Brooklyn Basin.
 

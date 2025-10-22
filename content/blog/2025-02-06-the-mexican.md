@@ -17,7 +17,7 @@ tags:
 - "review"
 ---
 
-# The 411 on The Mexican
+## The 411 on The Mexican
 
 *Address:* 19950 Hesperian Blvd\
 Hayward, CA\
@@ -38,7 +38,7 @@ Taco Tuesdays is the best value for dining at the Mexican, with much more afford
 
 The most controversial move The Mexican has pulled is charging for chips and salsa. Of course, we all complained about it last year, as they'd always been offered for free before. The chips and salsa are now available for a \$4 charge that also includes bean dip. We usually forgo them since the change, which I have to admit, is probably better for our waistlines.
 
-# My Take on The Mexican
+## My Take on The Mexican
 
 *The Food:* Your best bet at The Mexican is to head for the Specialties or Clasicos section of the menu. There, you will find rich mole sauces and delights like crab and shrimp rellanos in roasted poblano cream, the tasty chicken with garlic lemon sauce, and chile verde with large chunks of meat and tasty grilled onions and jalapeno.
 

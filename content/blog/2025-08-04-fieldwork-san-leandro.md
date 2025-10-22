@@ -21,7 +21,7 @@ tags:
 
 ---
 
-# The 411 on Fieldwork
+## The 411 on Fieldwork
 
 *Address:* 100 West Juana Avenue\
 San Leandro, CA\
@@ -39,7 +39,7 @@ The menu is focused on pizza, and you can order any specialty pizza as either a 
 
 The bar offers 25+ taps, most of them Fieldwork experiments that change often. They do have some guest taps. They also make a nonalcoholic root beer and offer a line of supertonics, which are nonalcoholic, herbal, and fruity drinks that I really need to try sometime.
 
-# My Take on Fieldwork Brewing–San Leandro
+## My Take on Fieldwork Brewing–San Leandro
 
 *The Food:* I prefer the Neopolitan-style pizza, as their Detroit isn’t as heavyweight as at other spots. Look, if I’m getting Detroit-style pizza, I want a brick of cheese melted all over that edge and not as much char as you can see here:
 

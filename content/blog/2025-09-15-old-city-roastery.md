@@ -18,7 +18,7 @@ tags:
 - "turkish delight"
 - "dubai chocolate" 
 ---
-# The 411 on The Old City Roastery
+## The 411 on The Old City Roastery
 
 *Address:* 22570 Foothill Blvd\
 Hayward, CA\
@@ -32,7 +32,7 @@ The chocolate selection does indeed include trendy Dubai chocolate, with full ba
 
 The shop’s employees are happy to help explain any ingredients to clueless patrons like myself. Don’t be afraid to ask! They also offer samples of the nuts and snack mixes.
 
-# My Take on The Old City Roastery
+## My Take on The Old City Roastery
 
 *The Food:* On my first visit, I went home with half a pound of cashew “party” mixed nuts and a selection of chocolates.
 

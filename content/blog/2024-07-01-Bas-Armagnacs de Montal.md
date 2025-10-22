@@ -13,7 +13,7 @@ tags:
 
 ![bas armagnac](https://thegourmez.netlify.app/img/sections/spirits.jpg)
 
-# The Scoop on de Montal Armagnac
+## The Scoop on de Montal Armagnac
 
 *Region:* Gascony, France\
 *Alcohol Content:* 40%
@@ -26,7 +26,7 @@ That these are “vintage” Bas-Armagnacs means they are made of grapes all fro
 
 I’ve wanted to try Armagnac for a long-time, and I was thrilled my husband remembered, presenting me with this pretty trio of vintages from de Montal. Nothing is better than a flight for exploring the differences that age can bring to eau-de-vie produced from the same fields.
 
-# My Take on Bas-Armagnac de Montal
+## My Take on Bas-Armagnac de Montal
 
 These are my tasting notes from the 1970, 1980, and 1990 vintages:
 

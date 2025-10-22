@@ -10,7 +10,7 @@ tags:
   
 ---
 
-# The Scoop on Coffee Cultures
+## The Scoop on Coffee Cultures
 
 *Address:*\
 1926 Park Street\
@@ -26,7 +26,7 @@ It appears that fancy toasts are a café specialty, but I had just ate, so I did
 
 ![coffee-cultures](http://s3.amazonaws.com/thegourmez-wpmedia/2024/07/coffee-cultures.jpg)
 
-# My Take on Coffee Cultures
+## My Take on Coffee Cultures
 
 *The Vibe:* This café is full of sunshine and modern white, black, and gold accent colors. The window wall consists of a long bar with wooden barstools that look comfy ... but only remain comfy for about half an hour. Also inside is a handful of happy potted plants, and four tables with wicker chairs. There’s an impressive patio in the courtyard as well, but it was not open on this rainy day.
 

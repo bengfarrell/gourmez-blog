@@ -17,7 +17,7 @@ The Dow’s 2016 Late Bottled Vintage Port is one of many Dow ports that I have 
 
 ![dows 2016 port](http://s3.amazonaws.com/thegourmez-wpmedia/2024/07/dows-2016.jpg)
 
-# Dow’s 2016 Late Bottled Vintage Port Details
+## Dow’s 2016 Late Bottled Vintage Port Details
 
 *Winery:* Dow’s
 
@@ -29,7 +29,7 @@ The Dow’s 2016 Late Bottled Vintage Port is one of many Dow ports that I have 
 
 *Age at Review?* 6 years
 
-# Thoughts on Tasting Dow’s 2016 Late Bottled Vintage Port
+## Thoughts on Tasting Dow’s 2016 Late Bottled Vintage Port
 
 *Would I drink it again?* Yes!
 
