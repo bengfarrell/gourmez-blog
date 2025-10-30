@@ -21,7 +21,7 @@ tags:
 - "hayward"
 
 ---
-# The 411 on La Ca Bakery Cafe
+## The 411 on La Ca Bakery Cafe
 
 *Address:* 24788 Amador Street\
 Hayward, CA
@@ -40,7 +40,7 @@ La Ca Bakery Café offers a wide range of boba-style coffee, smoothie, and milk 
 
 While the interior of La Ca is unassuming, the quality of their food is not. The line out the door should clue you in on that.
 
-# My Take on La Ca Bakery Cafe
+## My Take on La Ca Bakery Cafe
 
 *The Food:* I am not an expert on banh mi, but I’ve had enough that I can truly appreciate the freshness of La Ca’s bread. Their rolls are smaller and wider than a traditional baguette, and they work perfectly for the classic Vietnamese sandwich. The bread is mildly sweet, super soft and elastic, and has a satisfying, shiny crust.
 
