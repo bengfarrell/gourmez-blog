@@ -33,7 +33,7 @@ Oakland, CA
 
 ![rose garden uptown inside](https://thegourmez-wpmedia.s3.amazonaws.com/2025/11/rose-garden-uptown+(2).jpg)
 
-Rose Garden Uptown is a Lao & Thai restaurant, featuring many dishes common to that region but also Californian ingredients. They offer table service, but the most business was to-go orders while we dined.
+Rose Garden Uptown is a Laotian & Thai restaurant, featuring many dishes common to that region but also Californian ingredients. They offer table service, but the most business was to-go orders while we dined.
 
 From that interior, you can view their mix of modern-day Instagram aesthetics and architecture with more traditional decorated woven trays on the walls and pictures of the menu items that’s nostalgic of many Asian restaurants that have been thriving in their communities for decades and displaying their dishes in the same way. An appealing combination of new and old to me, just like the menu and ingredients. And the pretty sharing plates also brightened my mood.
 
