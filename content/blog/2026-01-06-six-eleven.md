@@ -10,7 +10,7 @@ tags:
 - "martinez"
 - "restaurant review"
 - "restaurants"
-- 'italian"
+- "italian"
 - "bistro"
 - "pub"
 - "pasta"
