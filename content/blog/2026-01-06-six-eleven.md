@@ -1,7 +1,7 @@
 ---
 title: "Six Eleven"
 date: "2026-01-06"
-description: "I should give other restaurants in Martinez a fair shake, but Six Eleven’s cocktail and Italian prowess is hard to resist. 
+description: "I should give other restaurants in Martinez a fair shake, but Six Eleven’s cocktail and Italian prowess is hard to resist." 
 coverImage: "https://thegourmez-wpmedia.s3.amazonaws.com/2026/1/six-eleven+(23).jpg"
 categories:
 - "restaurants"
