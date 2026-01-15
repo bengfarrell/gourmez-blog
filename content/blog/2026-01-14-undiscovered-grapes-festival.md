@@ -30,7 +30,7 @@ Check it out at the **Rotary Summit Center** on **Saturday, January 31**. Alread
 
 [![festival of the undiscovered grape](https://thegourmez-wpmedia.s3.amazonaws.com/2026/1/FOUG+2026+(1).png)](https://thegourmez-wpmedia.s3.amazonaws.com/2026/1/FOUG+2026+(1).png) Image courtesy of FOUG </div>
 
-One of my wine friends runs this festival and I love the concept! Why? Because as an average consumer with a special interest in wine, I relish hearing about new-to-me grape varieties. The first few years of wine exploration introduce folks to merlot, zinfandel, pinot gris, and the handful more grapes that most vineyards devote their plantings to and most consumers drink. But I quickly found myself intrigued by the unfamiliar grapes in a blend, the ones that add smoothness or boost the floral notes but rarely get their own time in the spotlight. Learning about the history of field blends and the [Sonoma wineries that feature them](https://thegourmez.com/blog/2019-01-08-a-winter-wineland-field-guide-for-field-blends/) impressed on me the value of these overlooked grapes.
+One of my wine friends co-runs this festival and I love the concept! Why? Because as an average consumer with a special interest in wine, I relish hearing about new-to-me grape varieties. The first few years of wine exploration introduce folks to merlot, zinfandel, chardonnay, and the handful more grapes that most vineyards devote their plantings to and most consumers drink. But I quickly found myself intrigued by the unfamiliar grapes in a blend, the ones that add smoothness or boost the floral notes but rarely get their own time in the spotlight. Learning about the history of field blends and the [Sonoma wineries that feature them](https://thegourmez.com/blog/2019-01-08-a-winter-wineland-field-guide-for-field-blends/) impressed on me the value of these overlooked grapes.
 
 <div class="caption">
 
@@ -38,7 +38,7 @@ One of my wine friends runs this festival and I love the concept! Why? Because a
 
 The Festival of Undiscovered Grapes gives us the chance to sample more of them, as they are difficult to find in your local wine shop. And you can purchase the wines at the event, while you still remember what you loved about them! That’s a surprisingly rare feature for a wine festival.
 
-Over 60 different wineries will be at this event, pouring grape varietals that chances are, you’ve never tried. Teroldego? Roussanne? Valdiguie? You’ll likely find them at the Festival of Undiscovered Grapes! Maybe it’ll bring out your inner hipster again, let you fall in love with one before it bursts out onto the wider wine scene someday.
+Over 60 different wineries will be there, pouring grape varietals that chances are, you’ve never tried. Teroldego? Roussanne? Valdiguie? You’ll likely find them at the Festival of Undiscovered Grapes! Maybe it’ll bring out your inner hipster again, let you fall in love with one before it bursts onto the wider wine scene. 😉
 
 <div class="caption">
 
@@ -58,7 +58,7 @@ Is the Festival of Undiscovered Grapes calling your name? Let me repeat the esse
 
 - *When:* Saturday, January 31. Beginning time is either 12:00pm or 2:00pm depending on your ticket category.
 
-- *Tickets:* Get ‘em right [here](https://events.humanitix.com/the-festival-of-undiscovered-grapes-san-jose), and if you use the code THE GOURMEZ10, you’ll save \$10 off the price. Or you can scan this QR code for the discount if it’s quicker:
+- *Tickets:* Get ‘em right [here](https://events.humanitix.com/the-festival-of-undiscovered-grapes-san-jose), and if you use the code THE GOURMEZ10, you’ll save \$10 off the price. Or you can scan this QR code to apply the discount automatically:
 
 ![festival of the undiscovered grape QR code](https://thegourmez-wpmedia.s3.amazonaws.com/2026/1/THEGOURMEZ10+QR+Code.png)
 
