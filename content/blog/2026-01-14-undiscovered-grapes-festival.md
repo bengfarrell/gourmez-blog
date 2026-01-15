@@ -1,7 +1,7 @@
 ---
 title: "Festival of the Undiscovered Grape"
-date: "2025-01-14"
-description: "The Festival of Undiscovered Grapes gives us the chance to sample lesser known grapes, as they are difficult to find in your local wine shop. And you can purchase the wines at the event, while you still remember what you loved about them!" 
+date: "2026-01-14"
+description: "The Festival of Undiscovered Grapes gives us the chance to sample lesser known grapes, as they are difficult to find in your local wine shop. And you can purchase the wines at the event, while you still remember what you loved about them!"
 coverImage: "https://thegourmez-wpmedia.s3.amazonaws.com/2026/1/FOUG+2026+(1).png"
 categories:
   - "events"
