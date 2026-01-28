@@ -2,7 +2,7 @@
 title: "Chai Thai Noodles"
 date: "2026-01-28"
 description: "A special draw for Chai Thai Noodles is their crab fried rice. It's lighter than most, with a fresh greenness from the scallions and only a little soy sauce stirred into the eggs and rice. And A LOT of crab." 
-coverImage: "https://thegourmez-wpmedia.s3.amazonaws.com/2026/1/burdell+(9).jpg"
+coverImage: "https://thegourmez-wpmedia.s3.amazonaws.com/2026/1/chai-thai-noodles+(4).jpg"
 categories:
 - "restaurants"
 
