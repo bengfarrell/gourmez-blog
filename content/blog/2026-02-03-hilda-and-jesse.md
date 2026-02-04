@@ -25,7 +25,7 @@ tags:
 ---
 ## The 411 on Hilda & Jesse
 
-*Address:* 701 Union Street. North Beach\
+*Address:* 701 Union Street, North Beach\
 San Francisco, CA\
 *Website:* <https://www.hildaandjessesf.com/>
 
@@ -73,7 +73,7 @@ It should be required that you have the “pancakes without boundaries” if you
 
 ![hilda jesse pancakes](https://thegourmez-wpmedia.s3.amazonaws.com/2026/2/hilda-jesse+(3).jpg)
 
-In the photo, they may look more like a mess, but that’s a glorious tower of mess. The two pancakes were not quite Japanese-souffle style; while very fluffy, they were not dry. Either the buttermilk or the cream sauce yielded a wonderful tang. The grilled cranberry maple sauce was strongly smoky, enough so that I was convinced it had to have bacon infused somewhere along the process, but it’s just the grilled fruit. I thought the berries were grapes, they were so sweet. Some sort of magic happened in the creation of this dish, let me tell you! So magical that the butter-pat crown was unnecessary, the dish was already so rich.
+In the photo, they may look more like a mess, but that’s a glorious tower of mess. The two pancakes were not quite Japanese-souffle style; while very fluffy, they were not dry. Either the buttermilk or the cream sauce yielded a wonderful tang. The grilled cranberry maple sauce was strongly smoky, enough so that I was convinced it had to have bacon infused somewhere along the process, but it’s just the grilled fruit. I thought the cranberries were grapes, they were so sweet. Some sort of magic happened in the creation of this dish, let me tell you! So magical that the butter-pat crown was unnecessary, the dish was already so rich.
 
 *Would I Go Back?* Yes, I’d love to! I do think the prix fixe menu would be fun, but I am picky enough that I’d be happier to return for the à la carte menu again rather than have no idea what the chef would present. Hilda & Jesse’s atmosphere is merry, the service delightful, and the food impressive. Surprisingly, the bill was on par with many Bay Area brunches, so it didn’t feel like a splurge…while feeling like one nonetheless due to the atmosphere and yummy food. So much contradiction! So much enjoyment. Thanks, Hilda & Jesse!
 
