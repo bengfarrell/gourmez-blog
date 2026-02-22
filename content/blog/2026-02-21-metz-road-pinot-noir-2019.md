@@ -39,7 +39,7 @@ Metz Road is named after the road that borders the  vineyard. I quite admired th
 
 ## Thoughts on Tasting the Metz Road Pinot Noir 2019
 
-*Most memorable flavors*? I decanted this wine for two hours before sampling. Its nose is full of rich, ripe berries. The color is deep purple with a brown-tinted sheen of aging. Its medium-bodied, with a cold-climate feel to it, one that recalls fog, salt, and hugging your sweater a little closer.
+*Most memorable flavors*? I decanted this wine for two hours before sampling. Its nose is full of rich, ripe berries. The color is deep purple with a brown-tinted sheen of aging. It's medium-bodied, with a cold-climate feel to it, one that recalls fog, salt, and hugging your sweater a little closer.
 
 ![metz road pinot noir red wine glass](https://thegourmez-wpmedia.s3.amazonaws.com/2026/2/metz-road-pinot+(5).jpg)
 
