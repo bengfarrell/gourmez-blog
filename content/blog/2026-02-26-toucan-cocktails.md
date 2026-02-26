@@ -37,7 +37,9 @@ This design keeps the hard liquor from combining with the cocktail mixers until 
 
 Most canned cocktails can be shaken, yes, but the Toucan Cocktail design adds an extra layer of fun and vivaciousness to the experience by keeping those ingredients separate. Here’s how you combine them:
 
-<iframe width="315" height="560" src="https://youtube.com/embed/UIE4xK6pa-o?si=NOJyozTg8bcKn4Sk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p style="text-align: center;">
+
+<iframe width="315" height="560" src="https://youtube.com/embed/UIE4xK6pa-o?si=NOJyozTg8bcKn4Sk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 
 That method brings cocktails on-the-go closer to the experience of having one served to you at a bar or restaurant. There’s a satisfying layer of foam after pouring, no doubt from the “beverage cloud emulsion” ingredient listed on some of the cans. The drinks are plenty strong, made with base spirits of 40–80% alcohol by volume (ABV). Each double can is intended to pour two cocktails, and at those strengths, ice melting should be part of the calculation!
 
