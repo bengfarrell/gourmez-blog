@@ -1,7 +1,7 @@
 ---
 title: "Gekkeikan Black & Gold Sake"
 date: "2026-03-04"
-description: "Drinking the 2019 Metz Road Pinot Noir is like buying candy at an old nickel store, and being pleased with your choice, though it’s both more savory and less sweet than you expected."
+description: "At room temperature, banana notes come forward first in the nose, which is typical of junmai sake. Its taste is briefly tart but mellows quickly into a lovely banana pudding with crenshaw melon."
 coverImage: "https://thegourmez-wpmedia.s3.amazonaws.com/2026/2/black-gold-sake+(3).jpg"
 categories:
 - "sake"
@@ -12,9 +12,9 @@ tags:
 - "geikkeikan"
 - "sake review"
 - "black & gold"
-- "black and gold sake:
+- "black and gold sake"
 - "review"
-- "junmai tokubetsu
+- "junmai tokubetsu"
 
 ---
 
