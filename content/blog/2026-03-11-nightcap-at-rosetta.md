@@ -32,7 +32,7 @@ Livermore, CA
 
 <p style="text-align: center;">
 
-<video src="https://thegourmez-wpmedia.s3.amazonaws.com/2026/3/nightcap-rosetta+(1).mp4" autoplay height="500"></video></p>
+<video loop controls src="https://thegourmez-wpmedia.s3.amazonaws.com/2026/3/nightcap-rosetta+(1).mp4" autoplay height="500"></video></p>
 
 We strolled into their Mardi Gras theme night, and the lanterns, masks, and waiters’ dress was enough to get those good times rolling and get us into the right vibe for the evening.
 
