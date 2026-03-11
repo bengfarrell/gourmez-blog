@@ -23,11 +23,13 @@ tags:
 
 [Abbey Road Farm](https://abbeyroadfarm.com/index.html) is a delightful gem in [the Yamhill-Carlton AVA](https://thegourmez.com/blog/2021-12-13-yamhill-carlton-oregon-wine/) that I visited as part of the 2021 [Wine Media Conference](https://www.winemediaconference.org/) (WMC). I felt inspired to devote a whole blog post to it after that visit. Why? Because it offers more than just a winery, though being a winery is generally quite appealing! But Abbey Road Farm is also a farm, a bed & breakfast, and host to an amazing restaurant, wine incubator, and this amazing view:
 
-<p style="text-align: center;">
 
-<div id="caption">
-<video src="https://thegourmez-wpmedia.s3.amazonaws.com/2022/08/2021-WBC-Oregon251.mp4" autoplay width="500" height="333"></video> Lavender and lush beauty at Abbey Farm Roads</div>
+<div class="caption">
+<p style="text-align: center;">
+<video controls loop src="https://thegourmez-wpmedia.s3.amazonaws.com/2022/08/2021-WBC-Oregon251.mp4" autoplay width="500" height="333"></video>
+Lavender and lush beauty at Abbey Farm Roads
 </p>
+</div>
 
 If that WMC excursion had been held at Abbey Road Farms all day, I would not have complained. Once solely a grass seed farm, it now has 40 acres devoted to grapevines and they produce 14 varietals. But they hold tight to that farm heritage, with plenty of sweet farm animals to make friends with close to the tasting room and terrace.
 
