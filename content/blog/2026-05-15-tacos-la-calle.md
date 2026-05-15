@@ -26,7 +26,7 @@ tags:
 
 *Address:* 98 Lewelling Blvd\
 San Lorenzo, CA\
-*Instagram*: <https://www.instagram.com/tacoslacalle_/>
+*Instagram*: [https://www.instagram.com/tacoslacalle_](https://www.instagram.com/tacoslacalle_)\
 *Phone:* 510-677-9366
 
 *The Vibe:* Tacos La Calle is currently my favorite local Mexican eatery! They cook up tasty Mexican fare like the customary tacos, burritos, and quesadillas. A few more adventurous menu items appear on the menu, such as birria ramen and a pizza birria with layers of tortilla, cheese, and meat.
