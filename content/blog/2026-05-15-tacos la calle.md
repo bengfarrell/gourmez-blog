@@ -2,7 +2,7 @@
 title: "Tacos La Calle"
 date: "2026-05-15"
 description: "I have not often come across extra thick corn tortillas in Mexican restaurants, so I was delighted to see the quesadilla served in a hefty one. It was the perfect thickness to stand up to the massive amounts of toppings."
-coverImage: "https://thegourmez-wpmedia.s3.amazonaws.com/2026/5/taces-la-calle+(5).jpg"
+coverImage: "https://thegourmez-wpmedia.s3.amazonaws.com/2026/5/tacos-la-calle+(5).jpg"
 categories:
 - "restaurants"
 
