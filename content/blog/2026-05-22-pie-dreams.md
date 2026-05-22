@@ -44,7 +44,7 @@ Pre-ordering is the best way to get your hands on a whole pie, which you can do 
 
 <div class="caption">
 
-[![pie dreams strawberyy mango](https://thegourmez-wpmedia.s3.amazonaws.com/2026/5/pie-dreams+(6).jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2026/5/pie-dreams+(6).jpg) A seasonal slice of strawberry-mango pie (I think). </div>
+[![pie dreams strawberry mango](https://thegourmez-wpmedia.s3.amazonaws.com/2026/5/pie-dreams+(6).jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2026/5/pie-dreams+(6).jpg) A seasonal slice of strawberry-mango pie (I think). </div>
 
 Be sure to order well ahead for Halloween, winter holiday season, or Pi Day pies. And if no pie calls to you from the default “Sweet” tab on their website, check the “Ready to Bake” tab in case what you want is there. Tell me how it goes baking one of their sweet pies at home! I haven’t done that yet.
 
@@ -86,7 +86,7 @@ That one’s made with dark chocolate pudding, kirsch-bathed cherries, and a hom
 
 I have also twice had the chicken-bacon hand pie now. First time, hot and fresh from the shop—
 
-<div class-"caption">
+<div class="caption">
 
 [![pie dreams chicken bacon pot pie](https://thegourmez-wpmedia.s3.amazonaws.com/2026/5/pie-dreams+(12).jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2026/5/pie-dreams+(12).jpg) Here’s a picture after breaking into it. </div>
 
