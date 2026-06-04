@@ -2,7 +2,7 @@
 title: "Brewery Bhavana"
 date: "2026-06-04"
 description: "Brewery Bhavana may not be as popular as it once was, but they are still serving inventive and well-crafted takes on dim sum classics and pouring an excellent selection of Belgian-style beers brewed by the restaurant."
-coverImage: "https://thegourmez-wpmedia.s3.amazonaws.com/2026/5/tacos-la-calle+(5).jpg"
+coverImage: "https://thegourmez-wpmedia.s3.amazonaws.com/2026/6/nc-trip-2026+(110).jpg"
 categories:
 - "restaurants"
 
@@ -20,9 +20,9 @@ tags:
 
 ## The 411 on Brewery Bhavana
 
-*Address:* 218 S. Blount Street
-Downtown Raleigh, NC
-*Website:* <https://brewerybhavana.com/>
+*Address:* 218 S. Blount Street\
+Downtown Raleigh, NC\
+*Website:* <https://brewerybhavana.com/>\
 *Phone:* 919-829-9998
 
 *The Vibe:* When we lived in North Carolina’s Research Triangle Park (RTP) region, we’d occasionally visit Tir Na Nog Irish Pub for a rock show or the Laotian Bida Manda for dinner next door. Nine years ago, both those spaces combined to become the expansive Brewery Bhavana.
