@@ -23,7 +23,7 @@ tags:
 [![cozy kitchen storefront](https://thegourmez-wpmedia.s3.amazonaws.com/2024/09/Cozy-Kitchen-+(3).jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2024/09/Cozy-Kitchen-+(3).jpg)
 
 *Address:* 14811 Washington Ave\
-San Leandro, CA\
+*Region:* San Leandro, CA\
 *Phone:* 510- 352-3541
 
 *The Vibe:* Oh my gosh, I did not expect to take such a journey back in time when I stepped through the threshold into Cozy Kitchen.

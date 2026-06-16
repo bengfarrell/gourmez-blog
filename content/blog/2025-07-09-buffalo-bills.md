@@ -22,7 +22,7 @@ tags:
 ## The 411 on Buffalo Bill’s Brewery
 
 *Address:* 1082 B St\
-Downtown Hayward, CA\
+*Region:* Downtown Hayward, CA\
 *Website:* <https://www.buffalobillsbrewery.com> AND <https://www.buffalobillscerveceria.com>\
 *Phone:* (510) 886·9823
 

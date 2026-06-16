@@ -19,7 +19,7 @@ tags:
 
 *Address:* 6000 Bollinger Canyon Rd\
 City Center Bishop Ranch\
-San Ramon, CA\
+*Region:* San Ramon, CA\
 [*Website*](https://slanteddoor.com/sanramon)
 
 The Slanted Door is a chain of upscale modern Vietnamese restaurants that offers re-imagined tiki cocktails for their drinks menu. They’ve been much acclaimed since the first restaurant opened in 1994. In 2014, they won Outstanding Restaurant from the James Beard Awards.

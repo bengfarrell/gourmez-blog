@@ -21,7 +21,7 @@ tags:
 ## The 411 on Real Cutie Pies
 
 *Address:* 341 17th Street\
-Oakland, CA
+*Region:* Oakland, CA
 
 *Website:* <https://realcutiepies.com/>
 

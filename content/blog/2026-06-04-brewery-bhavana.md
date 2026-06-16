@@ -21,7 +21,7 @@ tags:
 ## The 411 on Brewery Bhavana
 
 *Address:* 218 S. Blount Street\
-Downtown Raleigh, NC\
+*Region:* Downtown Raleigh, NC\
 *Website:* <https://brewerybhavana.com/>\
 *Phone:* 919-829-9998
 

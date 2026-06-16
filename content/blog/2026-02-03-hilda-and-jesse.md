@@ -1,7 +1,7 @@
 ---
 title: "Hilda & Jesse"
 date: "2026-02-03"
-description: "The 'Pancakes Without Boundaries' are a glorious tower of mess. The two pancakes are not quite Japanese-souffle style; while very fluffy, they are not dry." 
+description: "The 'Pancakes Without Boundaries' are a glorious tower of mess. The two pancakes are not quite Japanese-souffle style; while very fluffy, they are not dry."
 coverImage: "https://thegourmez-wpmedia.s3.amazonaws.com/2026/2/hilda-jesse+(3).jpg"
 categories:
 - "restaurants"
@@ -26,7 +26,7 @@ tags:
 ## The 411 on Hilda & Jesse
 
 *Address:* 701 Union Street, North Beach\
-San Francisco, CA\
+*Region:* San Francisco, CA\
 *Website:* <https://www.hildaandjessesf.com/>
 
 ![hilda jesse restaurant exterior](https://thegourmez-wpmedia.s3.amazonaws.com/2026/2/hilda-jesse+(1).jpg)

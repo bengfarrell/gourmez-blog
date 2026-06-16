@@ -24,7 +24,7 @@ tags:
 ## The 411 on Anna’s Coffee Shop
 
 *Address:* 444 Jackson Street\
-Hayward, CA
+*Region:* Hayward, CA
 
 *Website:* I’m not sure they have one! I did find several websites that appear as though they are Anna’s Coffee Shop website, but I think they’re just pulling info from elsewhere on the web. From those sites, I can assume that Anna’s hours are typically 7:00am to 2:30pm.
 

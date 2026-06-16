@@ -1,7 +1,7 @@
 ---
 title: "Chai Thai Noodles"
 date: "2026-01-28"
-description: "A special draw for Chai Thai Noodles is their crab fried rice. It's lighter than most, with a fresh greenness from the scallions and only a little soy sauce stirred into the eggs and rice. And A LOT of crab." 
+description: "A special draw for Chai Thai Noodles is their crab fried rice. It's lighter than most, with a fresh greenness from the scallions and only a little soy sauce stirred into the eggs and rice. And A LOT of crab."
 coverImage: "https://thegourmez-wpmedia.s3.amazonaws.com/2026/1/chai-thai-noodles+(4).jpg"
 categories:
 - "restaurants"
@@ -23,7 +23,7 @@ tags:
 ## The 411 on Chai Thai Noodles
 
 *Address:* 20955 Mission Blvd.\
-Hayward, CA\
+*Region:* Hayward, CA\
 *Website:* <https://chaithainoodles.com/>
 
 *The Vibe:* Chai Thai Noodles has become our go-to place for Thai food in Hayward. We first became familiar with it during pandemic dinner deliveries. Once we could eat in person at restaurants again, we’ve opted for that option at Chai Thai Noodles every time we’ve craved it. Why? Because their dining room space has an alluring feel from a mix of dark wood paneling, brick applique, and a lovely selection of Thai-inspired decorative pieces. It feels modern and cozy at the same time.

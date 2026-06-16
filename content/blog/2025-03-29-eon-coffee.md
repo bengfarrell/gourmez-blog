@@ -22,7 +22,7 @@ tags:
 ![eon coffee sign](https://thegourmez-wpmedia.s3.amazonaws.com/2025/3/eon-coffee+(5).jpg)
 
 *Address:* 24970 Hesperian Boulevard\
-Hayward, CA\
+*Region:* Hayward, CA\
 *Website:* <https://www.eoncoffee.com/>
 
 *The Vibe:* Eon Coffee is located in an appealing stone and wood building across the street from Chabot College, which supplies a sizable portion of their patrons.
@@ -61,7 +61,7 @@ Seasonal options are also always available, which included cherry blossom and Ir
 
 ![eon coffee latte](https://thegourmez-wpmedia.s3.amazonaws.com/2025/3/eon-coffee+(9).jpg) The Irish cream latte to-go. </div>
 
-Small sizes come with two shots, which makes me happy. I also like that Dutch iced coffee. 
+Small sizes come with two shots, which makes me happy. I also like that Dutch iced coffee.
 
 ![eon dutch coffee](https://thegourmez-wpmedia.s3.amazonaws.com/2025/3/eon-coffee+(1).jpg)
 Either the process used or the beans highlight the nuttier notes of the coffee, reminding me of a woodsy, rich Brazil nut. It's a unique taste.

@@ -17,8 +17,8 @@ tags:
 *Address:*
 265 9th Ave\
 Brooklyn Basin\
-Oakland, CA\
-[*Website*](https://www.zocalocoffee.com/) 
+*Region:* Oakland, CA\
+[*Website*](https://www.zocalocoffee.com/)
 
 I’ve long been a fan of Zocalo Coffee’s original location in San Leandro, a warm & welcoming room full of wooden panels and tables that overflows with conversation and patrons. So I was stoked to try out their second location in Oakland’s Brooklyn Basin development.
 
@@ -38,7 +38,7 @@ Zocalo Coffee in Brooklyn Basin has also kicked up their food service a notch, m
 
 ![zocalos-oakland 1](http://s3.amazonaws.com/thegourmez-wpmedia/2024/07/zocalos-oakland+(1).jpg)
 
-*The Drinks:* It’s an absolutely beautiful day in the Bay, so I opted for a cold brew & lemonade tonic. A unique combo that doesn’t necessarily go together but sure is refreshing. 
+*The Drinks:* It’s an absolutely beautiful day in the Bay, so I opted for a cold brew & lemonade tonic. A unique combo that doesn’t necessarily go together but sure is refreshing.
 
 Standard espresso drinks, drip coffee, and creative lattes are also available.
 
