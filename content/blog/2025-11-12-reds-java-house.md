@@ -22,7 +22,7 @@ tags:
 ## The 411 on Red’s Java House
 
 *Address:* Pier 30\
-San Francisco, CA
+*Region:* San Francisco, CA
 
 *Website:* <https://www.redsjavahouse.com/>
 

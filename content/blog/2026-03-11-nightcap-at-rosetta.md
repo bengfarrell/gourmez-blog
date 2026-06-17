@@ -23,7 +23,7 @@ tags:
 ## The 411 on Nightcaps at Rosetta
 
 *Address:* 206 S J Street\
-Livermore, CA
+*Region:* Livermore, CA
 
 *Website:* <https://rosettaroasting.com/pages/flapper-friday>\
 *Instagram:* <https://www.instagram.com/rosettaroasting/>

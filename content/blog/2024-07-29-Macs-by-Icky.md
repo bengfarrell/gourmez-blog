@@ -22,7 +22,7 @@ tags:
 ## The Scoop on Macs by Icky
 
 *Address:* 3900 Smith Street\
-Union City, CA\
+*Region:* Union City, CA\
 *Website:* <https://www.instagram.com/macs.by.icky/>\
 Be sure to check the Instagram above for current hours
 

@@ -20,7 +20,7 @@ tags:
 ## The 411 on Always Yours Bakery Cafe
 
 *Address:* 20634 Rustic Drive\
-Castro Valley, CA
+*Region:* Castro Valley, CA
 
 *Website:* (https://www.alwaysyoursbakerycafe.com)
 

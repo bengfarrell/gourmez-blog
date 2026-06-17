@@ -16,7 +16,7 @@ tags:
 
 *Address:*\
 1061 B Street\
-Hayward, CA\
+*Region:* Hayward, CA\
 *Website:* <https://www.blue-crown-bistro.com/>\
 *Phone:* 510-274-5585
 

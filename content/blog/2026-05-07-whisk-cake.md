@@ -23,7 +23,7 @@ tags:
 ## The 411 on Whisk Cake Creations
 
 *Address:* 1216 Lincoln Avenue\
-Alameda, CA\
+*Region:* Alameda, CA\
 *Website:* <https://www.whiskcakecreations.com/>
 
 ![whisk cake ube chiffon](https://thegourmez-wpmedia.s3.amazonaws.com/2026/5/whisk-cake+(1).jpg)

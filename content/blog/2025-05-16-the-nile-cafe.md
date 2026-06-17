@@ -22,7 +22,7 @@ tags:
 ## The 411 on The Nile Cafe
 
 *Address:* 121 I Street\
-Fremont, CA\
+*Region:* Fremont, CA\
 *Website:* <http://thenilecafe.com/en/>\
 *Phone:* 510-791-6048
 

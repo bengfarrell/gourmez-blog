@@ -24,7 +24,7 @@ tags:
 ## The 411 on Fieldwork
 
 *Address:* 100 West Juana Avenue\
-San Leandro, CA\
+*Region:* San Leandro, CA\
 *Website:* <https://fieldworkbrewing.com/san-leandro/>
 
 *The Vibe:* San Leandro’s Fieldwork Brewing is one of nine locations throughout the greater Bay Area. The San Leandro outpost opened around the time I moved back to this corner of the East Bay. Its large, open-air beer garden boasts many picnic tables and lounge chairs close to gas fire pits. Trees stretch toward the vaulted, open ceiling. Indoor seating is also available, but the patio is the draw here. On a weekend, it can get crowded.

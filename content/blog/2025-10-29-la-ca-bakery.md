@@ -24,7 +24,7 @@ tags:
 ## The 411 on La Ca Bakery Cafe
 
 *Address:* 24788 Amador Street\
-Hayward, CA
+*Region:* Hayward, CA
 
 *Website:* <https://www.lacabakery.com/>
 

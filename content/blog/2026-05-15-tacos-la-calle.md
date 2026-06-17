@@ -25,7 +25,7 @@ tags:
 ## The 411 on Tacos La Calle
 
 *Address:* 98 Lewelling Blvd\
-San Lorenzo, CA\
+*Region:* San Lorenzo, CA\
 *Instagram*: [https://www.instagram.com/tacoslacalle_](https://www.instagram.com/tacoslacalle_)\
 *Phone:* 510-677-9366
 

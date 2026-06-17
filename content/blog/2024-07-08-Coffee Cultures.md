@@ -7,14 +7,14 @@ tags:
   - "coffee"
   - "cafes"
   - "alameda"
-  
+
 ---
 
 ## The Scoop on Coffee Cultures
 
 *Address:*\
 1926 Park Street\
-Alameda, CA\
+*Region:* Alameda, CA\
 *Website:* <https://coffee-cultures.com/>\
 *Phone:* 510.865.0992
 

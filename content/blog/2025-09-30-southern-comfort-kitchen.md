@@ -20,7 +20,7 @@ tags:
 ## The 411 on Southern Comfort Kitchen–Castro Valley
 
 *Address:* 3571 Castro Valley Blvd\
-Castro Valley, CA\
+*Region:* Castro Valley, CA\
 *Website:* <https://socokitchen.net/>
 
 *The Vibe:* Southern Comfort Kitchen is a fast-casual Bay Area chain focused on Louisianian cooking. The closest branch to me is in Castro Valley, which is the original and the only one I’ve now tried. I’d heard about their fried chicken sandwich so many times, I knew I needed to check it out.

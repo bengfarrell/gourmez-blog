@@ -20,7 +20,7 @@ tags:
 ## The 411 on Sons of Liberty Alehouse
 
 *Address:* 150 W Juana Ave\
-San Leandro, CA\
+*Region:* San Leandro, CA\
 *Website:* (https://www.sonsoflibertyalehouse.com/)\
 *Phone:* 510-352-SOLA
 

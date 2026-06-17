@@ -23,7 +23,7 @@ tags:
 ## The 411 on Rose Garden Uptown
 
 *Address:* 1901 San Pablo Ave\
-Oakland, CA
+*Region:* Oakland, CA
 
 *Website:* <https://www.rosegardenuptown.org/>
 

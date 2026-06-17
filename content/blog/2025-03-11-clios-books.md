@@ -21,7 +21,7 @@ tags:
 ## The 411 on Clio's Books
 
 *Address:* 353 Grand Ave\
-Oakland, CA\
+*Region:* Oakland, CA\
 *Website:* <https://www.cliosbooks.com/>
 
 ![storefront for clio's books](https://thegourmez-wpmedia.s3.amazonaws.com/2025/3/clios-books+(4).jpg)

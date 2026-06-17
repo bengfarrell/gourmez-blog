@@ -16,12 +16,12 @@ tags:
 - "Chocolate store"
 - "middle eastern goods"
 - "turkish delight"
-- "dubai chocolate" 
+- "dubai chocolate"
 ---
 ## The 411 on The Old City Roastery
 
 *Address:* 22570 Foothill Blvd\
-Hayward, CA\
+*Region:* Hayward, CA\
 *Website:* <https://theoldcityroastery.com/>
 
 ![the old city roastery storefront](https://thegourmez-wpmedia.s3.amazonaws.com/2025/9/the-old-city+(17).jpg)

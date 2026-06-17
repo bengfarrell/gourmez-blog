@@ -20,7 +20,7 @@ tags:
 ## The 411 on Max's Cakes
 
 *Address:* 1007 B St.\
-Hayward, CA\
+*Region:* Hayward, CA\
 *Website:* <https://maxscakesofficial.wixsite.com/maxscakes>\
 *Phone:* (510) 397-6496
 

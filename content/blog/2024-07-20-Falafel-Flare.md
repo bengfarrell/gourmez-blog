@@ -17,7 +17,7 @@ tags:
 
 *Address:*\
 22648 Mission Blvd\
-Downtown Hayward, CA\
+*Region:* Downtown Hayward, CA\
 *Website:* <https://falafelflare.com/>
 
 *Vibe:* This is a fast casual gyro and kebabs joint offering wraps, platters, salad, and various pizzas. There are burgers, too! Which means they are aiming to please the palates of groups with many different cravings. Order at the counter or use their ordering machine right by the register. Then grab a spot at any of their plentiful tables. It’s a clean, modern eatery.

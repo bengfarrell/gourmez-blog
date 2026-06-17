@@ -14,11 +14,11 @@ tags:
 ## The Scoop on The Doolittle
 
 *Address:* 20394 Lake Chabot Rd\
-Castro Valley, CA\
+*Region:* Castro Valley, CA\
 *Website:* <https://www.thedoolittlebar.com/>\
 *Phone*: 510-581-2405
 
-I didn’t realize how new this bar was when I lived in Hayward the first time! It opened in 2013, so has just reached a decade of service. 
+I didn’t realize how new this bar was when I lived in Hayward the first time! It opened in 2013, so has just reached a decade of service.
 
 The Doolittle gets crowded on the weekend, for sure! And probably on trivia night, though I’ve never been to that. Parking is a bit of a pain, but if the tiny lot is full, you should find some on the street within a few blocks.
 

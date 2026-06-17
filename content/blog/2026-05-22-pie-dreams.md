@@ -25,7 +25,7 @@ tags:
 ## The 411 on Pie Dreams
 
 *Address:* 5855D Jarvis Avenue\
-Newark, CA\
+*Region:* Newark, CA\
 *Website:* <https://www.piedreamsco.com/>
 
 *The Vibe:* I started following [Pie Dreams on Instagram](https://www.instagram.com/pie.dreams/) shortly after moving to southern Alameda County in 2021. I was in the market for a bakery selling creative pie flavors after [Pietisserie](https://pietisserie-pie.square.site/) left the Bay Area. I am admittedly more a fan of cake than pie, partly because the classic fruit pie—think fruit in a gelatinous filling over a sometimes limp crust—just doesn’t do it for me. Add in cream and adventurous ingredients, however, and we’re talking!
