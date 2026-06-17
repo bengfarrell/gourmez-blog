@@ -19,7 +19,8 @@ tags:
 
 [![north town tieton storefront](https://thegourmez-wpmedia.s3.amazonaws.com/2024/10/North-Town-Tieton+(2).jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2024/10/North-Town-Tieton+(2).jpg)
 
-*Address:* 617 Elm St, Tieton, WA\
+*Address:* 617 Elm St
+*Region:* Tieton, WA\
 *Website:* <https://www.northtowncoffee.com/>\
 *Instagram:* <https://www.instagram.com/northtowncoffeehouse/>
 

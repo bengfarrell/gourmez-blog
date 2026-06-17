@@ -14,10 +14,8 @@ tags:
 ---
 ## The Scoop on Zocalo Coffee
 
-*Address:*
-265 9th Ave\
-Brooklyn Basin\
-Oakland, CA\
+*Address:* 265 9th Ave\
+*Region:* Brooklyn Basin, Oakland, CA\
 [*Website*](https://www.zocalocoffee.com/) 
 
 I’ve long been a fan of Zocalo Coffee’s original location in San Leandro, a warm & welcoming room full of wooden panels and tables that overflows with conversation and patrons. So I was stoked to try out their second location in Oakland’s Brooklyn Basin development.

@@ -23,12 +23,12 @@ tags:
 ## The 411 on World Famous Hotboys
 
 *Address:* 1601 San Pablo Ave\
-Oakland, CA
+*Region:* Oakland, CA
 
-\-and-
+-and-
 
-27826 Mission Blvd\
-Hayward, CA
+*Address:* 27826 Mission Blvd\
+*Region:* Hayward, CA
 
 (they have more locations, even a few in Indiana now, but those are the ones I’ve been to and review here)
 

@@ -1,5 +1,5 @@
 ---
-title: "Standard Fare"
+title: "Standard Fare (Closed)"
 date: "2024-10-11"
 description: "In which I try the carrot soup and carnitas & daikon sandwich at Berkeley's Standard Fare."
 coverImage: "https://thegourmez-wpmedia.s3.amazonaws.com/2024/10/Standard-Fare-2024+(7).jpg"
@@ -17,7 +17,8 @@ tags:
 
 [![standard fare storefront](https://thegourmez-wpmedia.s3.amazonaws.com/2024/10/Standard-Fare-2024+(1).jpg)](https://thegourmez-wpmedia.s3.amazonaws.com/2024/10/Standard-Fare-2024+(1).jpg)
 
-*Address:* 2701 8th St Berkeley, CA\
+*Address:* 2701 8th St\
+*Region:* Berkeley, CA\
 *Website:* <https://www.standardfareberkeley.com/>\
 *Phone:* 510-356-2261
 
