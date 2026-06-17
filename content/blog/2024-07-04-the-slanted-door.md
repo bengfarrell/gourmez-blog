@@ -16,7 +16,6 @@ tags:
 
 ## The Scoop on The Slanted Door
 
-
 *Address:* 6000 Bollinger Canyon Rd\
 *Region:* City Center Bishop Ranch, San Ramon, CA\
 [*Website*](https://slanteddoor.com/sanramon)
