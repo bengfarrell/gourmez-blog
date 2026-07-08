@@ -2,7 +2,7 @@
 title: "2018 Campo Viejo Rioja Reserva"
 date: "2026-07-08"
 description: "This wine tastes elemental, like bright veins of mineral glowing within the earth, or a cauldron stirred over flame, conjuring a spell of protection."
-coverImage: "(https://thegourmez-wpmedia.s3.amazonaws.com/2026/7/campo-viejo-reserva+(2).jpg)"
+coverImage: "https://thegourmez-wpmedia.s3.amazonaws.com/2026/7/campo-viejo-reserva+(2).jpg"
 categories:
 - "wine"
 
