@@ -2,7 +2,7 @@
 title: "DoughWeiMe"
 date: "2026-07-16"
 description: "The soy-bean flour and sugar coating did not oversweeten the donut but added graininess that I welcomed. Sweet red beans mostly disappeared into the cream, leaving the strawberry flavor the strongest on my palate.."
-coverImage: "https://thegourmez-wpmedia.s3.amazonaws.com/2026/6/doughweime+(4).jpg"
+coverImage: "https://thegourmez-wpmedia.s3.amazonaws.com/2026/7/doughweime+(4).jpg"
 categories:
 - "bakeries"
 
