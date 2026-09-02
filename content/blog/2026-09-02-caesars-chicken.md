@@ -2,7 +2,7 @@
 title: "Caesar's Chicken"
 date: "2026-09-02"
 description: "This to-go spot has served up fried chicken, spaghetti, and garlic bread since 1964. The fried chicken recipe has remained the same."
-coverImage: "https://thegourmez-wpmedia.s3.amazonaws.com/2026/8/sanaa-cafe-15.jpg"
+coverImage: "https://thegourmez-wpmedia.s3.amazonaws.com/2026/9/caesars-chicken+(2).jpg"
 categories:
 - "restaurants"
 
