@@ -7,7 +7,7 @@
 		alias: "postslist",
 		size: 20,
 		before: function(data) {
-			return this.filterByTags(data, ['san-francisco']);
+			return this.filterByCommonTags(data, ['san-francisco', 'south-san-francisco', 'daly-city', 'san-mateo', 'san-carlos', 'redwood-city', 'sunnyvale']);
 		}
 	},
 	eleventyNavigation: {
@@ -19,7 +19,7 @@
 ---
 
 <section>
-	<h1>San Francisco</h1>
+	<h1>San Francisco & The Peninsula</h1>
 	{% include "postslist.njk" %}
 
 	<nav aria-labelledby="pages" class="pagination">

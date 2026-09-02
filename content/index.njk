@@ -46,10 +46,10 @@ numberOfLatestPostsToShow: 4
 <section>
 <h1>Posts By City</h1>
 <ol reversed class="cities postlist">
-{% set postsCount = collections.posts | filterByTags(['hayward']) | length %}
-{% set postslist = collections.posts | filterByTags(['hayward']) | head(-1) %}
+{% set postsCount = collections.posts | filterByCommonTags(['hayward' , 'castro-valley']) | length %}
+{% set postslist = collections.posts | filterByCommonTags(['hayward' , 'castro-valley']) | head(-1) %}
 {% set city = 'hayward' %}
-{% set cityname = 'Hayward' %}
+{% set cityname = 'Hayward & Castro Valley' %}
 {% include "city-postslist.njk" %}
 
 {% set postsCount = collections.posts | filterByTags(['oakland']) | length %}
