@@ -58,10 +58,10 @@ numberOfLatestPostsToShow: 4
 {% set cityname = 'Oakland' %}
 {% include "city-postslist.njk" %}
 
-{% set postsCount = collections.posts | filterByTags(['san-francisco']) | length %}
-{% set postslist = collections.posts | filterByTags(['san-francisco']) | head(-1) %}
+{% set postsCount = collections.posts | filterByTags(['san-francisco', 'south-san-francisco', 'daly-city', 'san-mateo', 'san-carlos', 'redwood-city', 'sunnyvale']) | length %}
+{% set postslist = collections.posts | filterByTags(['san-francisco', 'south-san-francisco', 'daly-city', 'san-mateo', 'san-carlos', 'redwood-city', 'sunnyvale']) | head(-1) %}
 {% set city = 'san-francisco' %}
-{% set cityname = 'San Francisco' %}
+{% set cityname = 'San Francisco & The Peninsula' %}
 {% include "city-postslist.njk" %}
 
 {% set postsCount = collections.posts | filterByTags(['berkeley']) | length %}
