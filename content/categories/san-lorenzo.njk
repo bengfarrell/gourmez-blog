@@ -7,7 +7,7 @@
 		alias: "postslist",
 		size: 20,
 		before: function(data) {
-			return this.filterByTags(data, ['san-lorenzo']);
+			return this.filterByCommonTags(data, ['san-lorenzo' , 'san-leandro']);
 		}
 	},
 	eleventyNavigation: {
@@ -19,7 +19,7 @@
 ---
 
 <section>
-	<h1>San Lorenzo</h1>
+	<h1>San Lorenzo & San Leandro</h1>
 	{% include "postslist.njk" %}
 
 	<nav aria-labelledby="pages" class="pagination">
