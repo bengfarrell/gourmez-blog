@@ -52,10 +52,10 @@ numberOfLatestPostsToShow: 4
 {% set cityname = 'Hayward & Castro Valley' %}
 {% include "city-postslist.njk" %}
 
-{% set postsCount = collections.posts | filterByTags(['oakland']) | length %}
-{% set postslist = collections.posts | filterByTags(['oakland']) | head(-1) %}
+{% set postsCount = collections.posts | filterByCommonTags(['oakland', 'alameda']) | length %}
+{% set postslist = collections.posts | filterByCommonTags(['oakland', 'alameda']) | head(-1) %}
 {% set city = 'oakland' %}
-{% set cityname = 'Oakland' %}
+{% set cityname = 'Oakland & Alameda' %}
 {% include "city-postslist.njk" %}
 
 {% set postsCount = collections.posts | filterByCommonTags(['san-francisco', 'south-san-francisco', 'daly-city', 'san-mateo', 'san-carlos', 'redwood-city', 'sunnyvale']) | length %}
@@ -64,22 +64,22 @@ numberOfLatestPostsToShow: 4
 {% set cityname = 'San Francisco & The Peninsula' %}
 {% include "city-postslist.njk" %}
 
-{% set postsCount = collections.posts | filterByTags(['berkeley']) | length %}
-{% set postslist = collections.posts | filterByTags(['berkeley']) | head(-1) %}
+{% set postsCount = collections.posts | filterByCommonTags(['berkeley', 'albany', 'el-cerrito', 'richmond', 'martinez', 'walnut-creek']) | length %}
+{% set postslist = collections.posts | filterByCommonTags(['berkeley', 'albany', 'el-cerrito', 'richmond', 'martinez', 'walnut-creek']) | head(-1) %}
 {% set city = 'berkeley' %}
-{% set cityname = 'Berkeley' %}
+{% set cityname = 'Berkeley & Points North' %}
 {% include "city-postslist.njk" %}
 
-{% set postsCount = collections.posts | filterByTags(['castro-valley']) | length %}
-{% set postslist = collections.posts | filterByTags(['castro-valley']) | head(-1) %}
-{% set city = 'castro-valley' %}
-{% set cityname = 'Castro Valley' %}
+{% set postsCount = collections.posts | filterByCommonTags(['union-city', 'newark', 'fremont']) | length %}
+{% set postslist = collections.posts | filterByCommonTags(['union-city', 'newark', 'fremont']) | head(-1) %}
+{% set city = 'southern-alameda-county' %}
+{% set cityname = 'Union City, Newark & Fremont' %}
 {% include "city-postslist.njk" %}
 
-{% set postsCount = collections.posts | filterByTags(['san-leandro']) | length %}
-{% set postslist = collections.posts | filterByTags(['san-leandro']) | head(-1) %}
-{% set city = 'san-leandro' %}
-{% set cityname = 'San Leandro' %}
+{% set postsCount = collections.posts | filterByCommonTags(['livermore', 'pleasanton', 'dublin', 'san-ramon', 'danville']) | length %}
+{% set postslist = collections.posts | filterByCommonTags(['livermore', 'pleasanton', 'dublin', 'san-ramon', 'danville']) | head(-1) %}
+{% set city = 'tri-valley' %}
+{% set cityname = 'Tri-Valley' %}
 {% include "city-postslist.njk" %}
 
 {% set postsCount = collections.posts | filterByCommonTags(['san-lorenzo', 'san-leandro']) | length %}

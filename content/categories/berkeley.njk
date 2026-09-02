@@ -7,7 +7,7 @@
 		alias: "postslist",
 		size: 20,
 		before: function(data) {
-			return this.filterByTags(data, ['berkeley']);
+			return this.filterByCommonTags(data, ['berkeley', 'albany', 'el-cerrito', 'richmond', 'martinez', 'walnut-creek']);
 		}
 	},
 	eleventyNavigation: {
@@ -19,7 +19,7 @@
 ---
 
 <section>
-	<h1>Berkeley</h1>
+	<h1>Berkeley & Points North</h1>
 	{% include "postslist.njk" %}
 
 	<nav aria-labelledby="pages" class="pagination">

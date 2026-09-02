@@ -13,7 +13,7 @@ tags:
 - "pinoy"
 - "Choco taco"
 - "coffee"
-- "union city"
+- "union-city"
 
 ---
 

@@ -7,19 +7,15 @@
 		alias: "postslist",
 		size: 20,
 		before: function(data) {
-			return this.filterByTags(data, ['san-leandro']);
+			return this.filterByCommonTags(data, ['livermore', 'pleasanton', 'dublin', 'san-ramon', 'danville']);
 		}
-	},
-	eleventyNavigation: {
-		key: "San Leandro",
-		order: 1
 	},
 	permalink: "categories/{{ page.fileSlug }}/{% if pagination.pageNumber > 0 %}page-{{ pagination.pageNumber + 1 }}/{% endif %}index.html"
 }
 ---
 
 <section>
-	<h1>San Leandro</h1>
+	<h1>Tri-Valley</h1>
 	{% include "postslist.njk" %}
 
 	<nav aria-labelledby="pages" class="pagination">
