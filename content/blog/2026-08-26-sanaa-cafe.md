@@ -32,7 +32,7 @@ tags:
 *Instagram:* <https://www.instagram.com/sanaacafe.hayward/?hl=en>\
 *Wi-Fi*: Haven’t tried it out, sorry!
 
-*The Vibe:* 
+*The Vibe:*
 
 Sana’a Cafe is a new Yemeni cafe concept that is expanding so fast, their website can’t keep up with all their locations. That includes the one closest to me in Hayward, right on the border of unincorporated Cherryland.
 
