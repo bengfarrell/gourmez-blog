@@ -4,7 +4,9 @@ date: "2026-09-17"
 description: "The menu has a variety of sweet coffee drinks, and classic, sweet-free options are also available."
 coverImage: "https://thegourmez-wpmedia.s3.amazonaws.com/2026/9/con-azucar-8.jpg"
 categories:
-- "coffee shops"
+- "coffee-shops"
+- "eateries"
+- "bakeries"
 
 tags:
 - "coffee"
