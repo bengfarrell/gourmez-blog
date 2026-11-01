@@ -4,7 +4,7 @@ date: "2026-10-31"
 description: "Nearly every dish zestfully integrated acidity, salt, heat, bitterness, and sweetness and were clearly well prepared and well envisioned. We were excited to see what would come out next."
 coverImage: "https://thegourmez-wpmedia.s3.amazonaws.com/2026/10/valley-goat+(13).jpg"
 categories:
-- "eateries"
+- "restaurants"
 
 
 tags:
